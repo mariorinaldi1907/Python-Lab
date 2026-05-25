@@ -9,3 +9,4 @@ Topics rotate across: data structures, algorithms, math, simulations, design pat
 
 | Date | File | Description |
 |------|------|-------------|
+| 2026-05-25 | `bellman_ford_shortest_path.py_20260525_042906.py` | A complete implementation of the Bellman-Ford algorithm that finds shortest paths from a source vertex and detects negative weight cycles, demonstrating its advantage over Dijkstra's algorithm. |
