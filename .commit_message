@@ -1,1 +1,4 @@
-built a quick log parser that groups errors by type
+added 2 new scripts
+
+- built a Bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values
+- built a recursive descent parser for basic math expressions, handles +,-,*,/,^ and parentheses with proper precedence
