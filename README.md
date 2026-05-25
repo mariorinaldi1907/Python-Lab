@@ -1,10 +1,8 @@
-# Mario Rinaldi — Python Lab
+# Mario's Python Lab 🔬
 
-A collection of Python projects spanning algorithms, systems, simulations, and tooling.
-Built and maintained as part of my ongoing practice in computer science fundamentals and software engineering.
+A collection of Python projects I've been building — spanning algorithms, data structures, simulations and systems-level tools. Each one started as a problem I wanted to understand better or a concept I wanted to get hands-on with.
 
-> Topics I explore: data structures · algorithms · systems programming · simulations · design patterns · math & statistics
-
+> Mostly written in vanilla Python (stdlib only). I like the constraint — it forces you to actually understand what you're building instead of reaching for a library.
 
 ## Projects
 
