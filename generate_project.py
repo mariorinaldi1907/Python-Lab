@@ -1,8 +1,3 @@
-"""
-GitHub Auto-Commit: AI-Powered Python Project Generator
-Generates real, runnable Python mini-projects via Claude API
-and commits them to keep your GitHub contribution graph active.
-"""
 
 import anthropic
 import os
@@ -13,17 +8,13 @@ from datetime import datetime
 from pathlib import Path
 
 # ── Tuning knobs ─────────────────────────────────────────────────────────────
-# Each scheduled trigger has this % chance of actually committing.
-# Keeps the graph looking human (not every slot fires every day).
-COMMIT_PROBABILITY = 0.70
-
-# How many projects to generate per run (1–3 recommended)
-PROJECTS_PER_RUN = random.choice([1, 1, 1, 2, 2, 3])  # weighted toward 1-2
+COMMIT_PROBABILITY = 1.0   # set back to 0.70 after first successful test run
+PROJECTS_PER_RUN = random.choice([1, 1, 1, 2, 2, 3])
 # ─────────────────────────────────────────────────────────────────────────────
 
 PROJECT_CATEGORIES = [
     "a data structures implementation (e.g. trie, AVL tree, LRU cache, bloom filter, skip list)",
-    "an algorithm (e.g. Dijkstra, A*, KMP string search, Knuth-Morris-Pratt, topological sort)",
+    "an algorithm (e.g. Dijkstra, A*, KMP string search, topological sort, Bellman-Ford)",
     "a math/number theory utility (e.g. sieve of Eratosthenes, fast exponentiation, matrix ops)",
     "a text processing tool (e.g. tokenizer, Markov chain text generator, diff algorithm)",
     "a mini simulation (e.g. Conway's Game of Life, random walk, bouncing balls, epidemic model)",
@@ -32,44 +23,93 @@ PROJECT_CATEGORIES = [
     "a puzzle/game solver (e.g. Sudoku, N-Queens, maze generator, word ladder)",
     "a functional programming utility (e.g. lazy evaluation, monadic pipeline, memoization)",
     "a file/data parser (e.g. CSV analyzer, log parser, config file reader, JSON validator)",
-    "a mini interpreter or expression evaluator (e.g. RPN calc, simple expression parser)",
+    "a mini interpreter or expression evaluator (e.g. RPN calculator, simple expression parser)",
     "a graph algorithm (e.g. cycle detection, shortest path variants, minimum spanning tree)",
-    "a compression/encoding utility (e.g. run-length encoding, Huffman coding, base-N)",
+    "a compression/encoding utility (e.g. run-length encoding, Huffman coding, base-N encoder)",
     "a geometry/spatial utility (e.g. convex hull, point-in-polygon, rectangle packing)",
     "a concurrency pattern demo using threading or asyncio (e.g. producer-consumer, rate limiter)",
+    "a CLI tool that does something genuinely useful (file organizer, log summarizer, todo tracker)",
+    "a simple machine learning algorithm from scratch (e.g. k-means, linear regression, kNN)",
+    "a data pipeline utility (e.g. ETL script, data cleaner, schema validator)",
 ]
 
-SYSTEM_PROMPT = """You are a senior Python developer writing clean, idiomatic code.
-Generate real, working Python scripts that look like genuine developer work.
-Code should be well-structured, well-commented, and demonstrate good engineering practices."""
+# Authentic-sounding commit message styles a real developer would write
+COMMIT_STYLES = [
+    "casual",       # "been playing around with X, got it working"
+    "technical",    # "implement X with Y approach for better Z"
+    "reflective",   # "finally figured out why X was slow — switched to Y"
+    "iterative",    # "clean up X, add edge case handling"
+    "exploratory",  # "experimenting with X to see if it's faster than Y"
+]
+
+SYSTEM_PROMPT = """You are Mario, a university student and developer who codes for fun and learning.
+You write clean Python code and your commit messages sound like a real person — sometimes casual,
+sometimes technical, always genuine. Never robotic or overly formal."""
 
 
 def should_run() -> bool:
-    """Randomly decide whether to commit this run."""
     roll = random.random()
     print(f"[autocommit] Commit roll: {roll:.2f} (threshold: {COMMIT_PROBABILITY})")
     return roll < COMMIT_PROBABILITY
 
 
 def generate_project(client: anthropic.Anthropic, category: str) -> str:
-    """Call Claude API to generate a Python project."""
-    prompt = f"""Write a complete Python script implementing {category}.
+    """Call Claude API to generate a Python project with a personal commit style."""
+    style = random.choice(COMMIT_STYLES)
 
-Hard requirements:
-- 60–180 lines of code (excluding blank lines and comments)
-- Uses ONLY the Python standard library (no pip installs)
+    style_instructions = {
+        "casual": (
+            "Write the commit message casually, like you're talking to a friend. "
+            "Examples: 'got the LRU cache working finally', 'quick script to parse logs', "
+            "'been messing around with graph traversal'"
+        ),
+        "technical": (
+            "Write a clean technical commit message. "
+            "Examples: 'implement Dijkstra with min-heap for O((V+E) log V)', "
+            "'add bloom filter with configurable false positive rate'"
+        ),
+        "reflective": (
+            "Write a commit message that sounds like you learned something or fixed a bug. "
+            "Examples: 'turns out my original BFS was O(n²), rewrote it properly', "
+            "'finally understood how Huffman coding works, implemented it from scratch'"
+        ),
+        "iterative": (
+            "Write a commit message that sounds like you're improving existing work. "
+            "Examples: 'clean up the matrix class, add transpose and determinant', "
+            "'add better error handling to the CSV parser'"
+        ),
+        "exploratory": (
+            "Write a commit message that sounds experimental and curious. "
+            "Examples: 'playing with cellular automata, Conway rules implemented', "
+            "'trying out a Markov chain text generator — actually works pretty well'"
+        ),
+    }
+
+    prompt = f"""Write a complete, working Python script implementing {category}.
+
+The script should feel like something a developer named Mario genuinely built while learning or experimenting.
+
+Code requirements:
+- 60–180 lines (excluding blank lines and comments)
+- Uses ONLY Python standard library (no pip installs)
 - Every function/class has a docstring
-- Includes a `if __name__ == "__main__":` block that runs a real demo
-- The demo prints meaningful output to stdout
-- Code must be syntactically correct and runnable as-is
+- Has a `if __name__ == "__main__":` block with a real demo that prints meaningful output
+- Must be syntactically correct and runnable as-is
+- Comments should sound human, not robotic (occasional "# this is the tricky part" style notes are fine)
 
-Respond in EXACTLY this format (no extra text before or after):
+Commit message style: {style_instructions[style]}
+The commit message must NOT start with "feat:", "chore:", etc. — just write it naturally.
+Keep it under 72 characters. Lowercase. No period at the end.
+
+Description style: One casual sentence about what it does, like you'd tell a friend.
+
+Respond in EXACTLY this format (no extra text):
 
 FILENAME: <descriptive_snake_case_name>
-COMMIT_MESSAGE: <conventional commit, e.g. "feat: implement LRU cache with O(1) operations">
-DESCRIPTION: <one sentence, what it does and why it's interesting>
+COMMIT_MESSAGE: <natural human commit message>
+DESCRIPTION: <one casual sentence about what it does>
 CODE:
-<complete python source code here>"""
+<complete python source code>"""
 
     message = client.messages.create(
         model="claude-sonnet-4-5",
@@ -99,7 +139,6 @@ def parse_response(response: str) -> tuple[str, str, str, str]:
             code_lines.append(line)
 
     code = "\n".join(code_lines).strip()
-    # Strip markdown fences if Claude wrapped it
     if code.startswith("```"):
         code = "\n".join(code.split("\n")[1:])
     if code.endswith("```"):
@@ -109,7 +148,7 @@ def parse_response(response: str) -> tuple[str, str, str, str]:
 
 
 def run_script(filepath: Path) -> tuple[str, bool]:
-    """Run the generated script and return (output, success)."""
+    """Run the generated script and capture output."""
     try:
         result = subprocess.run(
             ["python", str(filepath)],
@@ -131,15 +170,16 @@ def update_readme(entries: list[dict]) -> None:
     readme = Path("README.md")
     if not readme.exists():
         readme.write_text(
-            "# 🐍 Python Lab\n\n"
-            "Auto-generated Python projects — algorithms, data structures, simulations & more.\n\n"
+            "# Python Lab\n\n"
+            "A collection of Python scripts I've built while learning — algorithms, "
+            "data structures, simulations, tools, and experiments.\n\n"
             "## Projects\n\n"
-            "| Date | File | Description |\n"
-            "|------|------|-------------|\n"
+            "| Date | File | What it does |\n"
+            "|------|------|--------------|\n"
         )
 
     content = readme.read_text()
-    table_marker = "| Date | File | Description |\n|------|------|-------------|\n"
+    table_marker = "| Date | File | What it does |\n|------|------|--------------|\n"
 
     new_rows = ""
     for e in entries:
@@ -149,7 +189,7 @@ def update_readme(entries: list[dict]) -> None:
     if table_marker in content:
         content = content.replace(table_marker, table_marker + new_rows)
     else:
-        content += f"\n\n## Projects\n\n| Date | File | Description |\n|------|------|-------------|\n{new_rows}"
+        content += f"\n\n## Projects\n\n| Date | File | What it does |\n|------|------|--------------|\n{new_rows}"
 
     readme.write_text(content)
 
@@ -157,7 +197,6 @@ def update_readme(entries: list[dict]) -> None:
 def main() -> None:
     if not should_run():
         print("[autocommit] Skipping this run — keeping cadence natural.")
-        # Write empty commit message so the workflow step exits cleanly
         Path(".commit_message").write_text("")
         sys.exit(0)
 
@@ -172,33 +211,29 @@ def main() -> None:
 
     generated = []
     commit_messages = []
-    selected_categories = random.sample(PROJECT_CATEGORIES, PROJECTS_PER_RUN)
+    selected_categories = random.sample(PROJECT_CATEGORIES, min(PROJECTS_PER_RUN, len(PROJECT_CATEGORIES)))
 
     for i, category in enumerate(selected_categories, 1):
-        print(f"\n[autocommit] Generating project {i}/{PROJECTS_PER_RUN}: {category[:60]}...")
+        print(f"\n[autocommit] Generating project {i}/{len(selected_categories)}: {category[:60]}...")
 
         try:
             response = generate_project(client, category)
             filename, commit_msg, description, code = parse_response(response)
 
             if not filename or not code:
-                print(f"[autocommit] Parse failed, skipping.")
+                print("[autocommit] Parse failed, skipping.")
                 continue
 
-            # Deduplicate filenames with timestamp
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             safe_filename = f"{filename}_{timestamp}.py"
             filepath = projects_dir / safe_filename
 
-            # Write the file
-            header = (
-                f'"""\nGenerated: {datetime.now().isoformat()}\nDescription: {description}\n"""\n\n'
-            )
+            # Write file with a human-style header comment
+            header = f"# {description}\n# written: {datetime.now().strftime('%Y-%m-%d')}\n\n"
             filepath.write_text(header + code)
 
-            # Run it to verify + show output
             output, success = run_script(filepath)
-            status = "✓ ran successfully" if success else "⚠ run had errors"
+            status = "✓ ran successfully" if success else "⚠ run had errors (keeping anyway)"
             print(f"[autocommit] {status}")
             print(f"[autocommit] Output preview: {output[:200]}")
 
@@ -214,15 +249,14 @@ def main() -> None:
         Path(".commit_message").write_text("")
         sys.exit(0)
 
-    # Update README
     update_readme(generated)
 
-    # Write combined commit message
+    # For multiple projects, combine messages naturally
     if len(commit_messages) == 1:
         final_message = commit_messages[0]
     else:
-        bullet_list = "\n".join(f"- {m}" for m in commit_messages)
-        final_message = f"feat: add {len(commit_messages)} new Python projects\n\n{bullet_list}"
+        # Pick the best one as the main message, list others as context
+        final_message = commit_messages[0] + "\n\nalso:\n" + "\n".join(f"- {m}" for m in commit_messages[1:])
 
     Path(".commit_message").write_text(final_message)
     print(f"\n[autocommit] Done! Committing {len(generated)} project(s).")
