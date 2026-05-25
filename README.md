@@ -11,3 +11,10 @@ Built and maintained as part of my ongoing practice in computer science fundamen
 
 | Date | Project | What I built |
 |------|---------|--------------|
+
+
+## Projects
+
+| Date | File | What it does |
+|------|------|--------------|
+| 2026-05-25 | `csv_data_pipeline.py_20260525_065447.py` | A little ETL tool I made that reads CSV data, validates it against a schema, cleans it up, and writes the results to a new file. |
