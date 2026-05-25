@@ -5,13 +5,6 @@ Built and maintained as part of my ongoing practice in computer science fundamen
 
 > Topics I explore: data structures · algorithms · systems programming · simulations · design patterns · math & statistics
 
----
-
-## Projects
-
-| Date | Project | What I built |
-|------|---------|--------------|
-
 
 ## Projects
 
