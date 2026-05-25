@@ -1,1 +1,4 @@
-feat: implement Bellman-Ford algorithm with negative cycle detection
+built a bootstrap resampler for confidence intervals
+
+also:
+- built a lazy stream thing after reading about haskell's infinite lists
