@@ -1,1 +1,1 @@
-build etl pipeline with schema validation and transform stages
+built a quick log parser that groups errors by type
