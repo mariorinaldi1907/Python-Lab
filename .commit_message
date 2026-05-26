@@ -1,1 +1,1 @@
-built a simple SIR epidemic model with spatial clustering, tracks infection waves over time
+implemented KMP string matching with preprocessing table, way faster than naive approach for repetitive patterns
