@@ -1,1 +1,1 @@
-implemented KMP string matching with preprocessing table, way faster than naive approach for repetitive patterns
+built a simple SIR epidemic model with configurable parameters, runs daily timesteps and prints infection curves

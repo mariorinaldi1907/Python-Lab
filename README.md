@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-26 | [Epidemic Sir Simulation 20260526 193512](projects/epidemic_sir_simulation.py_20260526_193512.py) | Implemented a basic SIR (Susceptible-Infected-Recovered) epidemic simulator to explore how diseases spread through populations with different transmission rates. |
 | 2026-05-26 | [Kmp String Search 20260526 171817](projects/kmp_string_search.py_20260526_171817.py) | Built the Knuth-Morris-Pratt algorithm for fast substring searching because I was curious how text editors do it efficiently. |
 | 2026-05-26 | [Epidemic Spread Simulator 20260526 050611](projects/epidemic_spread_simulator.py_20260526_050611.py) | Simulated disease spread on a 2D grid using the SIR model where people move randomly and infect nearby susceptible individuals — helps visualize how infection waves propagate. |
 | 2026-05-25 | [Bayesian Ab Tester 20260525 134527](projects/bayesian_ab_tester.py_20260525_134527.py) | Implemented a Bayesian A/B testing framework using conjugate priors to compare conversion rates and calculate probability of superiority. |
