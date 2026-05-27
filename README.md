@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-27 | [Lru Cache Implementation 20260527 165723](projects/lru_cache_implementation.py_20260527_165723.py) | Built an LRU cache to explore how caching strategies work under the hood — uses OrderedDict to maintain access order and evict least recently used items. |
+| 2026-05-27 | [Bootstrap Confidence Intervals 20260527 165756](projects/bootstrap_confidence_intervals.py_20260527_165756.py) | Built a bootstrapping module to estimate confidence intervals and compare samples without assuming normal distributions — been meaning to play with resampling methods for a while. |
 | 2026-05-27 | [Markov Chain Text Generator 20260527 135607](projects/markov_chain_text_generator.py_20260527_135607.py) | Implemented a Markov chain text generator with variable order n-grams — feeds on sample text and spits out statistically plausible gibberish. |
 | 2026-05-27 | [Kruskal Mst With Union Find 20260527 105331](projects/kruskal_mst_with_union_find.py_20260527_105331.py) | Built Kruskal's algorithm for finding minimum spanning trees using a union-find data structure with path compression and union by rank. |
 | 2026-05-27 | [Bootstrap Hypothesis Tester 20260527 051950](projects/bootstrap_hypothesis_tester.py_20260527_051950.py) | Implemented bootstrap resampling from scratch to estimate confidence intervals and run hypothesis tests without assuming normal distributions — way more robust than t-tests for weird data. |

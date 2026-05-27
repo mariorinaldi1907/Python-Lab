@@ -1,1 +1,4 @@
-built a markov chain text generator that actually produces readable nonsense, uses configurable n-gram order
+added 2 new scripts
+
+- implemented an LRU cache from scratch using OrderedDict, wanted to really understand how the eviction policy works
+- implemented bootstrap resampling with percentile CIs, threw in a basic two-sample test too
