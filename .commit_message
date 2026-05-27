@@ -1,1 +1,1 @@
-implemented Kruskal's MST with union-find, added path compression because why not optimize
+built a markov chain text generator that actually produces readable nonsense, uses configurable n-gram order
