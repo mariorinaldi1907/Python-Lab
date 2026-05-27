@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-27 | [Kruskal Mst With Union Find 20260527 105331](projects/kruskal_mst_with_union_find.py_20260527_105331.py) | Built Kruskal's algorithm for finding minimum spanning trees using a union-find data structure with path compression and union by rank. |
 | 2026-05-27 | [Bootstrap Hypothesis Tester 20260527 051950](projects/bootstrap_hypothesis_tester.py_20260527_051950.py) | Implemented bootstrap resampling from scratch to estimate confidence intervals and run hypothesis tests without assuming normal distributions — way more robust than t-tests for weird data. |
 | 2026-05-27 | [Rpn Calculator 20260527 024417](projects/rpn_calculator.py_20260527_024417.py) | Implemented a reverse polish notation calculator that handles basic arithmetic and variable assignment — wanted something cleaner than infix parsing for quick calculations. |
 | 2026-05-27 | [Lru Cache Implementation 20260527 024438](projects/lru_cache_implementation.py_20260527_024438.py) | Built an LRU cache with O(1) get/put operations to finally grok how @lru_cache actually works under the hood. |
