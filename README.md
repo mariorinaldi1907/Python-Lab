@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-27 | [Rpn Calculator 20260527 024417](projects/rpn_calculator.py_20260527_024417.py) | Implemented a reverse polish notation calculator that handles basic arithmetic and variable assignment — wanted something cleaner than infix parsing for quick calculations. |
+| 2026-05-27 | [Lru Cache Implementation 20260527 024438](projects/lru_cache_implementation.py_20260527_024438.py) | Built an LRU cache with O(1) get/put operations to finally grok how @lru_cache actually works under the hood. |
+| 2026-05-27 | [Task Scheduler Command Pattern 20260527 024507](projects/task_scheduler_command_pattern.py_20260527_024507.py) | Built a task scheduler using the command pattern to handle executable tasks with full undo/redo capability and command macros. |
 | 2026-05-26 | [Epidemic Sir Simulation 20260526 193512](projects/epidemic_sir_simulation.py_20260526_193512.py) | Implemented a basic SIR (Susceptible-Infected-Recovered) epidemic simulator to explore how diseases spread through populations with different transmission rates. |
 | 2026-05-26 | [Kmp String Search 20260526 171817](projects/kmp_string_search.py_20260526_171817.py) | Built the Knuth-Morris-Pratt algorithm for fast substring searching because I was curious how text editors do it efficiently. |
 | 2026-05-26 | [Epidemic Spread Simulator 20260526 050611](projects/epidemic_spread_simulator.py_20260526_050611.py) | Simulated disease spread on a 2D grid using the SIR model where people move randomly and infect nearby susceptible individuals — helps visualize how infection waves propagate. |

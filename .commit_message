@@ -1,1 +1,5 @@
-built a simple SIR epidemic model with configurable parameters, runs daily timesteps and prints infection curves
+added 3 new scripts
+
+- built an RPN calculator with stack-based evaluation, supports variables and multi-char tokens
+- implemented an LRU cache from scratch using OrderedDict, been wanting to understand how these work internally
+- implemented command pattern for a simple task scheduler, added undo/redo and macro support
