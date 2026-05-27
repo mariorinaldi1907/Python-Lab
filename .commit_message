@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented an LRU cache from scratch using OrderedDict, wanted to really understand how the eviction policy works
-- implemented bootstrap resampling with percentile CIs, threw in a basic two-sample test too
+- implemented myers diff algorithm for word-level text comparison, pretty happy with how the backtracking turned out
+- built a simple SIR epidemic model with ascii visualization, tweaked transmission params until it felt realistic

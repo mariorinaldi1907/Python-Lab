@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-27 | [Word Diff Tool 20260527 193804](projects/word_diff_tool.py_20260527_193804.py) | Built a word-level diff tool using the Myers algorithm because I got tired of character-by-character diffs being noisy — shows additions, deletions, and unchanged sections. |
+| 2026-05-27 | [Epidemic Sir Simulator 20260527 193830](projects/epidemic_sir_simulator.py_20260527_193830.py) | Simulated disease spread through a population using the SIR compartmental model — watching infection waves rise and fall is oddly mesmerizing. |
 | 2026-05-27 | [Lru Cache Implementation 20260527 165723](projects/lru_cache_implementation.py_20260527_165723.py) | Built an LRU cache to explore how caching strategies work under the hood — uses OrderedDict to maintain access order and evict least recently used items. |
 | 2026-05-27 | [Bootstrap Confidence Intervals 20260527 165756](projects/bootstrap_confidence_intervals.py_20260527_165756.py) | Built a bootstrapping module to estimate confidence intervals and compare samples without assuming normal distributions — been meaning to play with resampling methods for a while. |
 | 2026-05-27 | [Markov Chain Text Generator 20260527 135607](projects/markov_chain_text_generator.py_20260527_135607.py) | Implemented a Markov chain text generator with variable order n-grams — feeds on sample text and spits out statistically plausible gibberish. |
