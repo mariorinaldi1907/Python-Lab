@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-28 | [Word Ladder Bfs Solver 20260528 195441](projects/word_ladder_bfs_solver.py_20260528_195441.py) | Built a word ladder solver that finds the shortest transformation path between two words using BFS — throws in bidirectional search when the word list gets big. |
+| 2026-05-28 | [Lazy Pipeline 20260528 195508](projects/lazy_pipeline.py_20260528_195508.py) | Created a lazy evaluation pipeline that chains functions together without executing until needed, with built-in memoization because I got tired of recalculating expensive operations. |
 | 2026-05-28 | [Local Port Scanner 20260528 140920](projects/local_port_scanner.py_20260528_140920.py) | Wrote a multi-threaded port scanner to check which services are running on my local network — uses socket connections with configurable timeout and thread pooling. |
 | 2026-05-28 | [Nginx Log Parser 20260528 105222](projects/nginx_log_parser.py_20260528_105222.py) | Wrote a parser for nginx access logs that gives me quick insights into traffic patterns and flags potential security issues like brute force attempts. |
 | 2026-05-28 | [Rpn Calculator 20260528 051136](projects/rpn_calculator.py_20260528_051136.py) | Implemented a reverse Polish notation calculator because I wanted to understand stack-based evaluation better — handles operators, functions, and variable storage. |

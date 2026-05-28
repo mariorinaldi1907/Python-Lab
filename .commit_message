@@ -1,1 +1,4 @@
-built a threaded port scanner that actually respects timeouts and doesn't hang forever
+added 2 new scripts
+
+- implemented word ladder solver with BFS, added bidirectional search for speed
+- built a lazy evaluation pipeline with memoization - basically like Unix pipes but for Python functions
