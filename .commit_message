@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented myers diff algorithm for word-level text comparison, pretty happy with how the backtracking turned out
-- built a simple SIR epidemic model with ascii visualization, tweaked transmission params until it felt realistic
+- built an RPN calculator with stack-based evaluation, supports basic math and some functions
+- built a huffman coding compressor from scratch, encodes/decodes text with actual bit savings

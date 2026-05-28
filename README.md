@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-28 | [Rpn Calculator 20260528 051136](projects/rpn_calculator.py_20260528_051136.py) | Implemented a reverse Polish notation calculator because I wanted to understand stack-based evaluation better — handles operators, functions, and variable storage. |
+| 2026-05-28 | [Huffman Text Compressor 20260528 051203](projects/huffman_text_compressor.py_20260528_051203.py) | Implemented Huffman encoding to compress text by building frequency trees and generating variable-length codes — wanted to see real compression ratios on sample strings. |
 | 2026-05-27 | [Word Diff Tool 20260527 193804](projects/word_diff_tool.py_20260527_193804.py) | Built a word-level diff tool using the Myers algorithm because I got tired of character-by-character diffs being noisy — shows additions, deletions, and unchanged sections. |
 | 2026-05-27 | [Epidemic Sir Simulator 20260527 193830](projects/epidemic_sir_simulator.py_20260527_193830.py) | Simulated disease spread through a population using the SIR compartmental model — watching infection waves rise and fall is oddly mesmerizing. |
 | 2026-05-27 | [Lru Cache Implementation 20260527 165723](projects/lru_cache_implementation.py_20260527_165723.py) | Built an LRU cache to explore how caching strategies work under the hood — uses OrderedDict to maintain access order and evict least recently used items. |
