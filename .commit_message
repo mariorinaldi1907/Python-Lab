@@ -1,1 +1,1 @@
-built an nginx access log parser that extracts stats and detects suspicious patterns
+built a threaded port scanner that actually respects timeouts and doesn't hang forever
