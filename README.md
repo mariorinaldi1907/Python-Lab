@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-28 | [Nginx Log Parser 20260528 105222](projects/nginx_log_parser.py_20260528_105222.py) | Wrote a parser for nginx access logs that gives me quick insights into traffic patterns and flags potential security issues like brute force attempts. |
 | 2026-05-28 | [Rpn Calculator 20260528 051136](projects/rpn_calculator.py_20260528_051136.py) | Implemented a reverse Polish notation calculator because I wanted to understand stack-based evaluation better — handles operators, functions, and variable storage. |
 | 2026-05-28 | [Huffman Text Compressor 20260528 051203](projects/huffman_text_compressor.py_20260528_051203.py) | Implemented Huffman encoding to compress text by building frequency trees and generating variable-length codes — wanted to see real compression ratios on sample strings. |
 | 2026-05-27 | [Word Diff Tool 20260527 193804](projects/word_diff_tool.py_20260527_193804.py) | Built a word-level diff tool using the Myers algorithm because I got tired of character-by-character diffs being noisy — shows additions, deletions, and unchanged sections. |

@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built an RPN calculator with stack-based evaluation, supports basic math and some functions
-- built a huffman coding compressor from scratch, encodes/decodes text with actual bit savings
+built an nginx access log parser that extracts stats and detects suspicious patterns
