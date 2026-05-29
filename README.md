@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-29 | [Kmp String Search 20260529 051556](projects/kmp_string_search.py_20260529_051556.py) | Built the Knuth-Morris-Pratt algorithm from scratch to see how partial match tables eliminate redundant comparisons in pattern searching. |
+| 2026-05-29 | [Forest Fire Simulation 20260529 051624](projects/forest_fire_simulation.py_20260529_051624.py) | Simulating forest fires spreading across a grid with wind direction and probabilistic ignition because I wanted to see emergent behavior from simple rules. |
 | 2026-05-28 | [Word Ladder Bfs Solver 20260528 195441](projects/word_ladder_bfs_solver.py_20260528_195441.py) | Built a word ladder solver that finds the shortest transformation path between two words using BFS — throws in bidirectional search when the word list gets big. |
 | 2026-05-28 | [Lazy Pipeline 20260528 195508](projects/lazy_pipeline.py_20260528_195508.py) | Created a lazy evaluation pipeline that chains functions together without executing until needed, with built-in memoization because I got tired of recalculating expensive operations. |
 | 2026-05-28 | [Local Port Scanner 20260528 140920](projects/local_port_scanner.py_20260528_140920.py) | Wrote a multi-threaded port scanner to check which services are running on my local network — uses socket connections with configurable timeout and thread pooling. |

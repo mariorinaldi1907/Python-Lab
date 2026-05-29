@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented word ladder solver with BFS, added bidirectional search for speed
-- built a lazy evaluation pipeline with memoization - basically like Unix pipes but for Python functions
+- implemented KMP string matching because I wanted to actually understand how the failure function works
+- built a forest fire sim with spread probability and wind — watching patterns emerge is oddly satisfying
