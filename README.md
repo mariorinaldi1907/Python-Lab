@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-29 | [Naive Bayes Classifier 20260529 172509](projects/naive_bayes_classifier.py_20260529_172509.py) | Implemented a Naive Bayes classifier to understand probabilistic classification better — handles text and categorical features with smoothing to avoid zero probabilities. |
+| 2026-05-29 | [Modular Arithmetic Toolkit 20260529 172540](projects/modular_arithmetic_toolkit.py_20260529_172540.py) | I wanted a clean implementation of modular arithmetic operations I keep reusing, so I bundled modular exponentiation, extended GCD, and the Chinese Remainder Theorem into one script. |
 | 2026-05-29 | [Naive Bayes Classifier 20260529 134145](projects/naive_bayes_classifier.py_20260529_134145.py) | Implemented a Gaussian Naive Bayes classifier to really understand how probabilistic classification works under the hood. |
 | 2026-05-29 | [Bayesian Ab Test Analyzer 20260529 134219](projects/bayesian_ab_test_analyzer.py_20260529_134219.py) | Implemented a Bayesian A/B testing tool using conjugate priors because I wanted to actually understand what "probability of being better" means instead of just staring at p-values. |
 | 2026-05-29 | [Tarjan Scc Finder 20260529 104202](projects/tarjan_scc_finder.py_20260529_104202.py) | Built Tarjan's SCC algorithm from scratch to find cycles in directed graphs — really satisfying to see the stack-based approach work in practice. |
