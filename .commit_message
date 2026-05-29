@@ -1,1 +1,4 @@
-built a huffman coding compressor from scratch, handles encode/decode with pretty tree visualization
+added 2 new scripts
+
+- implemented Tarjan's algorithm for finding strongly connected components, been wanting to build this for a while
+- implemented command pattern for a tiny text editor with undo/redo support
