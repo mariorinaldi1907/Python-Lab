@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-29 | [Epidemic Sir Simulation 20260529 195429](projects/epidemic_sir_simulation.py_20260529_195429.py) | Simulated disease spread through a population using the SIR compartmental model — wanted to understand how infection and recovery rates affect outbreak dynamics. |
+| 2026-05-29 | [Huffman Text Compressor 20260529 195453](projects/huffman_text_compressor.py_20260529_195453.py) | Implemented Huffman coding to compress text files by building frequency trees and generating variable-length bit codes for characters. |
 | 2026-05-29 | [Naive Bayes Classifier 20260529 172509](projects/naive_bayes_classifier.py_20260529_172509.py) | Implemented a Naive Bayes classifier to understand probabilistic classification better — handles text and categorical features with smoothing to avoid zero probabilities. |
 | 2026-05-29 | [Modular Arithmetic Toolkit 20260529 172540](projects/modular_arithmetic_toolkit.py_20260529_172540.py) | I wanted a clean implementation of modular arithmetic operations I keep reusing, so I bundled modular exponentiation, extended GCD, and the Chinese Remainder Theorem into one script. |
 | 2026-05-29 | [Naive Bayes Classifier 20260529 134145](projects/naive_bayes_classifier.py_20260529_134145.py) | Implemented a Gaussian Naive Bayes classifier to really understand how probabilistic classification works under the hood. |

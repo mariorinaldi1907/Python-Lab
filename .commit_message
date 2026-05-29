@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built naive bayes from scratch with laplace smoothing, tested on simple text classification
-- built a modular arithmetic toolkit with fast exponentiation, extended euclidean, and CRT solver
+- built a SIR epidemic model with configurable transmission rates and recovery times, prints daily stats
+- built a huffman encoder from scratch, handles text compression with frequency trees and bit packing
