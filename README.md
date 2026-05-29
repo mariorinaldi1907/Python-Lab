@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-29 | [Naive Bayes Classifier 20260529 134145](projects/naive_bayes_classifier.py_20260529_134145.py) | Implemented a Gaussian Naive Bayes classifier to really understand how probabilistic classification works under the hood. |
+| 2026-05-29 | [Bayesian Ab Test Analyzer 20260529 134219](projects/bayesian_ab_test_analyzer.py_20260529_134219.py) | Implemented a Bayesian A/B testing tool using conjugate priors because I wanted to actually understand what "probability of being better" means instead of just staring at p-values. |
 | 2026-05-29 | [Tarjan Scc Finder 20260529 104202](projects/tarjan_scc_finder.py_20260529_104202.py) | Built Tarjan's SCC algorithm from scratch to find cycles in directed graphs — really satisfying to see the stack-based approach work in practice. |
 | 2026-05-29 | [Command Pattern Text Editor 20260529 104227](projects/command_pattern_text_editor.py_20260529_104227.py) | Built a simple text editor using the command pattern to handle operations like insert, delete, and replace with full undo/redo functionality. |
 | 2026-05-29 | [Huffman Text Compressor 20260529 080302](projects/huffman_text_compressor.py_20260529_080302.py) | Implemented Huffman coding to compress text by building optimal prefix-free binary trees — included a visual tree printer because I wanted to see the structure. |

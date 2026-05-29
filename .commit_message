@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented Tarjan's algorithm for finding strongly connected components, been wanting to build this for a while
-- implemented command pattern for a tiny text editor with undo/redo support
+- built a naive bayes classifier from scratch, handles continuous features with gaussian distribution
+- built a bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values
