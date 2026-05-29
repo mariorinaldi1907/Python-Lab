@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-29 | [Huffman Text Compressor 20260529 080302](projects/huffman_text_compressor.py_20260529_080302.py) | Implemented Huffman coding to compress text by building optimal prefix-free binary trees — included a visual tree printer because I wanted to see the structure. |
 | 2026-05-29 | [Kmp String Search 20260529 051556](projects/kmp_string_search.py_20260529_051556.py) | Built the Knuth-Morris-Pratt algorithm from scratch to see how partial match tables eliminate redundant comparisons in pattern searching. |
 | 2026-05-29 | [Forest Fire Simulation 20260529 051624](projects/forest_fire_simulation.py_20260529_051624.py) | Simulating forest fires spreading across a grid with wind direction and probabilistic ignition because I wanted to see emergent behavior from simple rules. |
 | 2026-05-28 | [Word Ladder Bfs Solver 20260528 195441](projects/word_ladder_bfs_solver.py_20260528_195441.py) | Built a word ladder solver that finds the shortest transformation path between two words using BFS — throws in bidirectional search when the word list gets big. |

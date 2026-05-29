@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented KMP string matching because I wanted to actually understand how the failure function works
-- built a forest fire sim with spread probability and wind — watching patterns emerge is oddly satisfying
+built a huffman coding compressor from scratch, handles encode/decode with pretty tree visualization
