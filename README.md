@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-30 | [Lru Cache Implementation 20260530 091251](projects/lru_cache_implementation.py_20260530_091251.py) | Implemented an LRU (Least Recently Used) cache with O(1) get/put operations using a dictionary and doubly linked list — helps me understand caching strategies better. |
 | 2026-05-30 | [Command Pattern Text Editor 20260530 065152](projects/command_pattern_text_editor.py_20260530_065152.py) | Built a text editor using the command pattern to handle undo/redo functionality cleanly, something I've always wanted to explore after dealing with messy state management in other projects. |
 | 2026-05-30 | [Simple Expr Evaluator 20260530 065215](projects/simple_expr_evaluator.py_20260530_065215.py) | Wrote an expression evaluator that parses and computes arithmetic with proper precedence — way cleaner than regex hacks. |
 | 2026-05-30 | [Word Frequency Markov Chain 20260530 045432](projects/word_frequency_markov_chain.py_20260530_045432.py) | Created a Markov chain text generator that also does word frequency analysis — wanted something fun to mess around with for generating pseudo-coherent sentences from sample text. |

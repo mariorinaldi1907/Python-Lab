@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented command pattern for a mini text editor with undo/redo — makes it super easy to add new operations
-- built a recursive descent parser for basic math expressions, supports parens and operator precedence
+built an LRU cache from scratch using a hashmap + doubly linked list, wanted to understand how functools.lru_cache actually works under the hood
