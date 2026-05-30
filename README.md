@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-30 | [Huffman Text Compressor 20260530 145757](projects/huffman_text_compressor.py_20260530_145757.py) | Implemented Huffman coding with binary tree construction and bit-level encoding — wanted to see how much I could squeeze out of plain text files. |
+| 2026-05-30 | [Async Rate Limiter Demo 20260530 145822](projects/async_rate_limiter_demo.py_20260530_145822.py) | Created a token bucket rate limiter using asyncio to demonstrate controlled concurrency and rate limiting for async tasks. |
+| 2026-05-30 | [Kmp Pattern Search 20260530 145908](projects/kmp_pattern_search.py_20260530_145908.py) | Built the Knuth-Morris-Pratt algorithm for fast substring matching — wanted to actually understand how the prefix table works instead of just reading about it. |
 | 2026-05-30 | [Lru Cache Implementation 20260530 091251](projects/lru_cache_implementation.py_20260530_091251.py) | Implemented an LRU (Least Recently Used) cache with O(1) get/put operations using a dictionary and doubly linked list — helps me understand caching strategies better. |
 | 2026-05-30 | [Command Pattern Text Editor 20260530 065152](projects/command_pattern_text_editor.py_20260530_065152.py) | Built a text editor using the command pattern to handle undo/redo functionality cleanly, something I've always wanted to explore after dealing with messy state management in other projects. |
 | 2026-05-30 | [Simple Expr Evaluator 20260530 065215](projects/simple_expr_evaluator.py_20260530_065215.py) | Wrote an expression evaluator that parses and computes arithmetic with proper precedence — way cleaner than regex hacks. |
