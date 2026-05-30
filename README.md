@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-30 | [Word Frequency Markov Chain 20260530 045432](projects/word_frequency_markov_chain.py_20260530_045432.py) | Created a Markov chain text generator that also does word frequency analysis — wanted something fun to mess around with for generating pseudo-coherent sentences from sample text. |
 | 2026-05-29 | [Epidemic Sir Simulation 20260529 195429](projects/epidemic_sir_simulation.py_20260529_195429.py) | Simulated disease spread through a population using the SIR compartmental model — wanted to understand how infection and recovery rates affect outbreak dynamics. |
 | 2026-05-29 | [Huffman Text Compressor 20260529 195453](projects/huffman_text_compressor.py_20260529_195453.py) | Implemented Huffman coding to compress text files by building frequency trees and generating variable-length bit codes for characters. |
 | 2026-05-29 | [Naive Bayes Classifier 20260529 172509](projects/naive_bayes_classifier.py_20260529_172509.py) | Implemented a Naive Bayes classifier to understand probabilistic classification better — handles text and categorical features with smoothing to avoid zero probabilities. |
