@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-30 | [Epidemic Spread Simulator 20260530 184203](projects/epidemic_spread_simulator.py_20260530_184203.py) | Implemented a spatial epidemic simulator where agents move randomly on a grid and transition through Susceptible→Exposed→Infected→Recovered states with configurable parameters. |
+| 2026-05-30 | [Command Pattern Text Editor 20260530 184228](projects/command_pattern_text_editor.py_20260530_184228.py) | Built a mini text editor using the command pattern to handle undo/redo operations, because I always wanted to see how real editors implement this under the hood. |
 | 2026-05-30 | [Huffman Text Compressor 20260530 145757](projects/huffman_text_compressor.py_20260530_145757.py) | Implemented Huffman coding with binary tree construction and bit-level encoding — wanted to see how much I could squeeze out of plain text files. |
 | 2026-05-30 | [Async Rate Limiter Demo 20260530 145822](projects/async_rate_limiter_demo.py_20260530_145822.py) | Created a token bucket rate limiter using asyncio to demonstrate controlled concurrency and rate limiting for async tasks. |
 | 2026-05-30 | [Kmp Pattern Search 20260530 145908](projects/kmp_pattern_search.py_20260530_145908.py) | Built the Knuth-Morris-Pratt algorithm for fast substring matching — wanted to actually understand how the prefix table works instead of just reading about it. |

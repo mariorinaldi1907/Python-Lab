@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- built a Huffman encoder/decoder from scratch, handles arbitrary text and shows compression stats
-- built an asyncio rate limiter with token bucket algorithm, handles burst traffic nicely
-- implemented KMP string matching because I was tired of writing O(n*m) brute force searches
+- built a simple SEIR epidemic model with random movement on a 2D grid, prints daily stats
+- implemented command pattern for an undo/redo text editor — feels good to finally use this pattern properly
