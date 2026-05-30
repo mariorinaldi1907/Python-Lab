@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-30 | [Command Pattern Text Editor 20260530 065152](projects/command_pattern_text_editor.py_20260530_065152.py) | Built a text editor using the command pattern to handle undo/redo functionality cleanly, something I've always wanted to explore after dealing with messy state management in other projects. |
+| 2026-05-30 | [Simple Expr Evaluator 20260530 065215](projects/simple_expr_evaluator.py_20260530_065215.py) | Wrote an expression evaluator that parses and computes arithmetic with proper precedence — way cleaner than regex hacks. |
 | 2026-05-30 | [Word Frequency Markov Chain 20260530 045432](projects/word_frequency_markov_chain.py_20260530_045432.py) | Created a Markov chain text generator that also does word frequency analysis — wanted something fun to mess around with for generating pseudo-coherent sentences from sample text. |
 | 2026-05-29 | [Epidemic Sir Simulation 20260529 195429](projects/epidemic_sir_simulation.py_20260529_195429.py) | Simulated disease spread through a population using the SIR compartmental model — wanted to understand how infection and recovery rates affect outbreak dynamics. |
 | 2026-05-29 | [Huffman Text Compressor 20260529 195453](projects/huffman_text_compressor.py_20260529_195453.py) | Implemented Huffman coding to compress text files by building frequency trees and generating variable-length bit codes for characters. |
