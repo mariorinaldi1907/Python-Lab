@@ -1,1 +1,4 @@
-built a reverse polish notation calculator with variable support and basic error handling
+added 2 new scripts
+
+- built a CLI word frequency analyzer with multiple output formats and stopword filtering
+- implemented huffman coding from scratch, handles arbitrary text and shows compression stats
