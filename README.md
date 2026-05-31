@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-31 | [Forest Fire Simulation 20260531 150908](projects/forest_fire_simulation.py_20260531_150908.py) | Created a cellular automaton simulating wildfire spread across a forest grid with wind effects, density variations, and real-time ASCII visualization. |
 | 2026-05-31 | [Word Frequency Analyzer 20260531 094633](projects/word_frequency_analyzer.py_20260531_094633.py) | Created a word frequency counter that can process text files or stdin, filter common words, and output results as plain text, JSON, or CSV — helps me analyze writing patterns in my docs. |
 | 2026-05-31 | [Huffman Text Compressor 20260531 094659](projects/huffman_text_compressor.py_20260531_094659.py) | Built a Huffman compression utility to see how much I could squeeze out of text files using variable-length prefix codes. |
 | 2026-05-31 | [Rpn Calculator 20260531 074938](projects/rpn_calculator.py_20260531_074938.py) | Implemented an RPN calculator that handles basic arithmetic, variables, and stack operations — spent way too much time getting the error messages right. |

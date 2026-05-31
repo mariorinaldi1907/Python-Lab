@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a CLI word frequency analyzer with multiple output formats and stopword filtering
-- implemented huffman coding from scratch, handles arbitrary text and shows compression stats
+built a forest fire simulator with wind direction and firebreak mechanics — watching patterns emerge is oddly satisfying
