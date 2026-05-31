@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-05-31 | [Rpn Calculator 20260531 074938](projects/rpn_calculator.py_20260531_074938.py) | Implemented an RPN calculator that handles basic arithmetic, variables, and stack operations — spent way too much time getting the error messages right. |
 | 2026-05-31 | [Nginx Log Parser 20260531 052152](projects/nginx_log_parser.py_20260531_052152.py) | Created a parser for nginx access logs that computes request stats, identifies potential attack patterns, and groups data by endpoint — helps me monitor my personal server. |
 | 2026-05-30 | [Epidemic Spread Simulator 20260530 184203](projects/epidemic_spread_simulator.py_20260530_184203.py) | Implemented a spatial epidemic simulator where agents move randomly on a grid and transition through Susceptible→Exposed→Infected→Recovered states with configurable parameters. |
 | 2026-05-30 | [Command Pattern Text Editor 20260530 184228](projects/command_pattern_text_editor.py_20260530_184228.py) | Built a mini text editor using the command pattern to handle undo/redo operations, because I always wanted to see how real editors implement this under the hood. |
