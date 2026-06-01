@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-01 | [Word Ladder Solver 20260601 162046](projects/word_ladder_solver.py_20260601_162046.py) | Implemented a word ladder puzzle solver using bidirectional breadth-first search to find the shortest path between two words by changing one letter at a time. |
 | 2026-06-01 | [Modular Arithmetic Toolkit 20260601 123357](projects/modular_arithmetic_toolkit.py_20260601_123357.py) | Created a collection of number theory functions I keep needing for cryptography experiments and competitive programming — handles modular exponentiation, multiplicative inverse, and Chinese Remainder Theorem. |
 | 2026-06-01 | [Async Rate Limiter Demo 20260601 123421](projects/async_rate_limiter_demo.py_20260601_123421.py) | Implemented a token bucket rate limiter using asyncio to demonstrate controlled concurrency with bursting — useful for API calls or resource throttling. |
 | 2026-06-01 | [Fast Modular Arithmetic 20260601 093200](projects/fast_modular_arithmetic.py_20260601_093200.py) | Built a modular arithmetic toolkit with fast exponentiation and matrix operations — wanted something for RSA experiments and Fibonacci tricks. |

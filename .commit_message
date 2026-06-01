@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a modular arithmetic toolkit with fast exponentiation, inverse, and CRT solver
-- built an async rate limiter with token bucket algorithm, handles bursts and backpressure nicely
+built a bidirectional BFS word ladder solver, handles edge cases and generates shortest transformation chains
