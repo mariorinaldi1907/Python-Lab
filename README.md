@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-01 | [Nginx Log Parser 20260601 060719](projects/nginx_log_parser.py_20260601_060719.py) | Created a parser for nginx access logs that breaks down traffic by status code, identifies potential bot traffic, and flags suspicious request patterns like directory traversal attempts. |
 | 2026-05-31 | [Forest Fire Simulation 20260531 150908](projects/forest_fire_simulation.py_20260531_150908.py) | Created a cellular automaton simulating wildfire spread across a forest grid with wind effects, density variations, and real-time ASCII visualization. |
 | 2026-05-31 | [Word Frequency Analyzer 20260531 094633](projects/word_frequency_analyzer.py_20260531_094633.py) | Created a word frequency counter that can process text files or stdin, filter common words, and output results as plain text, JSON, or CSV — helps me analyze writing patterns in my docs. |
 | 2026-05-31 | [Huffman Text Compressor 20260531 094659](projects/huffman_text_compressor.py_20260531_094659.py) | Built a Huffman compression utility to see how much I could squeeze out of text files using variable-length prefix codes. |
