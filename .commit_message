@@ -1,1 +1,5 @@
-built an nginx access log parser that extracts stats and identifies suspicious patterns
+added 3 new scripts
+
+- implemented fast modular exponentiation and modular matrix multiplication for crypto practice
+- wrote an nginx access log parser that extracts request patterns and response stats
+- built an async rate limiter with token bucket algorithm, throttles concurrent API calls nicely

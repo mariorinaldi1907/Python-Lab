@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-01 | [Fast Modular Arithmetic 20260601 093200](projects/fast_modular_arithmetic.py_20260601_093200.py) | Built a modular arithmetic toolkit with fast exponentiation and matrix operations — wanted something for RSA experiments and Fibonacci tricks. |
+| 2026-06-01 | [Nginx Log Parser 20260601 093233](projects/nginx_log_parser.py_20260601_093233.py) | Built a parser for nginx access logs that breaks down traffic by endpoint, method, and status code — helps me understand my server usage patterns without opening Splunk. |
+| 2026-06-01 | [Async Rate Limiter Demo 20260601 093301](projects/async_rate_limiter_demo.py_20260601_093301.py) | Implemented a token bucket rate limiter using asyncio to demonstrate how to throttle concurrent requests without blocking — useful for API integrations. |
 | 2026-06-01 | [Nginx Log Parser 20260601 060719](projects/nginx_log_parser.py_20260601_060719.py) | Created a parser for nginx access logs that breaks down traffic by status code, identifies potential bot traffic, and flags suspicious request patterns like directory traversal attempts. |
 | 2026-05-31 | [Forest Fire Simulation 20260531 150908](projects/forest_fire_simulation.py_20260531_150908.py) | Created a cellular automaton simulating wildfire spread across a forest grid with wind effects, density variations, and real-time ASCII visualization. |
 | 2026-05-31 | [Word Frequency Analyzer 20260531 094633](projects/word_frequency_analyzer.py_20260531_094633.py) | Created a word frequency counter that can process text files or stdin, filter common words, and output results as plain text, JSON, or CSV — helps me analyze writing patterns in my docs. |
