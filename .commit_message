@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- implemented fast modular exponentiation and modular matrix multiplication for crypto practice
-- wrote an nginx access log parser that extracts request patterns and response stats
-- built an async rate limiter with token bucket algorithm, throttles concurrent API calls nicely
+- built a modular arithmetic toolkit with fast exponentiation, inverse, and CRT solver
+- built an async rate limiter with token bucket algorithm, handles bursts and backpressure nicely

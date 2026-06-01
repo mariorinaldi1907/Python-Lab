@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-01 | [Modular Arithmetic Toolkit 20260601 123357](projects/modular_arithmetic_toolkit.py_20260601_123357.py) | Created a collection of number theory functions I keep needing for cryptography experiments and competitive programming — handles modular exponentiation, multiplicative inverse, and Chinese Remainder Theorem. |
+| 2026-06-01 | [Async Rate Limiter Demo 20260601 123421](projects/async_rate_limiter_demo.py_20260601_123421.py) | Implemented a token bucket rate limiter using asyncio to demonstrate controlled concurrency with bursting — useful for API calls or resource throttling. |
 | 2026-06-01 | [Fast Modular Arithmetic 20260601 093200](projects/fast_modular_arithmetic.py_20260601_093200.py) | Built a modular arithmetic toolkit with fast exponentiation and matrix operations — wanted something for RSA experiments and Fibonacci tricks. |
 | 2026-06-01 | [Nginx Log Parser 20260601 093233](projects/nginx_log_parser.py_20260601_093233.py) | Built a parser for nginx access logs that breaks down traffic by endpoint, method, and status code — helps me understand my server usage patterns without opening Splunk. |
 | 2026-06-01 | [Async Rate Limiter Demo 20260601 093301](projects/async_rate_limiter_demo.py_20260601_093301.py) | Implemented a token bucket rate limiter using asyncio to demonstrate how to throttle concurrent requests without blocking — useful for API integrations. |
