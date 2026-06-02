@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-02 | [Markov Text Generator 20260602 111507](projects/markov_text_generator.py_20260602_111507.py) | Implemented a Markov chain text generator that can learn from any text corpus and generate new text with adjustable randomness and chain order. |
+| 2026-06-02 | [Command Pattern Text Editor 20260602 111532](projects/command_pattern_text_editor.py_20260602_111532.py) | Built a text editor using the command pattern to handle operations like insert, delete, and replace with full undo/redo functionality — helps me understand reversible actions better. |
+| 2026-06-02 | [Nginx Log Parser 20260602 111604](projects/nginx_log_parser.py_20260602_111604.py) | Wrote a parser for nginx access logs that breaks down requests by status code, finds slow endpoints, and flags potential bot traffic. |
 | 2026-06-01 | [Word Ladder Solver 20260601 162046](projects/word_ladder_solver.py_20260601_162046.py) | Implemented a word ladder puzzle solver using bidirectional breadth-first search to find the shortest path between two words by changing one letter at a time. |
 | 2026-06-01 | [Modular Arithmetic Toolkit 20260601 123357](projects/modular_arithmetic_toolkit.py_20260601_123357.py) | Created a collection of number theory functions I keep needing for cryptography experiments and competitive programming — handles modular exponentiation, multiplicative inverse, and Chinese Remainder Theorem. |
 | 2026-06-01 | [Async Rate Limiter Demo 20260601 123421](projects/async_rate_limiter_demo.py_20260601_123421.py) | Implemented a token bucket rate limiter using asyncio to demonstrate controlled concurrency with bursting — useful for API calls or resource throttling. |

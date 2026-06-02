@@ -1,1 +1,5 @@
-built a bidirectional BFS word ladder solver, handles edge cases and generates shortest transformation chains
+added 3 new scripts
+
+- built a markov chain text generator with configurable n-gram order, uses proper state management and handles edge cases
+- implemented command pattern for a simple text editor with undo/redo support
+- built an nginx access log parser that extracts metrics and finds suspicious patterns
