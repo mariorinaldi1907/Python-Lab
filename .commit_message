@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- built a markov chain text generator with configurable n-gram order, uses proper state management and handles edge cases
-- implemented command pattern for a simple text editor with undo/redo support
-- built an nginx access log parser that extracts metrics and finds suspicious patterns
+- built a bootstrap resampling module with confidence intervals, wanted something lightweight for A/B test analysis
+- implemented naive bayes from scratch with laplace smoothing, actually works on text classification
