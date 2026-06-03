@@ -1,1 +1,1 @@
-built a threaded port scanner that actually respects timeouts and doesn't hang forever
+built a lightweight JSON schema validator from scratch, supports nested objects and basic type constraints
