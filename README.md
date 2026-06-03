@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-03 | [Multi Port Scanner 20260603 085950](projects/multi_port_scanner.py_20260603_085950.py) | Wrote a concurrent port scanner with configurable threading because I got tired of waiting for nmap when I just need to check if a few services are up. |
 | 2026-06-02 | [Bootstrap Confidence Intervals 20260602 175854](projects/bootstrap_confidence_intervals.py_20260602_175854.py) | Implemented bootstrap resampling with configurable CIs and percentile methods — helpful for when I need quick statistical inference without assumptions about distributions. |
 | 2026-06-02 | [Naive Bayes Classifier 20260602 175928](projects/naive_bayes_classifier.py_20260602_175928.py) | Built a Naive Bayes classifier to understand probabilistic ML better — handles discrete features and includes smoothing to avoid zero probabilities. |
 | 2026-06-02 | [Markov Text Generator 20260602 111507](projects/markov_text_generator.py_20260602_111507.py) | Implemented a Markov chain text generator that can learn from any text corpus and generate new text with adjustable randomness and chain order. |

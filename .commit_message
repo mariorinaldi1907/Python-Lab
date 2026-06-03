@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a bootstrap resampling module with confidence intervals, wanted something lightweight for A/B test analysis
-- implemented naive bayes from scratch with laplace smoothing, actually works on text classification
+built a threaded port scanner that actually respects timeouts and doesn't hang forever
