@@ -1,1 +1,5 @@
-built a lightweight JSON schema validator from scratch, supports nested objects and basic type constraints
+added 3 new scripts
+
+- built a CSV analyzer that calculates column stats and detects data types automatically
+- built a concurrent port scanner using threading, way faster than sequential checks
+- implemented an LRU cache with O(1) operations using dict + doubly linked list
