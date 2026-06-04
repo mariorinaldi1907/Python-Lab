@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built an adaptive rate limiter with token bucket — throttles requests dynamically and shows real-time stats
-- implemented Tarjan's algorithm for finding strongly connected components, been meaning to write this for ages
+implemented huffman coding from scratch, builds tree and encodes/decodes text with actual bit savings
