@@ -1,1 +1,5 @@
-built a function pipeline system with lazy evaluation and auto-currying, pretty happy with how composable it turned out
+added 3 new scripts
+
+- built an async rate limiter with token bucket algorithm, handles bursts and multiple workers cleanly
+- built a word frequency analyzer CLI that handles stopwords and actually sorts results properly
+- built an nginx access log parser that groups stats by endpoint and status code
