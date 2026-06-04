@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- implemented word ladder solver with bidirectional BFS, way faster than I expected on large dictionaries
-- built a naive bayes classifier from scratch, trained it on iris-like data and got decent accuracy
-- built a modular arithmetic toolkit with fast exponentiation, modular inverse, and CRT solver — pretty useful for cryptography stuff
+- built an adaptive rate limiter with token bucket — throttles requests dynamically and shows real-time stats
+- implemented Tarjan's algorithm for finding strongly connected components, been meaning to write this for ages

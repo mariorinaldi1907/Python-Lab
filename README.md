@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-04 | [Adaptive Rate Limiter Demo 20260604 133800](projects/adaptive_rate_limiter_demo.py_20260604_133800.py) | Created a token bucket rate limiter using threading to demo how I'd throttle API calls in production — refills tokens over time and tracks success/denied rates. |
+| 2026-06-04 | [Tarjan Scc Finder 20260604 133836](projects/tarjan_scc_finder.py_20260604_133836.py) | Built Tarjan's SCC algorithm from scratch because I needed to understand how cycle detection works in directed graphs at a deeper level. |
 | 2026-06-04 | [Word Ladder Bfs Solver 20260604 103708](projects/word_ladder_bfs_solver.py_20260604_103708.py) | Built a word ladder puzzle solver that finds the shortest transformation path between two words using bidirectional BFS — fun excuse to optimize graph search. |
 | 2026-06-04 | [Naive Bayes Classifier 20260604 103737](projects/naive_bayes_classifier.py_20260604_103737.py) | Implemented a Gaussian Naive Bayes classifier to understand how probabilistic classification works under the hood — no sklearn needed. |
 | 2026-06-04 | [Modular Arithmetic Toolkit 20260604 103803](projects/modular_arithmetic_toolkit.py_20260604_103803.py) | Created a collection of modular arithmetic utilities including fast modular exponentiation, extended Euclidean algorithm, and Chinese Remainder Theorem solver since I keep needing these for crypto challenges. |
