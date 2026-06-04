@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-04 | [Word Ladder Bfs Solver 20260604 103708](projects/word_ladder_bfs_solver.py_20260604_103708.py) | Built a word ladder puzzle solver that finds the shortest transformation path between two words using bidirectional BFS — fun excuse to optimize graph search. |
+| 2026-06-04 | [Naive Bayes Classifier 20260604 103737](projects/naive_bayes_classifier.py_20260604_103737.py) | Implemented a Gaussian Naive Bayes classifier to understand how probabilistic classification works under the hood — no sklearn needed. |
+| 2026-06-04 | [Modular Arithmetic Toolkit 20260604 103803](projects/modular_arithmetic_toolkit.py_20260604_103803.py) | Created a collection of modular arithmetic utilities including fast modular exponentiation, extended Euclidean algorithm, and Chinese Remainder Theorem solver since I keep needing these for crypto challenges. |
 | 2026-06-04 | [Async Rate Limiter Demo 20260604 082417](projects/async_rate_limiter_demo.py_20260604_082417.py) | Implemented a token bucket rate limiter using asyncio to explore controlled concurrency — supports burst handling and demonstrates multiple workers competing for limited resources. |
 | 2026-06-04 | [Word Frequency Analyzer 20260604 082454](projects/word_frequency_analyzer.py_20260604_082454.py) | Created a word frequency counter that processes text files with optional stopword filtering and configurable output limits — helps me analyze writing patterns in my markdown notes. |
 | 2026-06-04 | [Nginx Log Parser 20260604 082526](projects/nginx_log_parser.py_20260604_082526.py) | Wrote a parser for nginx access logs because I got tired of manually grep'ing through logs to find error patterns and slow endpoints. |

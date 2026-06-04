@@ -1,5 +1,5 @@
 added 3 new scripts
 
-- built an async rate limiter with token bucket algorithm, handles bursts and multiple workers cleanly
-- built a word frequency analyzer CLI that handles stopwords and actually sorts results properly
-- built an nginx access log parser that groups stats by endpoint and status code
+- implemented word ladder solver with bidirectional BFS, way faster than I expected on large dictionaries
+- built a naive bayes classifier from scratch, trained it on iris-like data and got decent accuracy
+- built a modular arithmetic toolkit with fast exponentiation, modular inverse, and CRT solver — pretty useful for cryptography stuff
