@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-04 | [Function Pipeline 20260604 055905](projects/function_pipeline.py_20260604_055905.py) | Created a functional programming toolkit that lets me chain operations lazily and auto-curry functions — makes data transformations way cleaner. |
 | 2026-06-03 | [Csv Stats Analyzer 20260603 181525](projects/csv_stats_analyzer.py_20260603_181525.py) | Made a quick CSV statistics tool that figures out column types, computes summary stats, and flags potential data quality issues — useful for exploring new datasets. |
 | 2026-06-03 | [Async Port Scanner 20260603 181547](projects/async_port_scanner.py_20260603_181547.py) | Created a multi-threaded port scanner that can check common ports on any host — helps me debug network issues on my homelab. |
 | 2026-06-03 | [Lru Cache Implementation 20260603 181610](projects/lru_cache_implementation.py_20260603_181610.py) | Built an LRU cache from scratch to practice hash map + linked list combo — supports get/put with automatic eviction when capacity is hit. |

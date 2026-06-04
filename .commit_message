@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- built a CSV analyzer that calculates column stats and detects data types automatically
-- built a concurrent port scanner using threading, way faster than sequential checks
-- implemented an LRU cache with O(1) operations using dict + doubly linked list
+built a function pipeline system with lazy evaluation and auto-currying, pretty happy with how composable it turned out
