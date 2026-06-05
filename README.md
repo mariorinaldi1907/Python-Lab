@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-05 | [Convex Hull Gift Wrapping 20260605 081225](projects/convex_hull_gift_wrapping.py_20260605_081225.py) | Built a convex hull finder using the gift wrapping (Jarvis march) algorithm — seemed like a fun way to brush up on computational geometry basics. |
+| 2026-06-05 | [Log Analyzer 20260605 081257](projects/log_analyzer.py_20260605_081257.py) | Created a command-line tool to parse and analyze log files with regex patterns, giving me quick insights into error rates and time distributions. |
+| 2026-06-05 | [Epidemic Sir Simulation 20260605 081324](projects/epidemic_sir_simulation.py_20260605_081324.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic simulator that shows how infections propagate through a grid-based population over time. |
 | 2026-06-04 | [Huffman Text Compressor 20260604 164148](projects/huffman_text_compressor.py_20260604_164148.py) | Built a Huffman encoder/decoder to see how compression really works under the hood — frequency analysis, tree building, and binary encoding all in standard lib. |
 | 2026-06-04 | [Adaptive Rate Limiter Demo 20260604 133800](projects/adaptive_rate_limiter_demo.py_20260604_133800.py) | Created a token bucket rate limiter using threading to demo how I'd throttle API calls in production — refills tokens over time and tracks success/denied rates. |
 | 2026-06-04 | [Tarjan Scc Finder 20260604 133836](projects/tarjan_scc_finder.py_20260604_133836.py) | Built Tarjan's SCC algorithm from scratch because I needed to understand how cycle detection works in directed graphs at a deeper level. |
