@@ -1,1 +1,1 @@
-implemented word ladder solver with BFS, tracking parent pointers to reconstruct the shortest path
+built a composable function pipeline system with lazy eval and auto-memoization — actually useful for data transforms
