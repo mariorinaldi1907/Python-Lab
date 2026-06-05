@@ -1,5 +1,5 @@
 added 3 new scripts
 
-- implemented convex hull using gift wrapping algorithm, added visualization with ASCII art because why not
-- built a CLI log analyzer that parses logs by level and timestamp, supports filtering and stats
-- built a simple SIR epidemic model to mess around with disease spread dynamics
+- implemented command pattern for a simple text editor with undo/redo support
+- implemented word ladder solver with BFS, finds shortest transformations between words
+- implemented an LRU cache from scratch using a doubly linked list and hashmap — wanted to understand how @lru_cache actually works under the hood

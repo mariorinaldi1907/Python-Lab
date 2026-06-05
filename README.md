@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-05 | [Command Pattern Text Editor 20260605 104350](projects/command_pattern_text_editor.py_20260605_104350.py) | Built a command pattern demo using a basic text editor that tracks operations so you can undo and redo changes — helps me remember why this pattern exists. |
+| 2026-06-05 | [Word Ladder Solver 20260605 104422](projects/word_ladder_solver.py_20260605_104422.py) | Built a word ladder puzzle solver that finds the shortest path between two words by changing one letter at a time — uses BFS and a built-in dictionary to keep it lightweight. |
+| 2026-06-05 | [Lru Cache Implementation 20260605 104447](projects/lru_cache_implementation.py_20260605_104447.py) | Built a proper LRU cache with O(1) get/put operations using a doubly linked list and dictionary because I wanted to really understand the data structure behind Python's functools decorator. |
 | 2026-06-05 | [Convex Hull Gift Wrapping 20260605 081225](projects/convex_hull_gift_wrapping.py_20260605_081225.py) | Built a convex hull finder using the gift wrapping (Jarvis march) algorithm — seemed like a fun way to brush up on computational geometry basics. |
 | 2026-06-05 | [Log Analyzer 20260605 081257](projects/log_analyzer.py_20260605_081257.py) | Created a command-line tool to parse and analyze log files with regex patterns, giving me quick insights into error rates and time distributions. |
 | 2026-06-05 | [Epidemic Sir Simulation 20260605 081324](projects/epidemic_sir_simulation.py_20260605_081324.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic simulator that shows how infections propagate through a grid-based population over time. |
