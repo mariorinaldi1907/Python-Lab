@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- implemented command pattern for a simple text editor with undo/redo support
-- implemented word ladder solver with BFS, finds shortest transformations between words
-- implemented an LRU cache from scratch using a doubly linked list and hashmap — wanted to understand how @lru_cache actually works under the hood
+implemented word ladder solver with BFS, tracking parent pointers to reconstruct the shortest path
