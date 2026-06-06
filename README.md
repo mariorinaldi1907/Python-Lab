@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-06 | [Huffman Text Compressor 20260606 184938](projects/huffman_text_compressor.py_20260606_184938.py) | Implemented Huffman coding to see how much I could squeeze text files — includes encoding, decoding, and a frequency tree visualizer. |
+| 2026-06-06 | [Bootstrap Confidence Intervals 20260606 185008](projects/bootstrap_confidence_intervals.py_20260606_185008.py) | Built a bootstrapping module to compute confidence intervals without assuming normal distributions — really useful for small or skewed datasets. |
 | 2026-06-06 | [Topological Sort With Cycle Detection 20260606 115042](projects/topological_sort_with_cycle_detection.py_20260606_115042.py) | Built a topological sort algorithm that detects cycles in directed graphs — useful for dependency resolution and course scheduling problems. |
 | 2026-06-06 | [Bayesian Ab Tester 20260606 115115](projects/bayesian_ab_tester.py_20260606_115115.py) | Created a Bayesian A/B testing module that uses conjugate priors (Beta-Binomial) to compute posterior distributions and probabilities of superiority — way more intuitive than traditional hypothesis testing. |
 | 2026-06-06 | [Naive Bayes Classifier 20260606 092236](projects/naive_bayes_classifier.py_20260606_092236.py) | Implemented a Naive Bayes classifier to revisit probabilistic ML fundamentals — handles categorical features and includes smoothing for unseen values. |
