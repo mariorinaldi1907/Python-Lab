@@ -1,1 +1,1 @@
-built a word ladder solver using BFS — finds shortest path between two words by changing one letter at a time
+built naive bayes from scratch with laplace smoothing, tested on some made-up fruit data
