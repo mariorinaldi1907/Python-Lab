@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-06 | [Word Ladder Solver 20260606 045606](projects/word_ladder_solver.py_20260606_045606.py) | Created a BFS-based word ladder solver that transforms one word into another by changing a single letter per step, using only valid English words from a dictionary. |
 | 2026-06-05 | [Functional Pipeline Kit 20260605 191943](projects/functional_pipeline_kit.py_20260605_191943.py) | Created a functional programming toolkit that lets me chain operations lazily and cache expensive computations, perfect for ETL-style data pipelines. |
 | 2026-06-05 | [Word Ladder Bfs Solver 20260605 133027](projects/word_ladder_bfs_solver.py_20260605_133027.py) | Built a BFS-based word ladder solver that finds the shortest transformation path between two words by changing one letter at a time — actually pretty satisfying to watch it find paths through the dictionary. |
 | 2026-06-05 | [Command Pattern Text Editor 20260605 104350](projects/command_pattern_text_editor.py_20260605_104350.py) | Built a command pattern demo using a basic text editor that tracks operations so you can undo and redo changes — helps me remember why this pattern exists. |

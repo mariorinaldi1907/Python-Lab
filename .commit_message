@@ -1,1 +1,1 @@
-built a composable function pipeline system with lazy eval and auto-memoization — actually useful for data transforms
+built a word ladder solver using BFS — finds shortest path between two words by changing one letter at a time
