@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-06 | [Topological Sort With Cycle Detection 20260606 115042](projects/topological_sort_with_cycle_detection.py_20260606_115042.py) | Built a topological sort algorithm that detects cycles in directed graphs — useful for dependency resolution and course scheduling problems. |
+| 2026-06-06 | [Bayesian Ab Tester 20260606 115115](projects/bayesian_ab_tester.py_20260606_115115.py) | Created a Bayesian A/B testing module that uses conjugate priors (Beta-Binomial) to compute posterior distributions and probabilities of superiority — way more intuitive than traditional hypothesis testing. |
 | 2026-06-06 | [Naive Bayes Classifier 20260606 092236](projects/naive_bayes_classifier.py_20260606_092236.py) | Implemented a Naive Bayes classifier to revisit probabilistic ML fundamentals — handles categorical features and includes smoothing for unseen values. |
 | 2026-06-06 | [Word Ladder Solver 20260606 045606](projects/word_ladder_solver.py_20260606_045606.py) | Created a BFS-based word ladder solver that transforms one word into another by changing a single letter per step, using only valid English words from a dictionary. |
 | 2026-06-05 | [Functional Pipeline Kit 20260605 191943](projects/functional_pipeline_kit.py_20260605_191943.py) | Created a functional programming toolkit that lets me chain operations lazily and cache expensive computations, perfect for ETL-style data pipelines. |

@@ -1,1 +1,4 @@
-built naive bayes from scratch with laplace smoothing, tested on some made-up fruit data
+added 2 new scripts
+
+- implemented topological sort with cycle detection using DFS, prints sorted order or tells you where the cycle is
+- built a bayesian A/B test analyzer because I got tired of relying on frequentist p-values for everything
