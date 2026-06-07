@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a huffman encoder from scratch, actually compresses text pretty well
-- added bootstrap resampling for confidence intervals, handles both mean and median with percentile method
+- implemented A* pathfinding with manhattan heuristic, visualizes the path on a grid
+- built a Bayesian A/B testing module with beta distributions, way cleaner than frequentist p-value nonsense

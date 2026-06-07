@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-07 | [A Star Pathfinding 20260607 052502](projects/a_star_pathfinding.py_20260607_052502.py) | Built an A* pathfinding algorithm to find optimal routes on a 2D grid — wanted to see how the heuristic guides the search compared to plain Dijkstra. |
+| 2026-06-07 | [Bayesian Ab Tester 20260607 052532](projects/bayesian_ab_tester.py_20260607_052532.py) | Implemented a Bayesian A/B test analyzer using beta distributions to calculate probabilities of variant superiority — includes credible intervals and expected loss calculations. |
 | 2026-06-06 | [Huffman Text Compressor 20260606 184938](projects/huffman_text_compressor.py_20260606_184938.py) | Implemented Huffman coding to see how much I could squeeze text files — includes encoding, decoding, and a frequency tree visualizer. |
 | 2026-06-06 | [Bootstrap Confidence Intervals 20260606 185008](projects/bootstrap_confidence_intervals.py_20260606_185008.py) | Built a bootstrapping module to compute confidence intervals without assuming normal distributions — really useful for small or skewed datasets. |
 | 2026-06-06 | [Topological Sort With Cycle Detection 20260606 115042](projects/topological_sort_with_cycle_detection.py_20260606_115042.py) | Built a topological sort algorithm that detects cycles in directed graphs — useful for dependency resolution and course scheduling problems. |
