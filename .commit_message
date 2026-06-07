@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- implemented A* pathfinding with manhattan heuristic, visualizes the path on a grid
-- built a Bayesian A/B testing module with beta distributions, way cleaner than frequentist p-value nonsense
+- implemented word ladder solver with BFS, found shortest path between two words by changing one letter at a time
+- implemented LRU cache with doubly linked list and hashmap, O(1) get/put operations
+- built a word frequency CLI that tokenizes text files and ranks words by occurrence, added min-count filtering and case-insensitive mode

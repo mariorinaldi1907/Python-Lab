@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-07 | [Word Ladder Bfs Solver 20260607 120630](projects/word_ladder_bfs_solver.py_20260607_120630.py) | Built a word ladder puzzle solver that finds the shortest transformation sequence between two words using breadth-first search — useful for those NYT-style word games. |
+| 2026-06-07 | [Lru Cache Implementation 20260607 120654](projects/lru_cache_implementation.py_20260607_120654.py) | Built an LRU cache from scratch using a doubly linked list and dictionary to get O(1) lookups and evictions — wanted to understand how functools.lru_cache actually works under the hood. |
+| 2026-06-07 | [Word Frequency Analyzer 20260607 120720](projects/word_frequency_analyzer.py_20260607_120720.py) | Made a CLI tool to analyze word frequencies in text files because I got curious about word distributions in my markdown notes. |
 | 2026-06-07 | [A Star Pathfinding 20260607 052502](projects/a_star_pathfinding.py_20260607_052502.py) | Built an A* pathfinding algorithm to find optimal routes on a 2D grid — wanted to see how the heuristic guides the search compared to plain Dijkstra. |
 | 2026-06-07 | [Bayesian Ab Tester 20260607 052532](projects/bayesian_ab_tester.py_20260607_052532.py) | Implemented a Bayesian A/B test analyzer using beta distributions to calculate probabilities of variant superiority — includes credible intervals and expected loss calculations. |
 | 2026-06-06 | [Huffman Text Compressor 20260606 184938](projects/huffman_text_compressor.py_20260606_184938.py) | Implemented Huffman coding to see how much I could squeeze text files — includes encoding, decoding, and a frequency tree visualizer. |
