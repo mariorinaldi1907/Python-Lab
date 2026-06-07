@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-07 | [Topological Sort With Cycle Detection 20260607 151644](projects/topological_sort_with_cycle_detection.py_20260607_151644.py) | Built a topological sort algorithm that detects cycles and returns a valid ordering for DAGs — wanted to finally understand how build systems resolve dependencies. |
+| 2026-06-07 | [Dir Tree Printer 20260607 151713](projects/dir_tree_printer.py_20260607_151713.py) | Made a CLI tool that prints pretty directory trees with configurable depth limits and pattern filtering — needed something lighter than tree(1) with more control. |
 | 2026-06-07 | [Word Ladder Bfs Solver 20260607 120630](projects/word_ladder_bfs_solver.py_20260607_120630.py) | Built a word ladder puzzle solver that finds the shortest transformation sequence between two words using breadth-first search — useful for those NYT-style word games. |
 | 2026-06-07 | [Lru Cache Implementation 20260607 120654](projects/lru_cache_implementation.py_20260607_120654.py) | Built an LRU cache from scratch using a doubly linked list and dictionary to get O(1) lookups and evictions — wanted to understand how functools.lru_cache actually works under the hood. |
 | 2026-06-07 | [Word Frequency Analyzer 20260607 120720](projects/word_frequency_analyzer.py_20260607_120720.py) | Made a CLI tool to analyze word frequencies in text files because I got curious about word distributions in my markdown notes. |

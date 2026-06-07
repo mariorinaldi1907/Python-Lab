@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- implemented word ladder solver with BFS, found shortest path between two words by changing one letter at a time
-- implemented LRU cache with doubly linked list and hashmap, O(1) get/put operations
-- built a word frequency CLI that tokenizes text files and ranks words by occurrence, added min-count filtering and case-insensitive mode
+- implemented topological sort with cycle detection using DFS, returns None if graph has cycles
+- built a clean directory tree printer with filtering options, uses box-drawing chars and handles symlinks properly
