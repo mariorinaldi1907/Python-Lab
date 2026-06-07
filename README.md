@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-07 | [Forest Fire Simulation 20260607 185030](projects/forest_fire_simulation.py_20260607_185030.py) | Made a cellular automaton that simulates wildfire propagation through different terrain types with wind effects and moisture levels — runs in terminal with ascii output. |
 | 2026-06-07 | [Topological Sort With Cycle Detection 20260607 151644](projects/topological_sort_with_cycle_detection.py_20260607_151644.py) | Built a topological sort algorithm that detects cycles and returns a valid ordering for DAGs — wanted to finally understand how build systems resolve dependencies. |
 | 2026-06-07 | [Dir Tree Printer 20260607 151713](projects/dir_tree_printer.py_20260607_151713.py) | Made a CLI tool that prints pretty directory trees with configurable depth limits and pattern filtering — needed something lighter than tree(1) with more control. |
 | 2026-06-07 | [Word Ladder Bfs Solver 20260607 120630](projects/word_ladder_bfs_solver.py_20260607_120630.py) | Built a word ladder puzzle solver that finds the shortest transformation sequence between two words using breadth-first search — useful for those NYT-style word games. |

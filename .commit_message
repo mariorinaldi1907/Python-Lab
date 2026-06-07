@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented topological sort with cycle detection using DFS, returns None if graph has cycles
-- built a clean directory tree printer with filtering options, uses box-drawing chars and handles symlinks properly
+built a forest fire spread sim with stochastic dynamics and climate zones
