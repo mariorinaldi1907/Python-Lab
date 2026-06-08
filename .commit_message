@@ -1,1 +1,1 @@
-built an nginx access log parser that extracts useful stats and catches malformed lines
+implemented naive bayes from scratch, works surprisingly well on text classification

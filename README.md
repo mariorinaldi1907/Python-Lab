@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-08 | [Naive Bayes Classifier 20260608 115335](projects/naive_bayes_classifier.py_20260608_115335.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic ML — handles continuous features and computes class probabilities properly. |
 | 2026-06-08 | [Nginx Log Parser 20260608 055403](projects/nginx_log_parser.py_20260608_055403.py) | Wrote a parser for nginx access logs that breaks down request patterns, status codes, and can flag suspicious activity — helped me analyze traffic on my VPS. |
 | 2026-06-07 | [Forest Fire Simulation 20260607 185030](projects/forest_fire_simulation.py_20260607_185030.py) | Made a cellular automaton that simulates wildfire propagation through different terrain types with wind effects and moisture levels — runs in terminal with ascii output. |
 | 2026-06-07 | [Topological Sort With Cycle Detection 20260607 151644](projects/topological_sort_with_cycle_detection.py_20260607_151644.py) | Built a topological sort algorithm that detects cycles and returns a valid ordering for DAGs — wanted to finally understand how build systems resolve dependencies. |
