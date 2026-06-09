@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-09 | [Convex Hull Graham Scan 20260609 075602](projects/convex_hull_graham_scan.py_20260609_075602.py) | Built a convex hull calculator using Graham's scan algorithm because I needed something fast and elegant for finding the boundary of point clouds. |
 | 2026-06-09 | [Convex Hull Graham Scan 20260609 051011](projects/convex_hull_graham_scan.py_20260609_051011.py) | Built a convex hull finder using Graham's scan algorithm to see how sorting by polar angle makes the whole thing elegant. |
 | 2026-06-09 | [Async Port Scanner 20260609 051039](projects/async_port_scanner.py_20260609_051039.py) | Created a multi-threaded port scanner because I was tired of waiting forever for nmap when I just wanted to check a few common ports on my local network. |
 | 2026-06-09 | [Command Pattern Text Editor 20260609 051104](projects/command_pattern_text_editor.py_20260609_051104.py) | Built a simple text editor using the command pattern because I wanted to understand how undo/redo actually works under the hood in real applications. |

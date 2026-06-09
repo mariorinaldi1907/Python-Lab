@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- implemented Graham scan for convex hull because I was curious how the algorithm actually works in practice
-- built a threaded port scanner that's actually fast, checks common ports by default but can scan custom ranges too
-- implemented command pattern for a tiny text editor with proper undo/redo support
+implemented Graham scan for convex hull, been wanting to build this since that computational geometry course
