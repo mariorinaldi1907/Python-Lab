@@ -1,1 +1,4 @@
-implemented Graham scan for convex hull, been wanting to build this since that computational geometry course
+added 2 new scripts
+
+- built a lazy pipeline composer with caching — chains transformations without executing until needed
+- implemented naive bayes from scratch with laplace smoothing, tested on simple text classification
