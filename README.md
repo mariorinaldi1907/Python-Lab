@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-09 | [Markov Text Generator 20260609 132129](projects/markov_text_generator.py_20260609_132129.py) | Created a Markov chain generator that learns from input text and generates semi-coherent sentences while respecting word boundaries and basic punctuation. |
 | 2026-06-09 | [Lazy Pipeline Composer 20260609 103212](projects/lazy_pipeline_composer.py_20260609_103212.py) | Created a functional programming toolkit that lazily evaluates transformation pipelines and caches intermediate results, useful for processing large datasets efficiently. |
 | 2026-06-09 | [Naive Bayes Classifier 20260609 103244](projects/naive_bayes_classifier.py_20260609_103244.py) | Built a Naive Bayes classifier to understand probabilistic classification better — handles categorical features and includes additive smoothing to deal with unseen values. |
 | 2026-06-09 | [Convex Hull Graham Scan 20260609 075602](projects/convex_hull_graham_scan.py_20260609_075602.py) | Built a convex hull calculator using Graham's scan algorithm because I needed something fast and elegant for finding the boundary of point clouds. |
