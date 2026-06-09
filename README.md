@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-09 | [Naive Bayes Classifier 20260609 162429](projects/naive_bayes_classifier.py_20260609_162429.py) | Built a multinomial Naive Bayes classifier to finally understand how probabilistic text classification actually works under the hood. |
+| 2026-06-09 | [Modular Arithmetic Toolkit 20260609 162456](projects/modular_arithmetic_toolkit.py_20260609_162456.py) | Created a number theory utility focused on modular arithmetic operations that I kept needing for Project Euler and AoC problems. |
 | 2026-06-09 | [Markov Text Generator 20260609 132129](projects/markov_text_generator.py_20260609_132129.py) | Created a Markov chain generator that learns from input text and generates semi-coherent sentences while respecting word boundaries and basic punctuation. |
 | 2026-06-09 | [Lazy Pipeline Composer 20260609 103212](projects/lazy_pipeline_composer.py_20260609_103212.py) | Created a functional programming toolkit that lazily evaluates transformation pipelines and caches intermediate results, useful for processing large datasets efficiently. |
 | 2026-06-09 | [Naive Bayes Classifier 20260609 103244](projects/naive_bayes_classifier.py_20260609_103244.py) | Built a Naive Bayes classifier to understand probabilistic classification better — handles categorical features and includes additive smoothing to deal with unseen values. |

@@ -1,1 +1,4 @@
-built a markov chain text generator that actually preserves sentence structure and punctuation
+added 2 new scripts
+
+- implemented naive bayes from scratch with laplace smoothing, tested on simple text classification
+- built a modular arithmetic toolkit with fast exp, CRT solver, and modular inverse — useful for crypto stuff
