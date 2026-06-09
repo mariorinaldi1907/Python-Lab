@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-09 | [Convex Hull Graham Scan 20260609 051011](projects/convex_hull_graham_scan.py_20260609_051011.py) | Built a convex hull finder using Graham's scan algorithm to see how sorting by polar angle makes the whole thing elegant. |
+| 2026-06-09 | [Async Port Scanner 20260609 051039](projects/async_port_scanner.py_20260609_051039.py) | Created a multi-threaded port scanner because I was tired of waiting forever for nmap when I just wanted to check a few common ports on my local network. |
+| 2026-06-09 | [Command Pattern Text Editor 20260609 051104](projects/command_pattern_text_editor.py_20260609_051104.py) | Built a simple text editor using the command pattern because I wanted to understand how undo/redo actually works under the hood in real applications. |
 | 2026-06-08 | [Naive Bayes Classifier 20260608 115335](projects/naive_bayes_classifier.py_20260608_115335.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic ML — handles continuous features and computes class probabilities properly. |
 | 2026-06-08 | [Nginx Log Parser 20260608 055403](projects/nginx_log_parser.py_20260608_055403.py) | Wrote a parser for nginx access logs that breaks down request patterns, status codes, and can flag suspicious activity — helped me analyze traffic on my VPS. |
 | 2026-06-07 | [Forest Fire Simulation 20260607 185030](projects/forest_fire_simulation.py_20260607_185030.py) | Made a cellular automaton that simulates wildfire propagation through different terrain types with wind effects and moisture levels — runs in terminal with ascii output. |
