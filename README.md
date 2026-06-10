@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-10 | [Toposort With Cycle Detection 20260610 105325](projects/toposort_with_cycle_detection.py_20260610_105325.py) | Built a topological sort algorithm that detects cycles in directed graphs — useful for dependency resolution and build systems. |
+| 2026-06-10 | [Async Rate Limiter Demo 20260610 105351](projects/async_rate_limiter_demo.py_20260610_105351.py) | Implemented a token bucket rate limiter with asyncio to throttle concurrent API calls — wanted to see how the refill mechanism works in practice. |
+| 2026-06-10 | [Lru Cache Implementation 20260610 105414](projects/lru_cache_implementation.py_20260610_105414.py) | Implemented an LRU cache with O(1) get/put operations using a hashmap and doubly linked list — wanted to understand how functools.lru_cache actually works under the hood. |
 | 2026-06-10 | [Word Frequency Analyzer 20260610 081300](projects/word_frequency_analyzer.py_20260610_081300.py) | Created a word frequency counter that lets me quickly analyze text files with optional stopword filtering and flexible output formats. |
 | 2026-06-10 | [Modular Arithmetic Toolkit 20260610 081328](projects/modular_arithmetic_toolkit.py_20260610_081328.py) | Implemented core modular arithmetic operations I always end up needing for competitive programming and cryptography experiments — includes modular exponentiation, inverse via extended Euclidean algorithm, and Chinese Remainder Theorem solver. |
 | 2026-06-10 | [Modular Arithmetic Toolkit 20260610 052247](projects/modular_arithmetic_toolkit.py_20260610_052247.py) | Created a collection of modular arithmetic functions including fast exponentiation, modular inverse, and Chinese Remainder Theorem solver for number theory problems. |
