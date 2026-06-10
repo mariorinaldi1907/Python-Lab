@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-10 | [Lazy Pipeline Composer 20260610 195516](projects/lazy_pipeline_composer.py_20260610_195516.py) | Created a functional programming toolkit that chains transformations lazily and supports partial application — because I got tired of writing nested map/filter calls. |
+| 2026-06-10 | [Markov Text Generator 20260610 195548](projects/markov_text_generator.py_20260610_195548.py) | Implemented a Markov chain text generator that learns from input text and generates semi-coherent sentences based on n-gram probabilities. |
+| 2026-06-10 | [Bayesian Ab Test Analyzer 20260610 195622](projects/bayesian_ab_test_analyzer.py_20260610_195622.py) | Created a Bayesian A/B testing tool that updates beliefs using beta distributions and calculates probability of one variant beating another — way more intuitive than p-values. |
 | 2026-06-10 | [Lru Cache Implementation 20260610 165353](projects/lru_cache_implementation.py_20260610_165353.py) | Implemented an LRU (Least Recently Used) cache using a hash map and doubly linked list to get O(1) get/put operations — helped me finally understand the internals of caching strategies. |
 | 2026-06-10 | [Huffman Text Compressor 20260610 135413](projects/huffman_text_compressor.py_20260610_135413.py) | Implemented Huffman coding to compress text by building a frequency tree and generating optimal binary codes for each character. |
 | 2026-06-10 | [Toposort With Cycle Detection 20260610 105325](projects/toposort_with_cycle_detection.py_20260610_105325.py) | Built a topological sort algorithm that detects cycles in directed graphs — useful for dependency resolution and build systems. |

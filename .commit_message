@@ -1,1 +1,5 @@
-built an LRU cache from scratch with a dict + doubly linked list, wanted to understand how functools.lru_cache actually works under the hood
+added 3 new scripts
+
+- built a lazy pipeline composer with currying support, finally got around to scratching this FP itch
+- built a markov chain text generator with configurable n-gram sizes, been wanting to play with this for a while
+- built a bayesian A/B test analyzer with beta distributions, handles conversion rate comparisons
