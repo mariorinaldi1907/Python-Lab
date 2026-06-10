@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-10 | [Huffman Text Compressor 20260610 135413](projects/huffman_text_compressor.py_20260610_135413.py) | Implemented Huffman coding to compress text by building a frequency tree and generating optimal binary codes for each character. |
 | 2026-06-10 | [Toposort With Cycle Detection 20260610 105325](projects/toposort_with_cycle_detection.py_20260610_105325.py) | Built a topological sort algorithm that detects cycles in directed graphs — useful for dependency resolution and build systems. |
 | 2026-06-10 | [Async Rate Limiter Demo 20260610 105351](projects/async_rate_limiter_demo.py_20260610_105351.py) | Implemented a token bucket rate limiter with asyncio to throttle concurrent API calls — wanted to see how the refill mechanism works in practice. |
 | 2026-06-10 | [Lru Cache Implementation 20260610 105414](projects/lru_cache_implementation.py_20260610_105414.py) | Implemented an LRU cache with O(1) get/put operations using a hashmap and doubly linked list — wanted to understand how functools.lru_cache actually works under the hood. |

@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- implemented topological sort with cycle detection using DFS, returns None if graph has cycles
-- built an async rate limiter with token bucket algorithm, actually pretty clean implementation
-- built an LRU cache from scratch using a dict + doubly linked list, handles capacity eviction cleanly
+built a huffman encoder from scratch, handles text compression with decent ratio and shows the tree structure
