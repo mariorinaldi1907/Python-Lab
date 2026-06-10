@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-10 | [Modular Arithmetic Toolkit 20260610 052247](projects/modular_arithmetic_toolkit.py_20260610_052247.py) | Created a collection of modular arithmetic functions including fast exponentiation, modular inverse, and Chinese Remainder Theorem solver for number theory problems. |
+| 2026-06-10 | [Nginx Log Parser 20260610 052318](projects/nginx_log_parser.py_20260610_052318.py) | Created a parser for nginx access logs that breaks down request patterns, response codes, and user agents — useful for quickly analyzing traffic without spinning up a full analytics stack. |
+| 2026-06-10 | [Async Rate Limiter Demo 20260610 052346](projects/async_rate_limiter_demo.py_20260610_052346.py) | Implemented a token bucket rate limiter using asyncio to demonstrate controlled concurrency with realistic API call simulation. |
 | 2026-06-09 | [Naive Bayes Classifier 20260609 162429](projects/naive_bayes_classifier.py_20260609_162429.py) | Built a multinomial Naive Bayes classifier to finally understand how probabilistic text classification actually works under the hood. |
 | 2026-06-09 | [Modular Arithmetic Toolkit 20260609 162456](projects/modular_arithmetic_toolkit.py_20260609_162456.py) | Created a number theory utility focused on modular arithmetic operations that I kept needing for Project Euler and AoC problems. |
 | 2026-06-09 | [Markov Text Generator 20260609 132129](projects/markov_text_generator.py_20260609_132129.py) | Created a Markov chain generator that learns from input text and generates semi-coherent sentences while respecting word boundaries and basic punctuation. |

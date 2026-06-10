@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- implemented naive bayes from scratch with laplace smoothing, tested on simple text classification
-- built a modular arithmetic toolkit with fast exp, CRT solver, and modular inverse — useful for crypto stuff
+- built a modular arithmetic toolkit with fast exponentiation and CRT solver — needed this for some cryptography practice
+- built an nginx access log parser that extracts stats and handles malformed lines gracefully
+- built an async rate limiter with token bucket algorithm, supports burst traffic and multiple concurrent workers
