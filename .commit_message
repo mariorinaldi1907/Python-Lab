@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- built a modular arithmetic toolkit with fast exponentiation and CRT solver — needed this for some cryptography practice
-- built an nginx access log parser that extracts stats and handles malformed lines gracefully
-- built an async rate limiter with token bucket algorithm, supports burst traffic and multiple concurrent workers
+- built a CLI word frequency analyzer that handles stopwords and outputs clean sorted results
+- built a modular arithmetic toolkit with fast exponentiation, inverse, and CRT solver

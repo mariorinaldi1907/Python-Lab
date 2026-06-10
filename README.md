@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-10 | [Word Frequency Analyzer 20260610 081300](projects/word_frequency_analyzer.py_20260610_081300.py) | Created a word frequency counter that lets me quickly analyze text files with optional stopword filtering and flexible output formats. |
+| 2026-06-10 | [Modular Arithmetic Toolkit 20260610 081328](projects/modular_arithmetic_toolkit.py_20260610_081328.py) | Implemented core modular arithmetic operations I always end up needing for competitive programming and cryptography experiments — includes modular exponentiation, inverse via extended Euclidean algorithm, and Chinese Remainder Theorem solver. |
 | 2026-06-10 | [Modular Arithmetic Toolkit 20260610 052247](projects/modular_arithmetic_toolkit.py_20260610_052247.py) | Created a collection of modular arithmetic functions including fast exponentiation, modular inverse, and Chinese Remainder Theorem solver for number theory problems. |
 | 2026-06-10 | [Nginx Log Parser 20260610 052318](projects/nginx_log_parser.py_20260610_052318.py) | Created a parser for nginx access logs that breaks down request patterns, response codes, and user agents — useful for quickly analyzing traffic without spinning up a full analytics stack. |
 | 2026-06-10 | [Async Rate Limiter Demo 20260610 052346](projects/async_rate_limiter_demo.py_20260610_052346.py) | Implemented a token bucket rate limiter using asyncio to demonstrate controlled concurrency with realistic API call simulation. |
