@@ -1,1 +1,1 @@
-built a huffman encoder from scratch, handles text compression with decent ratio and shows the tree structure
+built an LRU cache from scratch with a dict + doubly linked list, wanted to understand how functools.lru_cache actually works under the hood
