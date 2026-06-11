@@ -1,1 +1,1 @@
-built a markov chain text generator with configurable order, handles sentence boundaries properly
+wrote an nginx access log parser that extracts stats and detects suspicious patterns

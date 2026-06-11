@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-11 | [Nginx Log Parser 20260611 085023](projects/nginx_log_parser.py_20260611_085023.py) | Built a parser for nginx access logs that pulls out useful metrics like status code distribution, top IPs, and can flag potential bot traffic or attacks. |
 | 2026-06-11 | [Markov Text Generator 20260611 055217](projects/markov_text_generator.py_20260611_055217.py) | Created a Markov chain generator that learns from input text and produces semi-coherent random output — useful for prototyping chatbots or just having fun with language models. |
 | 2026-06-10 | [Lazy Pipeline Composer 20260610 195516](projects/lazy_pipeline_composer.py_20260610_195516.py) | Created a functional programming toolkit that chains transformations lazily and supports partial application — because I got tired of writing nested map/filter calls. |
 | 2026-06-10 | [Markov Text Generator 20260610 195548](projects/markov_text_generator.py_20260610_195548.py) | Implemented a Markov chain text generator that learns from input text and generates semi-coherent sentences based on n-gram probabilities. |
