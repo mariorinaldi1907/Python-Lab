@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- built a lazy pipeline composer with currying support, finally got around to scratching this FP itch
-- built a markov chain text generator with configurable n-gram sizes, been wanting to play with this for a while
-- built a bayesian A/B test analyzer with beta distributions, handles conversion rate comparisons
+built a markov chain text generator with configurable order, handles sentence boundaries properly
