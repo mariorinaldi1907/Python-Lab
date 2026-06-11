@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-11 | [Tarjans Scc Finder 20260611 141430](projects/tarjans_scc_finder.py_20260611_141430.py) | Built Tarjan's SCC algorithm because I needed to understand cyclic dependencies in a project graph — way cooler than I expected. |
 | 2026-06-11 | [Convex Hull Gift Wrapping 20260611 112029](projects/convex_hull_gift_wrapping.py_20260611_112029.py) | Built a convex hull finder using the gift wrapping method because I wanted to visualize point sets and their boundaries without pulling in numpy. |
 | 2026-06-11 | [Nginx Log Parser 20260611 085023](projects/nginx_log_parser.py_20260611_085023.py) | Built a parser for nginx access logs that pulls out useful metrics like status code distribution, top IPs, and can flag potential bot traffic or attacks. |
 | 2026-06-11 | [Markov Text Generator 20260611 055217](projects/markov_text_generator.py_20260611_055217.py) | Created a Markov chain generator that learns from input text and produces semi-coherent random output — useful for prototyping chatbots or just having fun with language models. |

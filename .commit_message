@@ -1,1 +1,1 @@
-implemented gift wrapping algorithm for convex hulls, handles collinear points properly
+implemented Tarjan's algorithm for finding strongly connected components, works on directed graphs
