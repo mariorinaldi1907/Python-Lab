@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-12 | [Floyd Warshall Shortest Paths 20260612 055135](projects/floyd_warshall_shortest_paths.py_20260612_055135.py) | Built Floyd-Warshall algorithm to find shortest paths between all pairs of vertices — wanted to compare it against running Dijkstra n times for a project. |
+| 2026-06-12 | [Async Rate Limiter Demo 20260612 055202](projects/async_rate_limiter_demo.py_20260612_055202.py) | Created an asyncio-based rate limiter using the token bucket pattern to demonstrate controlled concurrency and backpressure handling in async code. |
 | 2026-06-11 | [Tarjans Scc Finder 20260611 141430](projects/tarjans_scc_finder.py_20260611_141430.py) | Built Tarjan's SCC algorithm because I needed to understand cyclic dependencies in a project graph — way cooler than I expected. |
 | 2026-06-11 | [Convex Hull Gift Wrapping 20260611 112029](projects/convex_hull_gift_wrapping.py_20260611_112029.py) | Built a convex hull finder using the gift wrapping method because I wanted to visualize point sets and their boundaries without pulling in numpy. |
 | 2026-06-11 | [Nginx Log Parser 20260611 085023](projects/nginx_log_parser.py_20260611_085023.py) | Built a parser for nginx access logs that pulls out useful metrics like status code distribution, top IPs, and can flag potential bot traffic or attacks. |
