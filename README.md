@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-12 | [Huffman Text Compressor 20260612 134539](projects/huffman_text_compressor.py_20260612_134539.py) | Built a Huffman compression utility that encodes/decodes text using variable-length prefix codes — wanted to see real compression ratios on my own files. |
 | 2026-06-12 | [Floyd Warshall Shortest Paths 20260612 055135](projects/floyd_warshall_shortest_paths.py_20260612_055135.py) | Built Floyd-Warshall algorithm to find shortest paths between all pairs of vertices — wanted to compare it against running Dijkstra n times for a project. |
 | 2026-06-12 | [Async Rate Limiter Demo 20260612 055202](projects/async_rate_limiter_demo.py_20260612_055202.py) | Created an asyncio-based rate limiter using the token bucket pattern to demonstrate controlled concurrency and backpressure handling in async code. |
 | 2026-06-11 | [Tarjans Scc Finder 20260611 141430](projects/tarjans_scc_finder.py_20260611_141430.py) | Built Tarjan's SCC algorithm because I needed to understand cyclic dependencies in a project graph — way cooler than I expected. |
