@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-12 | [Dijkstra Shortest Path 20260612 193200](projects/dijkstra_shortest_path.py_20260612_193200.py) | Built Dijkstra's algorithm from scratch using heapq because I wanted to really understand how shortest path finding works under the hood. |
+| 2026-06-12 | [Tarjan Scc Finder 20260612 193223](projects/tarjan_scc_finder.py_20260612_193223.py) | Built Tarjan's SCC algorithm from scratch to explore how a single DFS pass can identify all strongly connected components in a directed graph using low-link values. |
 | 2026-06-12 | [Huffman Text Compressor 20260612 134539](projects/huffman_text_compressor.py_20260612_134539.py) | Built a Huffman compression utility that encodes/decodes text using variable-length prefix codes — wanted to see real compression ratios on my own files. |
 | 2026-06-12 | [Floyd Warshall Shortest Paths 20260612 055135](projects/floyd_warshall_shortest_paths.py_20260612_055135.py) | Built Floyd-Warshall algorithm to find shortest paths between all pairs of vertices — wanted to compare it against running Dijkstra n times for a project. |
 | 2026-06-12 | [Async Rate Limiter Demo 20260612 055202](projects/async_rate_limiter_demo.py_20260612_055202.py) | Created an asyncio-based rate limiter using the token bucket pattern to demonstrate controlled concurrency and backpressure handling in async code. |

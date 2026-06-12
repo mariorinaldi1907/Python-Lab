@@ -1,1 +1,4 @@
-implemented huffman coding from scratch, actually compresses text files pretty well
+added 2 new scripts
+
+- implemented Dijkstra with a min-heap, added support for unreachable nodes and path reconstruction
+- implemented Tarjan's algorithm for finding strongly connected components, had fun with the DFS stack mechanics
