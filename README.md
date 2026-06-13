@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-13 | [K Means Clustering From Scratch 20260613 152409](projects/k_means_clustering_from_scratch.py_20260613_152409.py) | Built k-means clustering using only the standard library to really understand how the algorithm converges and assigns clusters. |
+| 2026-06-13 | [Bayesian Ab Tester 20260613 152446](projects/bayesian_ab_tester.py_20260613_152446.py) | Implemented a Bayesian A/B testing framework using conjugate priors to compare conversion rates and get actual probability statements about which variant is better. |
+| 2026-06-13 | [Plugin Command Pattern 20260613 152512](projects/plugin_command_pattern.py_20260613_152512.py) | Built a command pattern implementation for a simple text editor with plugin-style operations that can be undone, redone, and logged — wanted something practical to show how the pattern actually helps. |
 | 2026-06-13 | [Lazy Pipeline 20260613 095459](projects/lazy_pipeline.py_20260613_095459.py) | Created a functional pipeline library that chains transformations lazily, only computing results when actually needed — reminds me of how Haskell does it. |
 | 2026-06-13 | [Naive Bayes From Scratch 20260613 095526](projects/naive_bayes_from_scratch.py_20260613_095526.py) | Implemented Gaussian Naive Bayes to really understand how probabilistic classification works under the hood — surprisingly simple math once you break it down. |
 | 2026-06-13 | [Word Ladder Solver 20260613 075244](projects/word_ladder_solver.py_20260613_075244.py) | Built a word ladder puzzle solver that finds the shortest path between two words by changing one letter at a time, using BFS because it guarantees the shortest path. |

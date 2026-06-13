@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- built a lazy evaluation pipeline system with composable transformers and late materialization
-- built a naive bayes classifier from scratch, handles continuous features with gaussian distribution
+- implemented k-means clustering from scratch, added elbow method visualization with ascii art
+- built a Bayesian A/B test calculator with beta distributions, way cleaner than frequentist p-values
+- implemented command pattern for a plugin system, supports undo/redo and command history
