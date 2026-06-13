@@ -1,1 +1,4 @@
-implemented word ladder solver with BFS, finds shortest transformation path between words
+added 2 new scripts
+
+- built a lazy evaluation pipeline system with composable transformers and late materialization
+- built a naive bayes classifier from scratch, handles continuous features with gaussian distribution
