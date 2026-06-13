@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-13 | [Word Ladder Solver 20260613 075244](projects/word_ladder_solver.py_20260613_075244.py) | Built a word ladder puzzle solver that finds the shortest path between two words by changing one letter at a time, using BFS because it guarantees the shortest path. |
 | 2026-06-12 | [Dijkstra Shortest Path 20260612 193200](projects/dijkstra_shortest_path.py_20260612_193200.py) | Built Dijkstra's algorithm from scratch using heapq because I wanted to really understand how shortest path finding works under the hood. |
 | 2026-06-12 | [Tarjan Scc Finder 20260612 193223](projects/tarjan_scc_finder.py_20260612_193223.py) | Built Tarjan's SCC algorithm from scratch to explore how a single DFS pass can identify all strongly connected components in a directed graph using low-link values. |
 | 2026-06-12 | [Huffman Text Compressor 20260612 134539](projects/huffman_text_compressor.py_20260612_134539.py) | Built a Huffman compression utility that encodes/decodes text using variable-length prefix codes — wanted to see real compression ratios on my own files. |

@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented Dijkstra with a min-heap, added support for unreachable nodes and path reconstruction
-- implemented Tarjan's algorithm for finding strongly connected components, had fun with the DFS stack mechanics
+implemented word ladder solver with BFS, finds shortest transformation path between words
