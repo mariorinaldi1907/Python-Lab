@@ -1,1 +1,1 @@
-built a file deduplicator using SHA-256 hashing, handles collisions and lets you review before deleting
+built a huffman coding compressor from scratch, handles text encoding/decoding with tree visualization
