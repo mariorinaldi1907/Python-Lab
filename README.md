@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-14 | [Naive Bayes From Scratch 20260614 185234](projects/naive_bayes_from_scratch.py_20260614_185234.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic classification better — includes smoothing and handles continuous features. |
+| 2026-06-14 | [Duplicate Finder 20260614 185302](projects/duplicate_finder.py_20260614_185302.py) | Made a duplicate file finder that uses SHA256 hashing to identify identical files across directories — helps me reclaim disk space from accidentally duplicated photos and documents. |
 | 2026-06-14 | [Word Frequency Analyzer 20260614 153126](projects/word_frequency_analyzer.py_20260614_153126.py) | Created a CLI tool to analyze word frequency in text files with sorting options and export formats — something I needed for analyzing my writing patterns. |
 | 2026-06-14 | [Lru Cache Implementation 20260614 153147](projects/lru_cache_implementation.py_20260614_153147.py) | Implemented an LRU (Least Recently Used) cache with O(1) get/put operations using a combination of a doubly linked list and dictionary — wanted to understand the data structure behind memoization. |
 | 2026-06-14 | [Tcp Port Scanner 20260614 153212](projects/tcp_port_scanner.py_20260614_153212.py) | Wrote a concurrent port scanner that checks common ports and tries to identify services by their banners — wanted something faster than nmap for quick checks on my local network. |

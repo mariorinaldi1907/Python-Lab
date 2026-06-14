@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- built a word frequency analyzer that can parse files or stdin, added filtering options and multiple output formats
-- built an LRU cache from scratch using a doubly linked list and hashmap, finally understand how functools.lru_cache actually works under the hood
-- built a multi-threaded TCP port scanner with timeout handling and some basic service fingerprinting
+- implemented naive bayes classifier from scratch, works surprisingly well on text classification
+- built a CLI tool to find duplicate files using content hashing, surprisingly useful for cleaning up my downloads folder
