@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-14 | [File Deduplicator 20260614 081852](projects/file_deduplicator.py_20260614_081852.py) | Created a CLI tool that finds duplicate files by comparing hashes instead of filenames, since I kept accumulating duplicate downloads and backups in my projects folder. |
 | 2026-06-13 | [Lazy Pipeline Evaluator 20260613 185403](projects/lazy_pipeline_evaluator.py_20260613_185403.py) | Created a functional pipeline utility that lazily evaluates transformations on iterables, supporting currying and method chaining for cleaner data processing workflows. |
 | 2026-06-13 | [K Means Clustering From Scratch 20260613 152409](projects/k_means_clustering_from_scratch.py_20260613_152409.py) | Built k-means clustering using only the standard library to really understand how the algorithm converges and assigns clusters. |
 | 2026-06-13 | [Bayesian Ab Tester 20260613 152446](projects/bayesian_ab_tester.py_20260613_152446.py) | Implemented a Bayesian A/B testing framework using conjugate priors to compare conversion rates and get actual probability statements about which variant is better. |

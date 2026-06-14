@@ -1,1 +1,1 @@
-built a lazy evaluation pipeline system with composable transformations — feels cleaner than chaining map/filter everywhere
+built a file deduplicator using SHA-256 hashing, handles collisions and lets you review before deleting
