@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-14 | [Word Frequency Analyzer 20260614 153126](projects/word_frequency_analyzer.py_20260614_153126.py) | Created a CLI tool to analyze word frequency in text files with sorting options and export formats — something I needed for analyzing my writing patterns. |
+| 2026-06-14 | [Lru Cache Implementation 20260614 153147](projects/lru_cache_implementation.py_20260614_153147.py) | Implemented an LRU (Least Recently Used) cache with O(1) get/put operations using a combination of a doubly linked list and dictionary — wanted to understand the data structure behind memoization. |
+| 2026-06-14 | [Tcp Port Scanner 20260614 153212](projects/tcp_port_scanner.py_20260614_153212.py) | Wrote a concurrent port scanner that checks common ports and tries to identify services by their banners — wanted something faster than nmap for quick checks on my local network. |
 | 2026-06-14 | [Huffman Text Compressor 20260614 102224](projects/huffman_text_compressor.py_20260614_102224.py) | Implemented Huffman coding to see how real compression algorithms work — encodes text into variable-length bit strings based on character frequency. |
 | 2026-06-14 | [File Deduplicator 20260614 081852](projects/file_deduplicator.py_20260614_081852.py) | Created a CLI tool that finds duplicate files by comparing hashes instead of filenames, since I kept accumulating duplicate downloads and backups in my projects folder. |
 | 2026-06-13 | [Lazy Pipeline Evaluator 20260613 185403](projects/lazy_pipeline_evaluator.py_20260613_185403.py) | Created a functional pipeline utility that lazily evaluates transformations on iterables, supporting currying and method chaining for cleaner data processing workflows. |

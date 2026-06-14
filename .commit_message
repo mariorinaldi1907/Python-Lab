@@ -1,1 +1,5 @@
-built a huffman coding compressor from scratch, handles text encoding/decoding with tree visualization
+added 3 new scripts
+
+- built a word frequency analyzer that can parse files or stdin, added filtering options and multiple output formats
+- built an LRU cache from scratch using a doubly linked list and hashmap, finally understand how functools.lru_cache actually works under the hood
+- built a multi-threaded TCP port scanner with timeout handling and some basic service fingerprinting
