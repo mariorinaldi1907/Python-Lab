@@ -1,1 +1,4 @@
-implemented bellman-ford with negative cycle detection, returns both distances and paths
+added 2 new scripts
+
+- implemented Tarjan's algorithm for finding strongly connected components, been meaning to learn this one for a while
+- built a jq-like JSON query tool because I got tired of piping through multiple commands

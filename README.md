@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-15 | [Tarjan Scc Finder 20260615 203845](projects/tarjan_scc_finder.py_20260615_203845.py) | Built Tarjan's SCC algorithm from scratch because I finally wanted to understand how it identifies cycles in directed graphs using a single DFS pass. |
+| 2026-06-15 | [Json Query Tool 20260615 203914](projects/json_query_tool.py_20260615_203914.py) | Created a CLI tool to extract and filter JSON data using dot notation paths, with optional pretty printing and value filtering. |
 | 2026-06-15 | [Bellman Ford Shortest Path 20260615 182024](projects/bellman_ford_shortest_path.py_20260615_182024.py) | Built Bellman-Ford algorithm because I wanted something that handles negative edge weights unlike Dijkstra — detects negative cycles too. |
 | 2026-06-15 | [Modular Arithmetic Toolkit 20260615 160730](projects/modular_arithmetic_toolkit.py_20260615_160730.py) | Implemented modular exponentiation, multiplicative inverse, and Chinese Remainder Theorem solver because I kept needing these for crypto puzzles and Project Euler problems. |
 | 2026-06-15 | [Floyd Warshall All Pairs Shortest Path 20260615 131032](projects/floyd_warshall_all_pairs_shortest_path.py_20260615_131032.py) | Built Floyd-Warshall algorithm to find shortest paths between all vertex pairs — wanted something that could handle negative weights unlike Dijkstra. |
