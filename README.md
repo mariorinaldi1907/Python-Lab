@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-15 | [Convex Hull Gift Wrapping 20260615 102843](projects/convex_hull_gift_wrapping.py_20260615_102843.py) | Built a convex hull solver using the gift wrapping (Jarvis march) algorithm because I wanted something intuitive to visualize point clouds. |
+| 2026-06-15 | [Bidirectional Bfs Shortest Path 20260615 102911](projects/bidirectional_bfs_shortest_path.py_20260615_102911.py) | Built a bidirectional BFS algorithm that searches from both ends simultaneously, cutting search space dramatically for finding shortest paths in unweighted graphs. |
+| 2026-06-15 | [Lazy Pipeline Executor 20260615 102937](projects/lazy_pipeline_executor.py_20260615_102937.py) | Created a composable function pipeline that evaluates lazily and caches results, because I got tired of recomputing expensive operations in my data scripts. |
 | 2026-06-15 | [Modular Arithmetic Toolkit 20260615 062917](projects/modular_arithmetic_toolkit.py_20260615_062917.py) | Implemented common modular arithmetic operations I kept rewriting for Project Euler problems — includes fast modular exponentiation, modular inverse via extended GCD, and Chinese Remainder Theorem solver. |
 | 2026-06-14 | [Naive Bayes From Scratch 20260614 185234](projects/naive_bayes_from_scratch.py_20260614_185234.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic classification better — includes smoothing and handles continuous features. |
 | 2026-06-14 | [Duplicate Finder 20260614 185302](projects/duplicate_finder.py_20260614_185302.py) | Made a duplicate file finder that uses SHA256 hashing to identify identical files across directories — helps me reclaim disk space from accidentally duplicated photos and documents. |
