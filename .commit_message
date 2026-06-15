@@ -1,5 +1,5 @@
 added 3 new scripts
 
-- implemented gift wrapping algorithm for convex hulls, threw in some visualization with ascii art for fun
-- implemented bidirectional BFS for shortest path — way faster on large graphs than vanilla BFS
-- built a lazy pipeline system with memoization — finally understand why functional programming nerds won't shut up about this
+- implemented Floyd-Warshall for all-pairs shortest paths, includes path reconstruction and handles negative edges
+- built a Bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values
+- built an async rate limiter with token bucket algorithm, includes concurrent request simulation

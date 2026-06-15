@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-15 | [Floyd Warshall All Pairs Shortest Path 20260615 131032](projects/floyd_warshall_all_pairs_shortest_path.py_20260615_131032.py) | Built Floyd-Warshall algorithm to find shortest paths between all vertex pairs — wanted something that could handle negative weights unlike Dijkstra. |
+| 2026-06-15 | [Bayesian Ab Tester 20260615 131105](projects/bayesian_ab_tester.py_20260615_131105.py) | Created a Bayesian A/B testing module that uses beta distributions to compare conversion rates and compute probability of superiority — much more interpretable than traditional hypothesis testing. |
+| 2026-06-15 | [Async Rate Limiter Demo 20260615 131130](projects/async_rate_limiter_demo.py_20260615_131130.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns — handles burst traffic and graceful degradation. |
 | 2026-06-15 | [Convex Hull Gift Wrapping 20260615 102843](projects/convex_hull_gift_wrapping.py_20260615_102843.py) | Built a convex hull solver using the gift wrapping (Jarvis march) algorithm because I wanted something intuitive to visualize point clouds. |
 | 2026-06-15 | [Bidirectional Bfs Shortest Path 20260615 102911](projects/bidirectional_bfs_shortest_path.py_20260615_102911.py) | Built a bidirectional BFS algorithm that searches from both ends simultaneously, cutting search space dramatically for finding shortest paths in unweighted graphs. |
 | 2026-06-15 | [Lazy Pipeline Executor 20260615 102937](projects/lazy_pipeline_executor.py_20260615_102937.py) | Created a composable function pipeline that evaluates lazily and caches results, because I got tired of recomputing expensive operations in my data scripts. |
