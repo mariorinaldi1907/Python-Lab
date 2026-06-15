@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- implemented Floyd-Warshall for all-pairs shortest paths, includes path reconstruction and handles negative edges
-- built a Bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values
-- built an async rate limiter with token bucket algorithm, includes concurrent request simulation
+built a modular arithmetic toolkit with fast exponentiation, inverse, and CRT solver
