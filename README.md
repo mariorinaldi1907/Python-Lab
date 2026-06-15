@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-15 | [Modular Arithmetic Toolkit 20260615 062917](projects/modular_arithmetic_toolkit.py_20260615_062917.py) | Implemented common modular arithmetic operations I kept rewriting for Project Euler problems — includes fast modular exponentiation, modular inverse via extended GCD, and Chinese Remainder Theorem solver. |
 | 2026-06-14 | [Naive Bayes From Scratch 20260614 185234](projects/naive_bayes_from_scratch.py_20260614_185234.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic classification better — includes smoothing and handles continuous features. |
 | 2026-06-14 | [Duplicate Finder 20260614 185302](projects/duplicate_finder.py_20260614_185302.py) | Made a duplicate file finder that uses SHA256 hashing to identify identical files across directories — helps me reclaim disk space from accidentally duplicated photos and documents. |
 | 2026-06-14 | [Word Frequency Analyzer 20260614 153126](projects/word_frequency_analyzer.py_20260614_153126.py) | Created a CLI tool to analyze word frequency in text files with sorting options and export formats — something I needed for analyzing my writing patterns. |
