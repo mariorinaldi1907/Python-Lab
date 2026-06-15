@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-15 | [Bellman Ford Shortest Path 20260615 182024](projects/bellman_ford_shortest_path.py_20260615_182024.py) | Built Bellman-Ford algorithm because I wanted something that handles negative edge weights unlike Dijkstra — detects negative cycles too. |
 | 2026-06-15 | [Modular Arithmetic Toolkit 20260615 160730](projects/modular_arithmetic_toolkit.py_20260615_160730.py) | Implemented modular exponentiation, multiplicative inverse, and Chinese Remainder Theorem solver because I kept needing these for crypto puzzles and Project Euler problems. |
 | 2026-06-15 | [Floyd Warshall All Pairs Shortest Path 20260615 131032](projects/floyd_warshall_all_pairs_shortest_path.py_20260615_131032.py) | Built Floyd-Warshall algorithm to find shortest paths between all vertex pairs — wanted something that could handle negative weights unlike Dijkstra. |
 | 2026-06-15 | [Bayesian Ab Tester 20260615 131105](projects/bayesian_ab_tester.py_20260615_131105.py) | Created a Bayesian A/B testing module that uses beta distributions to compare conversion rates and compute probability of superiority — much more interpretable than traditional hypothesis testing. |

@@ -1,1 +1,1 @@
-built a modular arithmetic toolkit with fast exponentiation, inverse, and CRT solver
+implemented bellman-ford with negative cycle detection, returns both distances and paths
