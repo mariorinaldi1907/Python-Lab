@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-16 | [Tarjans Scc Finder 20260616 120923](projects/tarjans_scc_finder.py_20260616_120923.py) | Built Tarjan's SCC algorithm from scratch to detect cycles and component structure in directed graphs — uses a single DFS pass with low-link values. |
+| 2026-06-16 | [Command Pattern Text Editor 20260616 120945](projects/command_pattern_text_editor.py_20260616_120945.py) | Built a minimal text editor using the command pattern to handle undo/redo operations cleanly — makes it super easy to add new editing commands. |
+| 2026-06-16 | [Lru Cache From Scratch 20260616 121010](projects/lru_cache_from_scratch.py_20260616_121010.py) | Built an LRU cache from scratch to understand how least-recently-used eviction works under the hood — used a hashmap for fast lookups and a doubly linked list to track access order. |
 | 2026-06-16 | [Lazy Pipeline 20260616 093117](projects/lazy_pipeline.py_20260616_093117.py) | Created a composable lazy pipeline that delays computation until values are needed, with support for currying and function composition because I got tired of writing nested map/filter calls. |
 | 2026-06-16 | [Word Ladder Solver 20260616 093139](projects/word_ladder_solver.py_20260616_093139.py) | Built a word ladder puzzle solver that finds the shortest transformation path between two words by changing one letter at a time. |
 | 2026-06-16 | [Lru Cache Implementation 20260616 093204](projects/lru_cache_implementation.py_20260616_093204.py) | Built an LRU cache from scratch to understand how caching strategies work — uses OrderedDict to track access order and supports capacity limits. |
