@@ -1,1 +1,4 @@
-built a markov chain text generator with configurable n-gram size, handles punctuation nicely
+added 2 new scripts
+
+- implemented naive bayes from scratch with laplace smoothing, works surprisingly well on text classification
+- built a bootstrap hypothesis tester with permutation tests and confidence intervals

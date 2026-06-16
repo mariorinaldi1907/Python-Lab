@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-16 | [Naive Bayes Classifier 20260616 182422](projects/naive_bayes_classifier.py_20260616_182422.py) | Built a Gaussian and Multinomial Naive Bayes classifier to really understand how probabilistic classification works under the hood. |
+| 2026-06-16 | [Bootstrap Hypothesis Tester 20260616 182455](projects/bootstrap_hypothesis_tester.py_20260616_182455.py) | Implemented bootstrap resampling and permutation testing from scratch because I wanted to understand the mechanics behind statistical significance without reaching for scipy. |
 | 2026-06-16 | [Markov Text Generator 20260616 152514](projects/markov_text_generator.py_20260616_152514.py) | Implemented a Markov chain generator that creates surprisingly coherent text from any input corpus — been wanting to play with this since reading about it in college. |
 | 2026-06-16 | [Tarjans Scc Finder 20260616 120923](projects/tarjans_scc_finder.py_20260616_120923.py) | Built Tarjan's SCC algorithm from scratch to detect cycles and component structure in directed graphs — uses a single DFS pass with low-link values. |
 | 2026-06-16 | [Command Pattern Text Editor 20260616 120945](projects/command_pattern_text_editor.py_20260616_120945.py) | Built a minimal text editor using the command pattern to handle undo/redo operations cleanly — makes it super easy to add new editing commands. |
