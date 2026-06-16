@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-16 | [Bayesian Ab Tester 20260616 063549](projects/bayesian_ab_tester.py_20260616_063549.py) | Implemented a Bayesian A/B test analyzer using beta distributions to calculate probabilities that one variant beats another — felt like this approach gives more intuitive results than traditional hypothesis testing. |
+| 2026-06-16 | [Pollards Rho Factorization 20260616 063619](projects/pollards_rho_factorization.py_20260616_063619.py) | Built a fast integer factorization tool using Pollard's rho algorithm because I was curious how RSA-style problems get cracked — includes primality testing with Miller-Rabin. |
+| 2026-06-16 | [Async Port Scanner 20260616 063644](projects/async_port_scanner.py_20260616_063644.py) | Created a concurrent port scanner because I got tired of waiting for nmap when I just want to check a handful of common ports quickly. |
 | 2026-06-15 | [Tarjan Scc Finder 20260615 203845](projects/tarjan_scc_finder.py_20260615_203845.py) | Built Tarjan's SCC algorithm from scratch because I finally wanted to understand how it identifies cycles in directed graphs using a single DFS pass. |
 | 2026-06-15 | [Json Query Tool 20260615 203914](projects/json_query_tool.py_20260615_203914.py) | Created a CLI tool to extract and filter JSON data using dot notation paths, with optional pretty printing and value filtering. |
 | 2026-06-15 | [Bellman Ford Shortest Path 20260615 182024](projects/bellman_ford_shortest_path.py_20260615_182024.py) | Built Bellman-Ford algorithm because I wanted something that handles negative edge weights unlike Dijkstra — detects negative cycles too. |

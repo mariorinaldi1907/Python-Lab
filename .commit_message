@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- implemented Tarjan's algorithm for finding strongly connected components, been meaning to learn this one for a while
-- built a jq-like JSON query tool because I got tired of piping through multiple commands
+- built a Bayesian A/B testing module with beta distributions, way cleaner than frequentist p-values
+- implemented Pollard's rho algorithm for integer factorization with trial division fallback
+- built a threaded port scanner that actually respects timeouts and doesn't hang forever
