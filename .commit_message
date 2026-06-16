@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- implemented naive bayes from scratch with laplace smoothing, works surprisingly well on text classification
-- built a bootstrap hypothesis tester with permutation tests and confidence intervals
+- built an nginx log parser that extracts and analyzes access patterns from combined format logs
+- built a lazy evaluation pipeline for chaining transformations — super useful for processing large datasets without loading everything into memory
+- built a markov chain text generator that actually preserves sentence structure
