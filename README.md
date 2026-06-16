@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-16 | [Markov Text Generator 20260616 152514](projects/markov_text_generator.py_20260616_152514.py) | Implemented a Markov chain generator that creates surprisingly coherent text from any input corpus — been wanting to play with this since reading about it in college. |
 | 2026-06-16 | [Tarjans Scc Finder 20260616 120923](projects/tarjans_scc_finder.py_20260616_120923.py) | Built Tarjan's SCC algorithm from scratch to detect cycles and component structure in directed graphs — uses a single DFS pass with low-link values. |
 | 2026-06-16 | [Command Pattern Text Editor 20260616 120945](projects/command_pattern_text_editor.py_20260616_120945.py) | Built a minimal text editor using the command pattern to handle undo/redo operations cleanly — makes it super easy to add new editing commands. |
 | 2026-06-16 | [Lru Cache From Scratch 20260616 121010](projects/lru_cache_from_scratch.py_20260616_121010.py) | Built an LRU cache from scratch to understand how least-recently-used eviction works under the hood — used a hashmap for fast lookups and a doubly linked list to track access order. |

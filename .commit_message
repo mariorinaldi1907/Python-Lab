@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- implemented Tarjan's algorithm for finding strongly connected components, been wanting to build this since my algorithms class
-- implemented command pattern for a text editor with undo/redo support
-- implemented an LRU cache with O(1) operations using dict + doubly linked list
+built a markov chain text generator with configurable n-gram size, handles punctuation nicely
