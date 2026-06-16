@@ -1,5 +1,5 @@
 added 3 new scripts
 
-- built a Bayesian A/B testing module with beta distributions, way cleaner than frequentist p-values
-- implemented Pollard's rho algorithm for integer factorization with trial division fallback
-- built a threaded port scanner that actually respects timeouts and doesn't hang forever
+- built a lazy evaluation pipeline for chaining operations without intermediate lists — saves memory on large datasets
+- implemented word ladder solver with BFS, throws in some nice path reconstruction
+- implemented LRU cache with OrderedDict, pretty happy with how clean the eviction logic turned out

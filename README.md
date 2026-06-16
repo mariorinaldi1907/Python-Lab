@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-16 | [Lazy Pipeline 20260616 093117](projects/lazy_pipeline.py_20260616_093117.py) | Created a composable lazy pipeline that delays computation until values are needed, with support for currying and function composition because I got tired of writing nested map/filter calls. |
+| 2026-06-16 | [Word Ladder Solver 20260616 093139](projects/word_ladder_solver.py_20260616_093139.py) | Built a word ladder puzzle solver that finds the shortest transformation path between two words by changing one letter at a time. |
+| 2026-06-16 | [Lru Cache Implementation 20260616 093204](projects/lru_cache_implementation.py_20260616_093204.py) | Built an LRU cache from scratch to understand how caching strategies work — uses OrderedDict to track access order and supports capacity limits. |
 | 2026-06-16 | [Bayesian Ab Tester 20260616 063549](projects/bayesian_ab_tester.py_20260616_063549.py) | Implemented a Bayesian A/B test analyzer using beta distributions to calculate probabilities that one variant beats another — felt like this approach gives more intuitive results than traditional hypothesis testing. |
 | 2026-06-16 | [Pollards Rho Factorization 20260616 063619](projects/pollards_rho_factorization.py_20260616_063619.py) | Built a fast integer factorization tool using Pollard's rho algorithm because I was curious how RSA-style problems get cracked — includes primality testing with Miller-Rabin. |
 | 2026-06-16 | [Async Port Scanner 20260616 063644](projects/async_port_scanner.py_20260616_063644.py) | Created a concurrent port scanner because I got tired of waiting for nmap when I just want to check a handful of common ports quickly. |
