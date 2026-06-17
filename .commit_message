@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- built an nginx log parser that extracts and analyzes access patterns from combined format logs
-- built a lazy evaluation pipeline for chaining transformations — super useful for processing large datasets without loading everything into memory
-- built a markov chain text generator that actually preserves sentence structure
+built an RPN calculator with proper error handling and support for basic math ops plus some extras like modulo and power
