@@ -1,1 +1,1 @@
-built an RPN calculator with proper error handling and support for basic math ops plus some extras like modulo and power
+built a lazy evaluation pipeline with currying and memoization — chains functions without computing until needed
