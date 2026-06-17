@@ -1,1 +1,1 @@
-implemented Tarjan's algorithm for finding SCCs in directed graphs, pretty proud of this one
+built an nginx access log parser that extracts useful stats and detects suspicious patterns
