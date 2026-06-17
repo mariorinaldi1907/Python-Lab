@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-17 | [Simple Expression Evaluator 20260617 193731](projects/simple_expression_evaluator.py_20260617_193731.py) | Wrote a simple expression evaluator that parses and computes arithmetic expressions with proper operator precedence — wanted something cleaner than eval(). |
 | 2026-06-17 | [Nginx Log Parser 20260617 140717](projects/nginx_log_parser.py_20260617_140717.py) | Wrote a parser for nginx access logs that gives me quick insights into traffic patterns, response codes, and potential bot activity on my server. |
 | 2026-06-17 | [Tarjans Strongly Connected Components 20260617 114424](projects/tarjans_strongly_connected_components.py_20260617_114424.py) | Built Tarjan's algorithm to find strongly connected components in directed graphs — wanted something more elegant than Kosaraju's two-pass approach. |
 | 2026-06-17 | [Lazy Pipeline Toolkit 20260617 090612](projects/lazy_pipeline_toolkit.py_20260617_090612.py) | Created a functional programming toolkit that lets me compose operations lazily, curry functions naturally, and cache expensive computations automatically. |
