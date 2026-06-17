@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-17 | [Tarjans Strongly Connected Components 20260617 114424](projects/tarjans_strongly_connected_components.py_20260617_114424.py) | Built Tarjan's algorithm to find strongly connected components in directed graphs — wanted something more elegant than Kosaraju's two-pass approach. |
 | 2026-06-17 | [Lazy Pipeline Toolkit 20260617 090612](projects/lazy_pipeline_toolkit.py_20260617_090612.py) | Created a functional programming toolkit that lets me compose operations lazily, curry functions naturally, and cache expensive computations automatically. |
 | 2026-06-17 | [Rpn Calculator 20260617 061703](projects/rpn_calculator.py_20260617_061703.py) | Created a reverse polish notation calculator that tokenizes input, validates syntax, and evaluates expressions using a stack-based approach. |
 | 2026-06-16 | [Nginx Log Parser 20260616 202548](projects/nginx_log_parser.py_20260616_202548.py) | Created a parser for nginx access logs that breaks down requests by status code, IP, and endpoint — helps me quickly audit traffic on my personal servers. |

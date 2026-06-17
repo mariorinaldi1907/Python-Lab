@@ -1,1 +1,1 @@
-built a lazy evaluation pipeline with currying and memoization — chains functions without computing until needed
+implemented Tarjan's algorithm for finding SCCs in directed graphs, pretty proud of this one
