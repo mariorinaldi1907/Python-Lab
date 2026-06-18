@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- built an nginx access log parser that extracts request patterns and shows top IPs, endpoints, and status codes
-- built an async token bucket rate limiter with real consumer simulation
-- implemented Eratosthenes sieve with segmented variant for huge ranges, added prime factorization too
+- built a markov chain text generator with configurable state size, been wanting to play with this for a while
+- implemented Floyd-Warshall for all-pairs shortest paths, handles negative weights and cycle detection

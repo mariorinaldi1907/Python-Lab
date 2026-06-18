@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-18 | [Markov Text Generator 20260618 085408](projects/markov_text_generator.py_20260618_085408.py) | Implemented a Markov chain text generator that learns from input text and produces random but statistically similar output — adjustable n-gram size for different coherence levels. |
+| 2026-06-18 | [Floyd Warshall Shortest Paths 20260618 085437](projects/floyd_warshall_shortest_paths.py_20260618_085437.py) | Built Floyd-Warshall algorithm to find shortest paths between all vertex pairs — wanted something that could handle negative edges unlike Dijkstra. |
 | 2026-06-18 | [Nginx Log Parser 20260618 055809](projects/nginx_log_parser.py_20260618_055809.py) | Created a parser for nginx-style access logs because I wanted to quickly analyze traffic patterns without spinning up ELK stack for small projects. |
 | 2026-06-18 | [Async Rate Limiter Demo 20260618 055834](projects/async_rate_limiter_demo.py_20260618_055834.py) | Implemented a token bucket rate limiter using asyncio to see how to throttle concurrent API calls properly — something I wish I had when I was hammering external APIs last month. |
 | 2026-06-18 | [Prime Sieve Toolkit 20260618 055900](projects/prime_sieve_toolkit.py_20260618_055900.py) | Built a prime number toolkit with both basic and segmented sieves because I got tired of writing the same logic in CTF challenges. |
