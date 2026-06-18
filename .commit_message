@@ -1,1 +1,5 @@
-built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly
+added 3 new scripts
+
+- built an nginx access log parser that extracts request patterns and shows top IPs, endpoints, and status codes
+- built an async token bucket rate limiter with real consumer simulation
+- implemented Eratosthenes sieve with segmented variant for huge ranges, added prime factorization too

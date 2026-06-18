@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-18 | [Nginx Log Parser 20260618 055809](projects/nginx_log_parser.py_20260618_055809.py) | Created a parser for nginx-style access logs because I wanted to quickly analyze traffic patterns without spinning up ELK stack for small projects. |
+| 2026-06-18 | [Async Rate Limiter Demo 20260618 055834](projects/async_rate_limiter_demo.py_20260618_055834.py) | Implemented a token bucket rate limiter using asyncio to see how to throttle concurrent API calls properly — something I wish I had when I was hammering external APIs last month. |
+| 2026-06-18 | [Prime Sieve Toolkit 20260618 055900](projects/prime_sieve_toolkit.py_20260618_055900.py) | Built a prime number toolkit with both basic and segmented sieves because I got tired of writing the same logic in CTF challenges. |
 | 2026-06-17 | [Simple Expression Evaluator 20260617 193731](projects/simple_expression_evaluator.py_20260617_193731.py) | Wrote a simple expression evaluator that parses and computes arithmetic expressions with proper operator precedence — wanted something cleaner than eval(). |
 | 2026-06-17 | [Nginx Log Parser 20260617 140717](projects/nginx_log_parser.py_20260617_140717.py) | Wrote a parser for nginx access logs that gives me quick insights into traffic patterns, response codes, and potential bot activity on my server. |
 | 2026-06-17 | [Tarjans Strongly Connected Components 20260617 114424](projects/tarjans_strongly_connected_components.py_20260617_114424.py) | Built Tarjan's algorithm to find strongly connected components in directed graphs — wanted something more elegant than Kosaraju's two-pass approach. |
