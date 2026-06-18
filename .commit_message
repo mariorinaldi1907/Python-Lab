@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built an async rate limiter with token bucket pattern, handles burst traffic and smooth throttling
-- built a functional pipeline toolkit with lazy evaluation and memoization — really happy with how clean the composition syntax turned out
+built a forest fire sim with simple cellular automaton rules, prints ASCII frames to terminal

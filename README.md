@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-18 | [Forest Fire Simulation 20260618 194044](projects/forest_fire_simulation.py_20260618_194044.py) | Made a forest fire spread simulator using a 2D grid where fire propagates to neighboring trees based on probability — runs in the terminal with ASCII art. |
 | 2026-06-18 | [Async Rate Limiter Demo 20260618 110658](projects/async_rate_limiter_demo.py_20260618_110658.py) | Created an asyncio-based rate limiter using the token bucket algorithm to explore concurrent request handling with configurable limits. |
 | 2026-06-18 | [Functional Pipeline Toolkit 20260618 110729](projects/functional_pipeline_toolkit.py_20260618_110729.py) | Created a functional programming utility that combines lazy evaluation, memoization, and pipeline composition to make data transformations more elegant and performant. |
 | 2026-06-18 | [Markov Text Generator 20260618 085408](projects/markov_text_generator.py_20260618_085408.py) | Implemented a Markov chain text generator that learns from input text and produces random but statistically similar output — adjustable n-gram size for different coherence levels. |
