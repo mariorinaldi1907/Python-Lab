@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a markov chain text generator with configurable state size, been wanting to play with this for a while
-- implemented Floyd-Warshall for all-pairs shortest paths, handles negative weights and cycle detection
+- built an async rate limiter with token bucket pattern, handles burst traffic and smooth throttling
+- built a functional pipeline toolkit with lazy evaluation and memoization — really happy with how clean the composition syntax turned out
