@@ -1,1 +1,4 @@
-built a lazy pipeline system with method chaining and memoization — feels like streaming data without pulling everything into memory
+added 2 new scripts
+
+- implemented topological sort using Kahn's algorithm, added cycle detection because dealing with circular dependencies sucks
+- built a multi-threaded TCP port scanner with timeout handling and service detection
