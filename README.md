@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-19 | [K Means Clustering From Scratch 20260619 162644](projects/k_means_clustering_from_scratch.py_20260619_162644.py) | Built k-means clustering without any ML libraries to really understand how the algorithm converges through iterative centroid updates. |
+| 2026-06-19 | [Epidemic Sim Sir Model 20260619 162713](projects/epidemic_sim_sir_model.py_20260619_162713.py) | Implemented a spatial SIR epidemic model where agents move randomly on a grid and spread infection through proximity — runs entirely in the terminal with ASCII visualization. |
 | 2026-06-19 | [Topological Sort With Cycle Detection 20260619 135344](projects/topological_sort_with_cycle_detection.py_20260619_135344.py) | Built a topological sorter that detects cycles in directed graphs — useful for dependency resolution and build systems. |
 | 2026-06-19 | [Tcp Port Scanner 20260619 135410](projects/tcp_port_scanner.py_20260619_135410.py) | Created a concurrent port scanner that probes common services and handles connection timeouts gracefully — useful for quick network audits on my home lab. |
 | 2026-06-19 | [Lazy Pipeline Evaluator 20260619 111740](projects/lazy_pipeline_evaluator.py_20260619_111740.py) | Created a functional programming toolkit that lets me chain operations lazily and cache expensive computations, because I got tired of loading huge datasets just to filter them. |

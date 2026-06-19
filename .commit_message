@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented topological sort using Kahn's algorithm, added cycle detection because dealing with circular dependencies sucks
-- built a multi-threaded TCP port scanner with timeout handling and service detection
+- implemented k-means clustering from scratch, using euclidean distance and random centroid initialization
+- built a basic SIR epidemic simulator with contact tracing and visualization in the terminal
