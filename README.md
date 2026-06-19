@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-19 | [Directory Tree Printer 20260619 191553](projects/directory_tree_printer.py_20260619_191553.py) | Made a CLI tool that prints directory structures with file sizes and lets you filter by extension or depth, because I got tired of using `tree` without good filtering options. |
 | 2026-06-19 | [K Means Clustering From Scratch 20260619 162644](projects/k_means_clustering_from_scratch.py_20260619_162644.py) | Built k-means clustering without any ML libraries to really understand how the algorithm converges through iterative centroid updates. |
 | 2026-06-19 | [Epidemic Sim Sir Model 20260619 162713](projects/epidemic_sim_sir_model.py_20260619_162713.py) | Implemented a spatial SIR epidemic model where agents move randomly on a grid and spread infection through proximity — runs entirely in the terminal with ASCII visualization. |
 | 2026-06-19 | [Topological Sort With Cycle Detection 20260619 135344](projects/topological_sort_with_cycle_detection.py_20260619_135344.py) | Built a topological sorter that detects cycles in directed graphs — useful for dependency resolution and build systems. |
