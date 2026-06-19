@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-19 | [Patience Diff 20260619 062332](projects/patience_diff.py_20260619_062332.py) | Built a patience diff implementation because I wanted to understand why Git prefers it for certain files - turns out anchoring on unique lines really does produce more readable diffs. |
+| 2026-06-19 | [Kmeans Clustering From Scratch 20260619 062358](projects/kmeans_clustering_from_scratch.py_20260619_062358.py) | Built k-means clustering with random initialization and convergence detection — wanted to really understand how cluster assignments work under the hood. |
+| 2026-06-19 | [Lru Cache Implementation 20260619 062423](projects/lru_cache_implementation.py_20260619_062423.py) | Built an LRU cache with O(1) get/put operations to finally understand the doubly-linked list + hashmap pattern everyone talks about. |
 | 2026-06-18 | [Forest Fire Simulation 20260618 194044](projects/forest_fire_simulation.py_20260618_194044.py) | Made a forest fire spread simulator using a 2D grid where fire propagates to neighboring trees based on probability — runs in the terminal with ASCII art. |
 | 2026-06-18 | [Async Rate Limiter Demo 20260618 110658](projects/async_rate_limiter_demo.py_20260618_110658.py) | Created an asyncio-based rate limiter using the token bucket algorithm to explore concurrent request handling with configurable limits. |
 | 2026-06-18 | [Functional Pipeline Toolkit 20260618 110729](projects/functional_pipeline_toolkit.py_20260618_110729.py) | Created a functional programming utility that combines lazy evaluation, memoization, and pipeline composition to make data transformations more elegant and performant. |
