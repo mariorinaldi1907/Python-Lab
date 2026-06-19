@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-19 | [Lazy Pipeline Evaluator 20260619 111740](projects/lazy_pipeline_evaluator.py_20260619_111740.py) | Created a functional programming toolkit that lets me chain operations lazily and cache expensive computations, because I got tired of loading huge datasets just to filter them. |
 | 2026-06-19 | [Modular Arithmetic Toolkit 20260619 090831](projects/modular_arithmetic_toolkit.py_20260619_090831.py) | Created a collection of modular arithmetic functions I keep needing for Project Euler and CTF challenges, featuring fast modular exponentiation and the extended Euclidean algorithm. |
 | 2026-06-19 | [Rpn Calculator 20260619 090858](projects/rpn_calculator.py_20260619_090858.py) | Implemented a reverse Polish notation calculator that parses expressions and evaluates them using a stack — added mod, power, and a few convenience operators for fun. |
 | 2026-06-19 | [Naive Bayes Classifier 20260619 090925](projects/naive_bayes_classifier.py_20260619_090925.py) | Built a multinomial naive bayes classifier to understand how probabilistic text classification actually works under the hood. |

@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- built a modular arithmetic toolkit with fast exponentiation, extended gcd, and modular inverse — helpful for crypto/number theory stuff
-- built an RPN calculator with stack-based evaluation, supports basic math and some extra operators
-- implemented naive bayes from scratch with laplace smoothing, tested on text classification
+built a lazy pipeline system with method chaining and memoization — feels like streaming data without pulling everything into memory
