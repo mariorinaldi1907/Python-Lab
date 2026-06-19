@@ -1,5 +1,5 @@
 added 3 new scripts
 
-- implemented patience diff algorithm - cleaner diffs for code than traditional myers, handles unique lines better
-- implemented k-means clustering from scratch, figured out the centroid update logic and added early stopping
-- implemented an LRU cache from scratch using a doubly-linked list and hashmap — wanted to understand how functools.lru_cache works under the hood
+- built a modular arithmetic toolkit with fast exponentiation, extended gcd, and modular inverse — helpful for crypto/number theory stuff
+- built an RPN calculator with stack-based evaluation, supports basic math and some extra operators
+- implemented naive bayes from scratch with laplace smoothing, tested on text classification

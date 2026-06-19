@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-19 | [Modular Arithmetic Toolkit 20260619 090831](projects/modular_arithmetic_toolkit.py_20260619_090831.py) | Created a collection of modular arithmetic functions I keep needing for Project Euler and CTF challenges, featuring fast modular exponentiation and the extended Euclidean algorithm. |
+| 2026-06-19 | [Rpn Calculator 20260619 090858](projects/rpn_calculator.py_20260619_090858.py) | Implemented a reverse Polish notation calculator that parses expressions and evaluates them using a stack — added mod, power, and a few convenience operators for fun. |
+| 2026-06-19 | [Naive Bayes Classifier 20260619 090925](projects/naive_bayes_classifier.py_20260619_090925.py) | Built a multinomial naive bayes classifier to understand how probabilistic text classification actually works under the hood. |
 | 2026-06-19 | [Patience Diff 20260619 062332](projects/patience_diff.py_20260619_062332.py) | Built a patience diff implementation because I wanted to understand why Git prefers it for certain files - turns out anchoring on unique lines really does produce more readable diffs. |
 | 2026-06-19 | [Kmeans Clustering From Scratch 20260619 062358](projects/kmeans_clustering_from_scratch.py_20260619_062358.py) | Built k-means clustering with random initialization and convergence detection — wanted to really understand how cluster assignments work under the hood. |
 | 2026-06-19 | [Lru Cache Implementation 20260619 062423](projects/lru_cache_implementation.py_20260619_062423.py) | Built an LRU cache with O(1) get/put operations to finally understand the doubly-linked list + hashmap pattern everyone talks about. |
