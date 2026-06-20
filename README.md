@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-20 | [Async Rate Limiter Demo 20260620 185607](projects/async_rate_limiter_demo.py_20260620_185607.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns and see how burst traffic gets smoothed out over time. |
+| 2026-06-20 | [Epidemic Sir Simulator 20260620 185638](projects/epidemic_sir_simulator.py_20260620_185638.py) | Implemented a stochastic SIR (Susceptible-Infected-Recovered) epidemic simulator that runs in the terminal and shows how diseases spread through populations with configurable parameters. |
 | 2026-06-20 | [Async Rate Limiter Demo 20260620 152714](projects/async_rate_limiter_demo.py_20260620_152714.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns and demonstrate how to throttle API calls or worker tasks. |
 | 2026-06-20 | [Tarjans Scc Finder 20260620 152744](projects/tarjans_scc_finder.py_20260620_152744.py) | Built Tarjan's SCC algorithm from scratch to detect cycles and component structure in directed graphs — uses DFS with low-link values. |
 | 2026-06-20 | [Word Ladder Solver 20260620 121357](projects/word_ladder_solver.py_20260620_121357.py) | Built a word ladder puzzle solver using breadth-first search to find the shortest chain of single-letter transformations between two words. |
