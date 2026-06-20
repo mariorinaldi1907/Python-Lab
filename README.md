@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-20 | [Async Rate Limiter Demo 20260620 152714](projects/async_rate_limiter_demo.py_20260620_152714.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns and demonstrate how to throttle API calls or worker tasks. |
+| 2026-06-20 | [Tarjans Scc Finder 20260620 152744](projects/tarjans_scc_finder.py_20260620_152744.py) | Built Tarjan's SCC algorithm from scratch to detect cycles and component structure in directed graphs — uses DFS with low-link values. |
 | 2026-06-20 | [Word Ladder Solver 20260620 121357](projects/word_ladder_solver.py_20260620_121357.py) | Built a word ladder puzzle solver using breadth-first search to find the shortest chain of single-letter transformations between two words. |
 | 2026-06-20 | [Naive Bayes Classifier 20260620 121431](projects/naive_bayes_classifier.py_20260620_121431.py) | Built a Gaussian and Multinomial Naive Bayes classifier to understand probabilistic classification better — handles both continuous and discrete features. |
 | 2026-06-20 | [Async Port Scanner 20260620 121456](projects/async_port_scanner.py_20260620_121456.py) | Wrote a multi-threaded port scanner that checks which ports are open on a target and tries to grab service banners — way faster than sequential scanning. |
