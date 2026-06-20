@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- built an async rate limiter using token bucket algorithm, tested with parallel API-style requests
-- implemented command pattern for a simple text editor with undo/redo support
+- implemented word ladder solver with BFS, prints shortest transformation paths between words
+- implemented naive bayes from scratch with laplace smoothing, tested on simple text classification
+- built a concurrent port scanner with threading, added banner grabbing for common services
