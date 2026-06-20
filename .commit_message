@@ -1,1 +1,4 @@
-built a directory tree visualizer with size tracking and filtering — handles symlinks gracefully
+added 2 new scripts
+
+- built an async rate limiter using token bucket algorithm, tested with parallel API-style requests
+- implemented command pattern for a simple text editor with undo/redo support
