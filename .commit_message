@@ -1,1 +1,4 @@
-built a forest fire spread simulator with wind direction and humidity — watching patterns emerge is mesmerizing
+added 2 new scripts
+
+- implemented Graham scan for convex hull, handles collinear points and edge cases properly
+- built a lazy pipeline for chaining transformations without executing until needed, pretty happy with how composable it turned out
