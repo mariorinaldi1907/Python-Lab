@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-21 | [Word Ladder Solver 20260621 190322](projects/word_ladder_solver.py_20260621_190322.py) | Built a word ladder solver using BFS to find the shortest transformation path between two words — added bidirectional search because I got curious about optimization. |
+| 2026-06-21 | [Lru Cache Implementation 20260621 190344](projects/lru_cache_implementation.py_20260621_190344.py) | Built an LRU (Least Recently Used) cache to understand the underlying mechanics of eviction policies and O(1) access patterns. |
 | 2026-06-21 | [Convex Hull Graham Scan 20260621 122325](projects/convex_hull_graham_scan.py_20260621_122325.py) | Built a convex hull finder using Graham's scan algorithm because I needed to visualize point sets and their boundaries for a mapping side project. |
 | 2026-06-21 | [Lazy Pipeline 20260621 122353](projects/lazy_pipeline.py_20260621_122353.py) | Created a functional programming utility that implements lazy evaluation pipelines with method chaining — transformations only execute when you actually consume the results. |
 | 2026-06-21 | [Forest Fire Simulation 20260621 060611](projects/forest_fire_simulation.py_20260621_060611.py) | Created a cellular automaton simulating wildfire propagation across a grid with wind effects and probabilistic spreading mechanics. |

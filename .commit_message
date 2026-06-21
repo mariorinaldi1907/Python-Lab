@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented Graham scan for convex hull, handles collinear points and edge cases properly
-- built a lazy pipeline for chaining transformations without executing until needed, pretty happy with how composable it turned out
+- implemented word ladder BFS solver with bidirectional search for speed, handles unreachable words gracefully
+- implemented an LRU cache from scratch using a doubly linked list and hashmap — was curious how the internals actually work
