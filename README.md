@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-21 | [Forest Fire Simulation 20260621 060611](projects/forest_fire_simulation.py_20260621_060611.py) | Created a cellular automaton simulating wildfire propagation across a grid with wind effects and probabilistic spreading mechanics. |
 | 2026-06-20 | [Async Rate Limiter Demo 20260620 185607](projects/async_rate_limiter_demo.py_20260620_185607.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns and see how burst traffic gets smoothed out over time. |
 | 2026-06-20 | [Epidemic Sir Simulator 20260620 185638](projects/epidemic_sir_simulator.py_20260620_185638.py) | Implemented a stochastic SIR (Susceptible-Infected-Recovered) epidemic simulator that runs in the terminal and shows how diseases spread through populations with configurable parameters. |
 | 2026-06-20 | [Async Rate Limiter Demo 20260620 152714](projects/async_rate_limiter_demo.py_20260620_152714.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns and demonstrate how to throttle API calls or worker tasks. |

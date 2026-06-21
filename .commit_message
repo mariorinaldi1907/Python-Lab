@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built an async rate limiter with token bucket algorithm, handles bursts and refills gracefully
-- built a simple SIR epidemic model with visualization in the terminal — watched infection curves propagate through a population
+built a forest fire spread simulator with wind direction and humidity — watching patterns emerge is mesmerizing
