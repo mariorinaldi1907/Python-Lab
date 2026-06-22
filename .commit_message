@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- implemented topological sort using DFS with cycle detection, handles disconnected DAGs nicely
-- implemented command pattern for a simple text editor with undo/redo support
-- implemented gift wrapping algorithm for convex hulls, feels satisfying to watch it "wrap" around points
+- implemented gift wrapping algorithm for convex hulls, handles collinear points and edge cases
+- built an async rate limiter with token bucket pattern, pretty happy with how the burst handling turned out

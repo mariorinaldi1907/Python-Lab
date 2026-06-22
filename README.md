@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-22 | [Convex Hull Gift Wrapping 20260622 153502](projects/convex_hull_gift_wrapping.py_20260622_153502.py) | Built a convex hull calculator using the gift wrapping (Jarvis march) algorithm because I needed to find boundaries of point clouds for a side project. |
+| 2026-06-22 | [Async Rate Limiter Demo 20260622 153530](projects/async_rate_limiter_demo.py_20260622_153530.py) | Created an async rate limiter using the token bucket algorithm to explore concurrency patterns and see how asyncio handles real-world API throttling scenarios. |
 | 2026-06-22 | [Topological Sort With Cycle Detection 20260622 124606](projects/topological_sort_with_cycle_detection.py_20260622_124606.py) | Built a topological sort algorithm that detects cycles and gracefully handles graphs with multiple components — useful for dependency resolution problems. |
 | 2026-06-22 | [Command Pattern Text Editor 20260622 124632](projects/command_pattern_text_editor.py_20260622_124632.py) | Built a text editor simulator using the command pattern because I wanted to understand how undo/redo stacks actually work under the hood. |
 | 2026-06-22 | [Convex Hull Gift Wrapping 20260622 124704](projects/convex_hull_gift_wrapping.py_20260622_124704.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to understand how computational geometry actually works under the hood. |
