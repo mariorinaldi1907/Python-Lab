@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented gift wrapping algorithm for convex hulls, handles collinear points and edge cases
-- built an async rate limiter with token bucket pattern, pretty happy with how the burst handling turned out
+- implemented BFS word ladder solver with backtracking to find shortest path between two words
+- built a Bayesian A/B test analyzer with Beta distributions and credible intervals — way more intuitive than p-values
