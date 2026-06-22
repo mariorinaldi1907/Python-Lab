@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- implemented word ladder BFS solver with bidirectional search for speed, handles unreachable words gracefully
-- implemented an LRU cache from scratch using a doubly linked list and hashmap — was curious how the internals actually work
+- implemented topological sort using DFS with cycle detection, handles disconnected DAGs nicely
+- implemented command pattern for a simple text editor with undo/redo support
+- implemented gift wrapping algorithm for convex hulls, feels satisfying to watch it "wrap" around points

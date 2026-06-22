@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-22 | [Topological Sort With Cycle Detection 20260622 124606](projects/topological_sort_with_cycle_detection.py_20260622_124606.py) | Built a topological sort algorithm that detects cycles and gracefully handles graphs with multiple components — useful for dependency resolution problems. |
+| 2026-06-22 | [Command Pattern Text Editor 20260622 124632](projects/command_pattern_text_editor.py_20260622_124632.py) | Built a text editor simulator using the command pattern because I wanted to understand how undo/redo stacks actually work under the hood. |
+| 2026-06-22 | [Convex Hull Gift Wrapping 20260622 124704](projects/convex_hull_gift_wrapping.py_20260622_124704.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to understand how computational geometry actually works under the hood. |
 | 2026-06-21 | [Word Ladder Solver 20260621 190322](projects/word_ladder_solver.py_20260621_190322.py) | Built a word ladder solver using BFS to find the shortest transformation path between two words — added bidirectional search because I got curious about optimization. |
 | 2026-06-21 | [Lru Cache Implementation 20260621 190344](projects/lru_cache_implementation.py_20260621_190344.py) | Built an LRU (Least Recently Used) cache to understand the underlying mechanics of eviction policies and O(1) access patterns. |
 | 2026-06-21 | [Convex Hull Graham Scan 20260621 122325](projects/convex_hull_graham_scan.py_20260621_122325.py) | Built a convex hull finder using Graham's scan algorithm because I needed to visualize point sets and their boundaries for a mapping side project. |
