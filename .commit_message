@@ -1,1 +1,4 @@
-implemented line-based diff using LCS algorithm, outputs unified-style patches
+added 2 new scripts
+
+- implemented word ladder solver with BFS, finds shortest transformation path between two words
+- implemented naive bayes from scratch, handles continuous features with gaussian distributions

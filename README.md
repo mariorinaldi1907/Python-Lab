@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-23 | [Word Ladder Solver 20260623 132005](projects/word_ladder_solver.py_20260623_132005.py) | Built a word ladder puzzle solver that uses BFS to find the shortest path transforming one word into another by changing one letter at a time. |
+| 2026-06-23 | [Naive Bayes Classifier 20260623 132034](projects/naive_bayes_classifier.py_20260623_132034.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic ML from first principles — works on continuous data using probability density functions. |
 | 2026-06-23 | [Text Diff Lcs 20260623 103349](projects/text_diff_lcs.py_20260623_103349.py) | Built a text diff tool using longest common subsequence to compare files and show insertions/deletions — wanted something lightweight for quick file comparisons. |
 | 2026-06-23 | [Word Frequency Analyzer 20260623 075447](projects/word_frequency_analyzer.py_20260623_075447.py) | Created a CLI tool to analyze word frequencies in text files with stopword filtering and multiple output formats because I got tired of manually counting words in my writing. |
 | 2026-06-23 | [Convex Hull Gift Wrapping 20260623 075516](projects/convex_hull_gift_wrapping.py_20260623_075516.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to visualize point clouds and their boundaries without any external dependencies. |
