@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a lazy evaluation pipeline system with method chaining — only computes when you actually need the result
-- built an nginx access log parser that extracts metrics and detects suspicious patterns
+implemented Tarjan's SCC algorithm with stack-based DFS, prints all components found
