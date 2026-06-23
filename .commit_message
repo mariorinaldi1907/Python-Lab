@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- built a word frequency analyzer that handles stopwords and outputs pretty tables — added sorting options too
-- implemented gift wrapping algorithm for 2D convex hulls, handles collinear points properly
-- built a multithreaded port scanner with timeout handling, ranges work nicely
+implemented line-based diff using LCS algorithm, outputs unified-style patches
