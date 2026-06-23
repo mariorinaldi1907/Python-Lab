@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-23 | [Lazy Pipeline 20260623 161809](projects/lazy_pipeline.py_20260623_161809.py) | Created a composable pipeline that lazily evaluates transformations on iterables, inspired by how much I love Elixir's pipe operator but wanted it in Python. |
+| 2026-06-23 | [Nginx Log Parser 20260623 161842](projects/nginx_log_parser.py_20260623_161842.py) | Wrote a parser for nginx access logs to analyze traffic patterns, count status codes, and flag potential security issues like port scans or SQL injection attempts. |
 | 2026-06-23 | [Word Ladder Solver 20260623 132005](projects/word_ladder_solver.py_20260623_132005.py) | Built a word ladder puzzle solver that uses BFS to find the shortest path transforming one word into another by changing one letter at a time. |
 | 2026-06-23 | [Naive Bayes Classifier 20260623 132034](projects/naive_bayes_classifier.py_20260623_132034.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic ML from first principles — works on continuous data using probability density functions. |
 | 2026-06-23 | [Text Diff Lcs 20260623 103349](projects/text_diff_lcs.py_20260623_103349.py) | Built a text diff tool using longest common subsequence to compare files and show insertions/deletions — wanted something lightweight for quick file comparisons. |

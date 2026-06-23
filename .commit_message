@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented word ladder solver with BFS, finds shortest transformation path between two words
-- implemented naive bayes from scratch, handles continuous features with gaussian distributions
+- built a lazy evaluation pipeline system with method chaining — only computes when you actually need the result
+- built an nginx access log parser that extracts metrics and detects suspicious patterns
