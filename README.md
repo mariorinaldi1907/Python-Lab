@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-23 | [Word Frequency Analyzer 20260623 075447](projects/word_frequency_analyzer.py_20260623_075447.py) | Created a CLI tool to analyze word frequencies in text files with stopword filtering and multiple output formats because I got tired of manually counting words in my writing. |
+| 2026-06-23 | [Convex Hull Gift Wrapping 20260623 075516](projects/convex_hull_gift_wrapping.py_20260623_075516.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to visualize point clouds and their boundaries without any external dependencies. |
+| 2026-06-23 | [Async Port Scanner 20260623 075538](projects/async_port_scanner.py_20260623_075538.py) | Created a concurrent port scanner that checks multiple ports at once — helps me quickly identify what's running on local services during development. |
 | 2026-06-23 | [Epidemic Sim Sir Model 20260623 050505](projects/epidemic_sim_sir_model.py_20260623_050505.py) | Implemented a discrete-time SIR (Susceptible-Infected-Recovered) epidemic model to watch disease dynamics play out in a small population. |
 | 2026-06-22 | [Modular Arithmetic Toolkit 20260622 202024](projects/modular_arithmetic_toolkit.py_20260622_202024.py) | Created a number theory utility for competitive programming practice — includes modular exponentiation, inverse, and Chinese Remainder Theorem solver. |
 | 2026-06-22 | [Word Ladder Solver 20260622 180855](projects/word_ladder_solver.py_20260622_180855.py) | Built a word ladder puzzle solver that finds the shortest transformation sequence between two words by changing one letter at a time. |
