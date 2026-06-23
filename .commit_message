@@ -1,1 +1,1 @@
-built a modular arithmetic toolkit with fast exponentiation and CRT solver, handles big integers smoothly
+built a basic SIR epidemic simulator with ASCII visualization, prints infection waves over time

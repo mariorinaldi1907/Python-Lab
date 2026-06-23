@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-23 | [Epidemic Sim Sir Model 20260623 050505](projects/epidemic_sim_sir_model.py_20260623_050505.py) | Implemented a discrete-time SIR (Susceptible-Infected-Recovered) epidemic model to watch disease dynamics play out in a small population. |
 | 2026-06-22 | [Modular Arithmetic Toolkit 20260622 202024](projects/modular_arithmetic_toolkit.py_20260622_202024.py) | Created a number theory utility for competitive programming practice — includes modular exponentiation, inverse, and Chinese Remainder Theorem solver. |
 | 2026-06-22 | [Word Ladder Solver 20260622 180855](projects/word_ladder_solver.py_20260622_180855.py) | Built a word ladder puzzle solver that finds the shortest transformation sequence between two words by changing one letter at a time. |
 | 2026-06-22 | [Bayesian Ab Test Analyzer 20260622 180927](projects/bayesian_ab_test_analyzer.py_20260622_180927.py) | Implemented a Bayesian A/B testing framework using conjugate priors to compare conversion rates and calculate probabilities of superiority. |
