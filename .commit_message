@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- built an RPN calculator with support for basic ops and some math functions, handles errors gracefully
-- implemented Tarjan's algorithm for strongly connected components, handles disconnected directed graphs
-- implemented topological sort using DFS with cycle detection for dependency resolution
+built run-length encoding with decode support, handles edge cases like single chars and empty strings
