@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-24 | [Huffman Text Compressor 20260624 101903](projects/huffman_text_compressor.py_20260624_101903.py) | Implemented Huffman coding to compress text files — builds the tree, encodes to binary strings, and can decode back to original. |
+| 2026-06-24 | [Recursive Descent Calculator 20260624 101925](projects/recursive_descent_calculator.py_20260624_101925.py) | Wrote a simple expression evaluator using recursive descent parsing because I wanted to understand how compilers handle operator precedence without relying on libraries. |
 | 2026-06-24 | [Nginx Log Parser 20260624 074931](projects/nginx_log_parser.py_20260624_074931.py) | Wrote a parser for nginx access logs that extracts IPs, status codes, and endpoints so I can quickly analyze traffic patterns without grep-ing through gigabytes of logs. |
 | 2026-06-24 | [Bootstrap Hypothesis Tester 20260624 050438](projects/bootstrap_hypothesis_tester.py_20260624_050438.py) | Built a bootstrap resampling module to test hypotheses without assuming normal distributions — handles mean differences, correlation tests, and generates confidence intervals from empirical distributions. |
 | 2026-06-23 | [Tarjans Strongly Connected Components 20260623 192813](projects/tarjans_strongly_connected_components.py_20260623_192813.py) | Built Tarjan's algorithm for finding strongly connected components because I wanted to understand how graph condensation works under the hood. |
