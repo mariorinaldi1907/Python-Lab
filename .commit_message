@@ -1,1 +1,1 @@
-implemented bootstrap resampling with hypothesis testing — added permutation tests and confidence intervals
+built a quick nginx log parser that handles common formats and gives me traffic stats
