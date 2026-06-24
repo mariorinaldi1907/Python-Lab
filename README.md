@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-24 | [Bootstrap Hypothesis Tester 20260624 050438](projects/bootstrap_hypothesis_tester.py_20260624_050438.py) | Built a bootstrap resampling module to test hypotheses without assuming normal distributions — handles mean differences, correlation tests, and generates confidence intervals from empirical distributions. |
 | 2026-06-23 | [Tarjans Strongly Connected Components 20260623 192813](projects/tarjans_strongly_connected_components.py_20260623_192813.py) | Built Tarjan's algorithm for finding strongly connected components because I wanted to understand how graph condensation works under the hood. |
 | 2026-06-23 | [Lazy Pipeline 20260623 161809](projects/lazy_pipeline.py_20260623_161809.py) | Created a composable pipeline that lazily evaluates transformations on iterables, inspired by how much I love Elixir's pipe operator but wanted it in Python. |
 | 2026-06-23 | [Nginx Log Parser 20260623 161842](projects/nginx_log_parser.py_20260623_161842.py) | Wrote a parser for nginx access logs to analyze traffic patterns, count status codes, and flag potential security issues like port scans or SQL injection attempts. |
