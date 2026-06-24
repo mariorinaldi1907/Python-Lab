@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- built a huffman encoder/decoder from scratch, actually saves space on repeated text
-- built a recursive descent parser for arithmetic expressions, handles precedence and parentheses cleanly
+- built an RPN calculator with support for basic ops and some math functions, handles errors gracefully
+- implemented Tarjan's algorithm for strongly connected components, handles disconnected directed graphs
+- implemented topological sort using DFS with cycle detection for dependency resolution

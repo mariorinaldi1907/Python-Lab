@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-24 | [Rpn Calculator 20260624 123146](projects/rpn_calculator.py_20260624_123146.py) | Implemented a reverse polish notation calculator that supports basic arithmetic and a few math functions — wanted something lightweight for quick calculations without dealing with operator precedence parsing. |
+| 2026-06-24 | [Tarjans Scc Finder 20260624 123210](projects/tarjans_scc_finder.py_20260624_123210.py) | Built Tarjan's SCC algorithm because I needed to understand graph cycle structures better and it's way more elegant than Kosaraju's two-pass approach. |
+| 2026-06-24 | [Topological Sort With Cycle Detection 20260624 123239](projects/topological_sort_with_cycle_detection.py_20260624_123239.py) | Built a topological sort algorithm to handle dependency ordering problems, with proper cycle detection so it won't get stuck on circular dependencies. |
 | 2026-06-24 | [Huffman Text Compressor 20260624 101903](projects/huffman_text_compressor.py_20260624_101903.py) | Implemented Huffman coding to compress text files — builds the tree, encodes to binary strings, and can decode back to original. |
 | 2026-06-24 | [Recursive Descent Calculator 20260624 101925](projects/recursive_descent_calculator.py_20260624_101925.py) | Wrote a simple expression evaluator using recursive descent parsing because I wanted to understand how compilers handle operator precedence without relying on libraries. |
 | 2026-06-24 | [Nginx Log Parser 20260624 074931](projects/nginx_log_parser.py_20260624_074931.py) | Wrote a parser for nginx access logs that extracts IPs, status codes, and endpoints so I can quickly analyze traffic patterns without grep-ing through gigabytes of logs. |
