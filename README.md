@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-25 | [Async Rate Limiter Demo 20260625 192639](projects/async_rate_limiter_demo.py_20260625_192639.py) | Implemented a token bucket rate limiter using asyncio to demonstrate how to throttle concurrent API calls or requests in a clean, reusable way. |
 | 2026-06-25 | [Lazy Pipeline Decorator 20260625 161322](projects/lazy_pipeline_decorator.py_20260625_161322.py) | Created a composable pipeline utility that lazily evaluates function chains and caches results, because I got tired of recomputing expensive operations in my data scripts. |
 | 2026-06-25 | [Markov Text Generator 20260625 123631](projects/markov_text_generator.py_20260625_123631.py) | Wrote a Markov chain text generator to experiment with probabilistic text generation — feeds on sample text and spits out surprisingly coherent nonsense. |
 | 2026-06-25 | [Event Driven Task Scheduler 20260625 123658](projects/event_driven_task_scheduler.py_20260625_123658.py) | Built an event-driven task scheduler using the observer pattern because I wanted a clean way to handle multiple reactions to task completions without tight coupling. |

@@ -1,1 +1,1 @@
-built a lazy evaluation pipeline system with memoization — chains functions without computing until needed
+built an async rate limiter with token bucket algorithm, handles burst traffic nicely
