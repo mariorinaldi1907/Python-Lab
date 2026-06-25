@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- built a markov chain text generator that actually produces readable gibberish, uses bigrams and handles edge cases
-- implemented observer pattern for a task scheduler that notifies multiple listeners when jobs complete
-- implemented Tarjan's algorithm for finding strongly connected components, uses DFS with low-link values
+built a lazy evaluation pipeline system with memoization — chains functions without computing until needed

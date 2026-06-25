@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-25 | [Lazy Pipeline Decorator 20260625 161322](projects/lazy_pipeline_decorator.py_20260625_161322.py) | Created a composable pipeline utility that lazily evaluates function chains and caches results, because I got tired of recomputing expensive operations in my data scripts. |
 | 2026-06-25 | [Markov Text Generator 20260625 123631](projects/markov_text_generator.py_20260625_123631.py) | Wrote a Markov chain text generator to experiment with probabilistic text generation — feeds on sample text and spits out surprisingly coherent nonsense. |
 | 2026-06-25 | [Event Driven Task Scheduler 20260625 123658](projects/event_driven_task_scheduler.py_20260625_123658.py) | Built an event-driven task scheduler using the observer pattern because I wanted a clean way to handle multiple reactions to task completions without tight coupling. |
 | 2026-06-25 | [Tarjans Scc Finder 20260625 123727](projects/tarjans_scc_finder.py_20260625_123727.py) | Built Tarjan's SCC algorithm because I wanted to understand how compilers detect cyclic dependencies in module graphs. |
