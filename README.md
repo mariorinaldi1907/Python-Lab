@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-25 | [Markov Text Generator 20260625 123631](projects/markov_text_generator.py_20260625_123631.py) | Wrote a Markov chain text generator to experiment with probabilistic text generation — feeds on sample text and spits out surprisingly coherent nonsense. |
+| 2026-06-25 | [Event Driven Task Scheduler 20260625 123658](projects/event_driven_task_scheduler.py_20260625_123658.py) | Built an event-driven task scheduler using the observer pattern because I wanted a clean way to handle multiple reactions to task completions without tight coupling. |
+| 2026-06-25 | [Tarjans Scc Finder 20260625 123727](projects/tarjans_scc_finder.py_20260625_123727.py) | Built Tarjan's SCC algorithm because I wanted to understand how compilers detect cyclic dependencies in module graphs. |
 | 2026-06-25 | [Plugin System With Command Pattern 20260625 101338](projects/plugin_system_with_command_pattern.py_20260625_101338.py) | Created a text transformation pipeline where each operation is a command object that can be undone — lets me chain transforms like uppercase, reverse, and ROT13 with full history tracking. |
 | 2026-06-25 | [Floyd Warshall All Pairs Shortest Path 20260625 075057](projects/floyd_warshall_all_pairs_shortest_path.py_20260625_075057.py) | Built Floyd-Warshall to compute shortest paths between all node pairs in a weighted graph — handles negative edges and detects negative cycles too. |
 | 2026-06-24 | [Run Length Encoder 20260624 191437](projects/run_length_encoder.py_20260624_191437.py) | Implemented a run-length encoder/decoder from scratch to compress repetitive text sequences — useful for simple data compression tasks. |
