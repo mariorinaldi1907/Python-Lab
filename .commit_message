@@ -1,1 +1,1 @@
-implemented Floyd-Warshall for all-pairs shortest paths, outputs distance matrix and reconstructs actual paths
+built a plugin-based text processor using command pattern, supports undo/redo and dynamic plugin loading
