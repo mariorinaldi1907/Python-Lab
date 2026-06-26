@@ -1,1 +1,1 @@
-built a Bayesian A/B test analyzer because I was tired of p-values lying to me
+built a lazy evaluation pipeline with composable transformations, actually saved me from loading massive datasets into memory
