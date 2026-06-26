@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-26 | [Word Ladder Solver 20260626 122911](projects/word_ladder_solver.py_20260626_122911.py) | Implemented a BFS-based word ladder solver that transforms one word into another through valid dictionary words, changing only one letter at a time. |
+| 2026-06-26 | [Lazy Pipeline 20260626 122937](projects/lazy_pipeline.py_20260626_122937.py) | Created a functional programming toolkit that lets me compose data transformations lazily, only executing when results are actually pulled, with automatic memoization to avoid recomputation. |
+| 2026-06-26 | [Kmeans Clustering From Scratch 20260626 123039](projects/kmeans_clustering_from_scratch.py_20260626_123039.py) | Built k-means clustering without any ML libraries to really understand how the algorithm assigns points to centroids and iteratively improves clusters. |
 | 2026-06-26 | [Modular Arithmetic Toolkit 20260626 102027](projects/modular_arithmetic_toolkit.py_20260626_102027.py) | Implemented modular arithmetic utilities including fast modular exponentiation and Chinese Remainder Theorem solver because I keep needing these for cryptography puzzles and competitive programming. |
 | 2026-06-26 | [Lazy Pipeline Processor 20260626 075812](projects/lazy_pipeline_processor.py_20260626_075812.py) | Created a lazy evaluation pipeline system that chains transformations without materializing intermediate results — perfect for processing large data streams efficiently. |
 | 2026-06-26 | [Bayesian Ab Tester 20260626 051052](projects/bayesian_ab_tester.py_20260626_051052.py) | Implemented a Bayesian A/B testing framework with Beta distributions to get actual probabilities instead of cryptic p-values when comparing conversion rates. |

@@ -1,1 +1,5 @@
-built a modular arithmetic toolkit with fast exponentiation and CRT solver for crypto experiments
+added 3 new scripts
+
+- built a word ladder solver using BFS — finds shortest path between two words by single-letter changes
+- built a lazy evaluation pipeline with memoization — chains operations without executing until needed
+- implemented k-means clustering from scratch with random initialization and convergence detection
