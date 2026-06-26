@@ -1,1 +1,1 @@
-built a lazy evaluation pipeline with composable transformations, actually saved me from loading massive datasets into memory
+built a modular arithmetic toolkit with fast exponentiation and CRT solver for crypto experiments

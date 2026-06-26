@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-26 | [Modular Arithmetic Toolkit 20260626 102027](projects/modular_arithmetic_toolkit.py_20260626_102027.py) | Implemented modular arithmetic utilities including fast modular exponentiation and Chinese Remainder Theorem solver because I keep needing these for cryptography puzzles and competitive programming. |
 | 2026-06-26 | [Lazy Pipeline Processor 20260626 075812](projects/lazy_pipeline_processor.py_20260626_075812.py) | Created a lazy evaluation pipeline system that chains transformations without materializing intermediate results — perfect for processing large data streams efficiently. |
 | 2026-06-26 | [Bayesian Ab Tester 20260626 051052](projects/bayesian_ab_tester.py_20260626_051052.py) | Implemented a Bayesian A/B testing framework with Beta distributions to get actual probabilities instead of cryptic p-values when comparing conversion rates. |
 | 2026-06-25 | [Async Rate Limiter Demo 20260625 192639](projects/async_rate_limiter_demo.py_20260625_192639.py) | Implemented a token bucket rate limiter using asyncio to demonstrate how to throttle concurrent API calls or requests in a clean, reusable way. |
