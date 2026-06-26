@@ -1,1 +1,1 @@
-built an async rate limiter with token bucket algorithm, handles burst traffic nicely
+built a Bayesian A/B test analyzer because I was tired of p-values lying to me
