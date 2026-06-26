@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-26 | [Convex Hull Gift Wrapping 20260626 192047](projects/convex_hull_gift_wrapping.py_20260626_192047.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to visualize point clouds and their boundaries without any external dependencies. |
+| 2026-06-26 | [Tarjans Scc Finder 20260626 192110](projects/tarjans_scc_finder.py_20260626_192110.py) | Built Tarjan's algorithm to find all strongly connected components in a directed graph — uses DFS with low-link values and a stack. |
+| 2026-06-26 | [Lru Cache Implementation 20260626 192132](projects/lru_cache_implementation.py_20260626_192132.py) | Implemented an LRU cache with get/put in constant time because I wanted to understand how Python's functools.lru_cache actually works under the hood. |
 | 2026-06-26 | [Word Ladder Solver 20260626 122911](projects/word_ladder_solver.py_20260626_122911.py) | Implemented a BFS-based word ladder solver that transforms one word into another through valid dictionary words, changing only one letter at a time. |
 | 2026-06-26 | [Lazy Pipeline 20260626 122937](projects/lazy_pipeline.py_20260626_122937.py) | Created a functional programming toolkit that lets me compose data transformations lazily, only executing when results are actually pulled, with automatic memoization to avoid recomputation. |
 | 2026-06-26 | [Kmeans Clustering From Scratch 20260626 123039](projects/kmeans_clustering_from_scratch.py_20260626_123039.py) | Built k-means clustering without any ML libraries to really understand how the algorithm assigns points to centroids and iteratively improves clusters. |

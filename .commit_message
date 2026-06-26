@@ -1,5 +1,5 @@
 added 3 new scripts
 
-- built a word ladder solver using BFS — finds shortest path between two words by single-letter changes
-- built a lazy evaluation pipeline with memoization — chains operations without executing until needed
-- implemented k-means clustering from scratch with random initialization and convergence detection
+- implemented gift wrapping algorithm for convex hulls, handles collinear points and edge cases
+- implemented Tarjan's algorithm for finding strongly connected components, been wanting to tackle this one for a while
+- built an LRU cache from scratch using a doubly linked list + hashmap for O(1) operations
