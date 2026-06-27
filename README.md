@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-27 | [Epidemic Sir Simulation 20260627 045559](projects/epidemic_sir_simulation.py_20260627_045559.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic model on a 2D grid where infection spreads to neighbors probabilistically — shows how outbreaks evolve over time. |
+| 2026-06-27 | [Bayesian Ab Test 20260627 045631](projects/bayesian_ab_test.py_20260627_045631.py) | Implemented a Bayesian A/B testing framework using beta distributions to compare conversion rates and calculate probability of superiority. |
 | 2026-06-26 | [Convex Hull Gift Wrapping 20260626 192047](projects/convex_hull_gift_wrapping.py_20260626_192047.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to visualize point clouds and their boundaries without any external dependencies. |
 | 2026-06-26 | [Tarjans Scc Finder 20260626 192110](projects/tarjans_scc_finder.py_20260626_192110.py) | Built Tarjan's algorithm to find all strongly connected components in a directed graph — uses DFS with low-link values and a stack. |
 | 2026-06-26 | [Lru Cache Implementation 20260626 192132](projects/lru_cache_implementation.py_20260626_192132.py) | Implemented an LRU cache with get/put in constant time because I wanted to understand how Python's functools.lru_cache actually works under the hood. |

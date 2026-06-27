@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- implemented gift wrapping algorithm for convex hulls, handles collinear points and edge cases
-- implemented Tarjan's algorithm for finding strongly connected components, been wanting to tackle this one for a while
-- built an LRU cache from scratch using a doubly linked list + hashmap for O(1) operations
+- built a SIR epidemic simulator with ascii visualization, tweaked params until I got realistic waves
+- built a Bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values
