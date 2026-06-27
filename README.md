@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-27 | [Line Diff Tool 20260627 092654](projects/line_diff_tool.py_20260627_092654.py) | Built a line-based diff tool using the Myers algorithm because I wanted to understand how git diff actually works under the hood. |
 | 2026-06-27 | [Epidemic Sir Simulation 20260627 045559](projects/epidemic_sir_simulation.py_20260627_045559.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic model on a 2D grid where infection spreads to neighbors probabilistically — shows how outbreaks evolve over time. |
 | 2026-06-27 | [Bayesian Ab Test 20260627 045631](projects/bayesian_ab_test.py_20260627_045631.py) | Implemented a Bayesian A/B testing framework using beta distributions to compare conversion rates and calculate probability of superiority. |
 | 2026-06-26 | [Convex Hull Gift Wrapping 20260626 192047](projects/convex_hull_gift_wrapping.py_20260626_192047.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to visualize point clouds and their boundaries without any external dependencies. |
