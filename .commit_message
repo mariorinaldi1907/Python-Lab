@@ -1,1 +1,5 @@
-implemented myers diff algorithm for line-by-line text comparison, outputs unified diff format
+added 3 new scripts
+
+- implemented bootstrap resampling and permutation tests, turns out you really don't need scipy for most stats
+- built a forest fire spread simulator with wind and moisture — watching it burn is oddly satisfying
+- built a word ladder solver using BFS, works with custom dictionaries and finds shortest paths

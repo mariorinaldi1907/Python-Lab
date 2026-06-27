@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-27 | [Bootstrap Hypothesis Testing 20260627 115123](projects/bootstrap_hypothesis_testing.py_20260627_115123.py) | Built a bootstrap and permutation testing module from scratch because I wanted to actually understand what's happening under the hood instead of just calling library functions. |
+| 2026-06-27 | [Forest Fire Simulation 20260627 115151](projects/forest_fire_simulation.py_20260627_115151.py) | Created a cellular automaton that simulates wildfire spread across a grid with configurable wind direction, tree density, and moisture levels. |
+| 2026-06-27 | [Word Ladder Bfs Solver 20260627 115236](projects/word_ladder_bfs_solver.py_20260627_115236.py) | Implemented a BFS-based word ladder puzzle solver that finds the shortest transformation path between two words by changing one letter at a time. |
 | 2026-06-27 | [Line Diff Tool 20260627 092654](projects/line_diff_tool.py_20260627_092654.py) | Built a line-based diff tool using the Myers algorithm because I wanted to understand how git diff actually works under the hood. |
 | 2026-06-27 | [Epidemic Sir Simulation 20260627 045559](projects/epidemic_sir_simulation.py_20260627_045559.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic model on a 2D grid where infection spreads to neighbors probabilistically — shows how outbreaks evolve over time. |
 | 2026-06-27 | [Bayesian Ab Test 20260627 045631](projects/bayesian_ab_test.py_20260627_045631.py) | Implemented a Bayesian A/B testing framework using beta distributions to compare conversion rates and calculate probability of superiority. |
