@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built an nginx access log parser that extracts metrics and detects suspicious patterns
-- built a Markov chain text generator that actually produces readable output, tweaked state size for better coherence
+implemented gift wrapping algorithm for convex hulls, handles collinear points and edge cases

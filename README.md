@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-28 | [Convex Hull Gift Wrapping 20260628 095549](projects/convex_hull_gift_wrapping.py_20260628_095549.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to visualize point sets and understand how jarvis march actually works in practice. |
 | 2026-06-28 | [Nginx Log Parser 20260628 075442](projects/nginx_log_parser.py_20260628_075442.py) | Made a parser for nginx access logs that groups requests by endpoint, tracks response codes, and flags potential bot traffic or attacks. |
 | 2026-06-28 | [Markov Text Generator 20260628 075509](projects/markov_text_generator.py_20260628_075509.py) | Created a Markov chain generator that learns from input text and generates new sentences — I added punctuation-aware tokenization so it doesn't sound completely insane. |
 | 2026-06-28 | [Lru Cache Implementation 20260628 051938](projects/lru_cache_implementation.py_20260628_051938.py) | Implemented a proper LRU cache with O(1) get/put operations using a dictionary and doubly linked list — wanted to understand how @lru_cache actually works under the hood. |
