@@ -1,1 +1,5 @@
-implemented gift wrapping algorithm for convex hulls, handles collinear points and edge cases
+added 3 new scripts
+
+- built a markov chain text generator with configurable n-gram order, pretty happy with how clean the state transitions turned out
+- built an async rate limiter with token bucket algorithm, includes producer-consumer demo showing throttled API calls
+- built a multi-threaded TCP port scanner with customizable timeout and range — handles common services nicely

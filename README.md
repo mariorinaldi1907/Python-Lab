@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-28 | [Markov Text Generator 20260628 150859](projects/markov_text_generator.py_20260628_150859.py) | Implemented a Markov chain text generator that builds n-gram probability models from input text and generates new sentences that sound similar to the training data. |
+| 2026-06-28 | [Async Rate Limiter Demo 20260628 150928](projects/async_rate_limiter_demo.py_20260628_150928.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns — demonstrates controlled throughput with multiple producers competing for limited resources. |
+| 2026-06-28 | [Tcp Port Scanner 20260628 150956](projects/tcp_port_scanner.py_20260628_150956.py) | Made a concurrent port scanner that checks for open TCP ports and identifies common services, useful for quick network audits on my local machines. |
 | 2026-06-28 | [Convex Hull Gift Wrapping 20260628 095549](projects/convex_hull_gift_wrapping.py_20260628_095549.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to visualize point sets and understand how jarvis march actually works in practice. |
 | 2026-06-28 | [Nginx Log Parser 20260628 075442](projects/nginx_log_parser.py_20260628_075442.py) | Made a parser for nginx access logs that groups requests by endpoint, tracks response codes, and flags potential bot traffic or attacks. |
 | 2026-06-28 | [Markov Text Generator 20260628 075509](projects/markov_text_generator.py_20260628_075509.py) | Created a Markov chain generator that learns from input text and generates new sentences — I added punctuation-aware tokenization so it doesn't sound completely insane. |
