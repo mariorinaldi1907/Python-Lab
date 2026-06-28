@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-28 | [Lru Cache Implementation 20260628 051938](projects/lru_cache_implementation.py_20260628_051938.py) | Implemented a proper LRU cache with O(1) get/put operations using a dictionary and doubly linked list — wanted to understand how @lru_cache actually works under the hood. |
+| 2026-06-28 | [Forest Fire Simulation 20260628 052005](projects/forest_fire_simulation.py_20260628_052005.py) | Created a cellular automaton that simulates wildfire spreading through a forest grid with wind direction, moisture, and probabilistic ignition mechanics. |
 | 2026-06-27 | [Bootstrap Hypothesis Testing 20260627 115123](projects/bootstrap_hypothesis_testing.py_20260627_115123.py) | Built a bootstrap and permutation testing module from scratch because I wanted to actually understand what's happening under the hood instead of just calling library functions. |
 | 2026-06-27 | [Forest Fire Simulation 20260627 115151](projects/forest_fire_simulation.py_20260627_115151.py) | Created a cellular automaton that simulates wildfire spread across a grid with configurable wind direction, tree density, and moisture levels. |
 | 2026-06-27 | [Word Ladder Bfs Solver 20260627 115236](projects/word_ladder_bfs_solver.py_20260627_115236.py) | Implemented a BFS-based word ladder puzzle solver that finds the shortest transformation path between two words by changing one letter at a time. |
