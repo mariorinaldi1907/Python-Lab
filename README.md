@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-28 | [Nginx Log Parser 20260628 075442](projects/nginx_log_parser.py_20260628_075442.py) | Made a parser for nginx access logs that groups requests by endpoint, tracks response codes, and flags potential bot traffic or attacks. |
+| 2026-06-28 | [Markov Text Generator 20260628 075509](projects/markov_text_generator.py_20260628_075509.py) | Created a Markov chain generator that learns from input text and generates new sentences — I added punctuation-aware tokenization so it doesn't sound completely insane. |
 | 2026-06-28 | [Lru Cache Implementation 20260628 051938](projects/lru_cache_implementation.py_20260628_051938.py) | Implemented a proper LRU cache with O(1) get/put operations using a dictionary and doubly linked list — wanted to understand how @lru_cache actually works under the hood. |
 | 2026-06-28 | [Forest Fire Simulation 20260628 052005](projects/forest_fire_simulation.py_20260628_052005.py) | Created a cellular automaton that simulates wildfire spreading through a forest grid with wind direction, moisture, and probabilistic ignition mechanics. |
 | 2026-06-27 | [Bootstrap Hypothesis Testing 20260627 115123](projects/bootstrap_hypothesis_testing.py_20260627_115123.py) | Built a bootstrap and permutation testing module from scratch because I wanted to actually understand what's happening under the hood instead of just calling library functions. |

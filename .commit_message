@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built an LRU cache from scratch using hashmap + doubly linked list, actually pretty elegant
-- built a forest fire simulation with wind and probabilistic spread — watching burn patterns is oddly satisfying
+- built an nginx access log parser that extracts metrics and detects suspicious patterns
+- built a Markov chain text generator that actually produces readable output, tweaked state size for better coherence
