@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-29 | [Lru Cache Implementation 20260629 090232](projects/lru_cache_implementation.py_20260629_090232.py) | Implemented a proper LRU cache with O(1) get/put operations to really understand how caching works under the hood — uses a doubly linked list for ordering and a dict for fast lookups. |
+| 2026-06-29 | [Naive Bayes Classifier 20260629 090259](projects/naive_bayes_classifier.py_20260629_090259.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic ML better — handles continuous features with class priors and likelihoods. |
 | 2026-06-29 | [Lazy Pipeline 20260629 055329](projects/lazy_pipeline.py_20260629_055329.py) | Created a functional programming toolkit for building composable, lazy-evaluated data pipelines with automatic memoization support. |
 | 2026-06-29 | [Lru Cache Implementation 20260629 055352](projects/lru_cache_implementation.py_20260629_055352.py) | Implemented an LRU cache with O(1) get/put operations because I wanted to really understand how Python's functools.lru_cache works under the hood. |
 | 2026-06-28 | [Markov Text Generator 20260628 150859](projects/markov_text_generator.py_20260628_150859.py) | Implemented a Markov chain text generator that builds n-gram probability models from input text and generates new sentences that sound similar to the training data. |
