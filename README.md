@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-29 | [Rpn Calculator 20260629 115554](projects/rpn_calculator.py_20260629_115554.py) | Wrote a reverse Polish notation calculator that evaluates postfix expressions using a stack — supports basic arithmetic and some useful functions. |
+| 2026-06-29 | [Async Rate Limiter Demo 20260629 115620](projects/async_rate_limiter_demo.py_20260629_115620.py) | Created a token bucket rate limiter using asyncio to demonstrate controlled concurrency — handles bursts gracefully and shows real-world API call simulation. |
+| 2026-06-29 | [Modular Arithmetic Toolkit 20260629 115653](projects/modular_arithmetic_toolkit.py_20260629_115653.py) | Built a modular arithmetic library because I got tired of reimplementing modpow and CRT every time I solve number theory problems. |
 | 2026-06-29 | [Lru Cache Implementation 20260629 090232](projects/lru_cache_implementation.py_20260629_090232.py) | Implemented a proper LRU cache with O(1) get/put operations to really understand how caching works under the hood — uses a doubly linked list for ordering and a dict for fast lookups. |
 | 2026-06-29 | [Naive Bayes Classifier 20260629 090259](projects/naive_bayes_classifier.py_20260629_090259.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic ML better — handles continuous features with class priors and likelihoods. |
 | 2026-06-29 | [Lazy Pipeline 20260629 055329](projects/lazy_pipeline.py_20260629_055329.py) | Created a functional programming toolkit for building composable, lazy-evaluated data pipelines with automatic memoization support. |

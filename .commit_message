@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- built an LRU cache from scratch using a doubly linked list + hashmap, pretty proud of how clean the eviction logic turned out
-- implemented naive bayes from scratch with laplace smoothing, tested on iris-like synthetic data
+- built an RPN calculator with stack-based eval and basic math ops, handles errors gracefully
+- built an async rate limiter with token bucket algorithm, pretty happy with how the burst handling turned out
+- implemented modular arithmetic toolkit with fast exponentiation, extended euclidean, and CRT solver
