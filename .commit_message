@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- built an RPN calculator with stack-based eval and basic math ops, handles errors gracefully
-- built an async rate limiter with token bucket algorithm, pretty happy with how the burst handling turned out
-- implemented modular arithmetic toolkit with fast exponentiation, extended euclidean, and CRT solver
+- built a lazy evaluation pipeline system with method chaining, feels cleaner than nested map/filter hell
+- implemented word ladder solver with BFS, finds shortest transformation path between two words
