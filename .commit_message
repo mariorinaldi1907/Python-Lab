@@ -1,1 +1,4 @@
-implemented Miller-Rabin primality test with configurable rounds, way faster than trial division for large numbers
+added 2 new scripts
+
+- implemented Graham scan for convex hull because I needed to visualize point clouds better
+- implemented Tarjan's algorithm for finding strongly connected components, been wanting to understand this one for a while

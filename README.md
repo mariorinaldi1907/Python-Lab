@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-29 | [Convex Hull Graham Scan 20260629 192222](projects/convex_hull_graham_scan.py_20260629_192222.py) | Built a convex hull finder using Graham's scan algorithm to wrap arbitrary 2D point sets with their minimal convex boundary. |
+| 2026-06-29 | [Tarjan Scc Finder 20260629 192246](projects/tarjan_scc_finder.py_20260629_192246.py) | Built Tarjan's SCC algorithm from scratch to finally wrap my head around how it uses DFS and a stack to find cycles in directed graphs. |
 | 2026-06-29 | [Miller Rabin Primality 20260629 164856](projects/miller_rabin_primality.py_20260629_164856.py) | Built a Miller-Rabin probabilistic primality tester because I got tired of slow prime checks — includes deterministic mode for smaller numbers. |
 | 2026-06-29 | [Lazy Pipeline Engine 20260629 143134](projects/lazy_pipeline_engine.py_20260629_143134.py) | Created a functional pipeline utility that delays computation until needed, supporting map/filter/reduce operations with automatic memoization for expensive transformations. |
 | 2026-06-29 | [Word Ladder Bfs Solver 20260629 143159](projects/word_ladder_bfs_solver.py_20260629_143159.py) | Built a word ladder puzzle solver that finds the shortest path between two words by changing one letter at a time, using BFS because I wanted to revisit graph traversal algorithms. |
