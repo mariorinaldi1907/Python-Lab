@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a lazy evaluation pipeline system with method chaining, feels cleaner than nested map/filter hell
-- implemented word ladder solver with BFS, finds shortest transformation path between two words
+implemented Miller-Rabin primality test with configurable rounds, way faster than trial division for large numbers

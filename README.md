@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-29 | [Miller Rabin Primality 20260629 164856](projects/miller_rabin_primality.py_20260629_164856.py) | Built a Miller-Rabin probabilistic primality tester because I got tired of slow prime checks — includes deterministic mode for smaller numbers. |
 | 2026-06-29 | [Lazy Pipeline Engine 20260629 143134](projects/lazy_pipeline_engine.py_20260629_143134.py) | Created a functional pipeline utility that delays computation until needed, supporting map/filter/reduce operations with automatic memoization for expensive transformations. |
 | 2026-06-29 | [Word Ladder Bfs Solver 20260629 143159](projects/word_ladder_bfs_solver.py_20260629_143159.py) | Built a word ladder puzzle solver that finds the shortest path between two words by changing one letter at a time, using BFS because I wanted to revisit graph traversal algorithms. |
 | 2026-06-29 | [Rpn Calculator 20260629 115554](projects/rpn_calculator.py_20260629_115554.py) | Wrote a reverse Polish notation calculator that evaluates postfix expressions using a stack — supports basic arithmetic and some useful functions. |
