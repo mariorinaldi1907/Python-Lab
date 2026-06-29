@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- built a markov chain text generator with configurable n-gram order, pretty happy with how clean the state transitions turned out
-- built an async rate limiter with token bucket algorithm, includes producer-consumer demo showing throttled API calls
-- built a multi-threaded TCP port scanner with customizable timeout and range — handles common services nicely
+- built a lazy pipeline utility with chaining and memoization — feels like a mini lodash but pythonic
+- built an LRU cache from scratch using a hash map + doubly linked list combo

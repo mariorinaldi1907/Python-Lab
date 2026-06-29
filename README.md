@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-29 | [Lazy Pipeline 20260629 055329](projects/lazy_pipeline.py_20260629_055329.py) | Created a functional programming toolkit for building composable, lazy-evaluated data pipelines with automatic memoization support. |
+| 2026-06-29 | [Lru Cache Implementation 20260629 055352](projects/lru_cache_implementation.py_20260629_055352.py) | Implemented an LRU cache with O(1) get/put operations because I wanted to really understand how Python's functools.lru_cache works under the hood. |
 | 2026-06-28 | [Markov Text Generator 20260628 150859](projects/markov_text_generator.py_20260628_150859.py) | Implemented a Markov chain text generator that builds n-gram probability models from input text and generates new sentences that sound similar to the training data. |
 | 2026-06-28 | [Async Rate Limiter Demo 20260628 150928](projects/async_rate_limiter_demo.py_20260628_150928.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns — demonstrates controlled throughput with multiple producers competing for limited resources. |
 | 2026-06-28 | [Tcp Port Scanner 20260628 150956](projects/tcp_port_scanner.py_20260628_150956.py) | Made a concurrent port scanner that checks for open TCP ports and identifies common services, useful for quick network audits on my local machines. |
