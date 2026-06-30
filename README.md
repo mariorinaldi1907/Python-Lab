@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-30 | [Epidemic Sir Simulation 20260630 161349](projects/epidemic_sir_simulation.py_20260630_161349.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic simulator where agents move around a 2D grid and spread infection through proximity — helps visualize how diseases propagate through populations. |
+| 2026-06-30 | [Port Scanner 20260630 161414](projects/port_scanner.py_20260630_161414.py) | Wrote a multi-threaded port scanner because I got tired of waiting for nmap when I just want to check a few common ports on my local network. |
+| 2026-06-30 | [Nginx Log Parser 20260630 161447](projects/nginx_log_parser.py_20260630_161447.py) | Wrote a parser for nginx access logs that breaks down request methods, status codes, and finds the slowest endpoints — helps me debug my side projects quickly. |
 | 2026-06-30 | [Nginx Log Parser 20260630 122749](projects/nginx_log_parser.py_20260630_122749.py) | Wrote a parser for nginx access logs that extracts useful stats like most-hit endpoints, status code distribution, and IP frequency — handles both combined and common log formats. |
 | 2026-06-30 | [Word Ladder Solver 20260630 122813](projects/word_ladder_solver.py_20260630_122813.py) | Built a word ladder puzzle solver using BFS to find the shortest transformation sequence between two words, like turning "cold" into "warm". |
 | 2026-06-30 | [Tarjan Strongly Connected Components 20260630 122845](projects/tarjan_strongly_connected_components.py_20260630_122845.py) | Built Tarjan's algorithm to find strongly connected components in directed graphs — useful for analyzing dependency cycles and graph structure. |

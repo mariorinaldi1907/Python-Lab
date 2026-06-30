@@ -1,5 +1,5 @@
 added 3 new scripts
 
-- built a nginx access log parser that actually handles the messy real-world formats i keep seeing
-- implemented BFS word ladder solver, finds shortest path between two words by changing one letter at a time
-- implemented Tarjan's SCC algorithm because I was curious how cycle detection works in directed graphs
+- built a SIR epidemic model simulator with random contacts and recovery tracking
+- built a threaded port scanner that actually respects timeouts and shows service names
+- built an nginx access log parser that extracts request patterns and response stats
