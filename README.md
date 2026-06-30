@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-30 | [Event Driven Task Scheduler 20260630 075740](projects/event_driven_task_scheduler.py_20260630_075740.py) | Built an event-driven task scheduler using the observer pattern so I can monitor long-running tasks with different types of listeners without coupling everything together. |
+| 2026-06-30 | [Modular Arithmetic Toolkit 20260630 075811](projects/modular_arithmetic_toolkit.py_20260630_075811.py) | Wrote a number theory utility for competitive programming practice — handles modular exponentiation, multiplicative inverses, and Chinese Remainder Theorem since I keep rewriting these. |
+| 2026-06-30 | [Tarjan Scc Finder 20260630 075843](projects/tarjan_scc_finder.py_20260630_075843.py) | Built Tarjan's SCC algorithm from scratch because I kept running into circular dependency issues in my projects and wanted to really understand how to detect them properly. |
 | 2026-06-30 | [Markov Text Generator 20260630 050713](projects/markov_text_generator.py_20260630_050713.py) | Implemented a Markov chain text generator with variable-length n-grams because I wanted to experiment with probabilistic text generation without touching ML libraries. |
 | 2026-06-29 | [Convex Hull Graham Scan 20260629 192222](projects/convex_hull_graham_scan.py_20260629_192222.py) | Built a convex hull finder using Graham's scan algorithm to wrap arbitrary 2D point sets with their minimal convex boundary. |
 | 2026-06-29 | [Tarjan Scc Finder 20260629 192246](projects/tarjan_scc_finder.py_20260629_192246.py) | Built Tarjan's SCC algorithm from scratch to finally wrap my head around how it uses DFS and a stack to find cycles in directed graphs. |
