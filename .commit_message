@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- built a SIR epidemic model simulator with random contacts and recovery tracking
-- built a threaded port scanner that actually respects timeouts and shows service names
-- built an nginx access log parser that extracts request patterns and response stats
+built a simple stack-based calculator that handles RPN notation with variables and basic error handling

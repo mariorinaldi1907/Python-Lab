@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-30 | [Stack Calculator 20260630 192109](projects/stack_calculator.py_20260630_192109.py) | Implemented a reverse polish notation calculator because I wanted to revisit stack-based evaluation and see how clean I could make the error messages. |
 | 2026-06-30 | [Epidemic Sir Simulation 20260630 161349](projects/epidemic_sir_simulation.py_20260630_161349.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic simulator where agents move around a 2D grid and spread infection through proximity — helps visualize how diseases propagate through populations. |
 | 2026-06-30 | [Port Scanner 20260630 161414](projects/port_scanner.py_20260630_161414.py) | Wrote a multi-threaded port scanner because I got tired of waiting for nmap when I just want to check a few common ports on my local network. |
 | 2026-06-30 | [Nginx Log Parser 20260630 161447](projects/nginx_log_parser.py_20260630_161447.py) | Wrote a parser for nginx access logs that breaks down request methods, status codes, and finds the slowest endpoints — helps me debug my side projects quickly. |
