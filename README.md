@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-30 | [Nginx Log Parser 20260630 122749](projects/nginx_log_parser.py_20260630_122749.py) | Wrote a parser for nginx access logs that extracts useful stats like most-hit endpoints, status code distribution, and IP frequency — handles both combined and common log formats. |
+| 2026-06-30 | [Word Ladder Solver 20260630 122813](projects/word_ladder_solver.py_20260630_122813.py) | Built a word ladder puzzle solver using BFS to find the shortest transformation sequence between two words, like turning "cold" into "warm". |
+| 2026-06-30 | [Tarjan Strongly Connected Components 20260630 122845](projects/tarjan_strongly_connected_components.py_20260630_122845.py) | Built Tarjan's algorithm to find strongly connected components in directed graphs — useful for analyzing dependency cycles and graph structure. |
 | 2026-06-30 | [Lazy Pipeline 20260630 103006](projects/lazy_pipeline.py_20260630_103006.py) | Created a functional pipeline system that lazily evaluates transformations and supports memoization, because I got tired of writing nested map/filter calls that process everything immediately. |
 | 2026-06-30 | [Huffman Text Compressor 20260630 103031](projects/huffman_text_compressor.py_20260630_103031.py) | Implemented Huffman coding with tree visualization to see how compression actually works on different text inputs. |
 | 2026-06-30 | [Event Driven Task Scheduler 20260630 075740](projects/event_driven_task_scheduler.py_20260630_075740.py) | Built an event-driven task scheduler using the observer pattern so I can monitor long-running tasks with different types of listeners without coupling everything together. |

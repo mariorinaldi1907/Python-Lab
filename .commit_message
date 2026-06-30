@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- built a lazy evaluation pipeline with memoization support — chains transformations without eager computation
-- built a huffman encoder from scratch, compresses text pretty well and shows the actual tree structure
+- built a nginx access log parser that actually handles the messy real-world formats i keep seeing
+- implemented BFS word ladder solver, finds shortest path between two words by changing one letter at a time
+- implemented Tarjan's SCC algorithm because I was curious how cycle detection works in directed graphs
