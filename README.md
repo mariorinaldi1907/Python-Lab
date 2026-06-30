@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-06-30 | [Lazy Pipeline 20260630 103006](projects/lazy_pipeline.py_20260630_103006.py) | Created a functional pipeline system that lazily evaluates transformations and supports memoization, because I got tired of writing nested map/filter calls that process everything immediately. |
+| 2026-06-30 | [Huffman Text Compressor 20260630 103031](projects/huffman_text_compressor.py_20260630_103031.py) | Implemented Huffman coding with tree visualization to see how compression actually works on different text inputs. |
 | 2026-06-30 | [Event Driven Task Scheduler 20260630 075740](projects/event_driven_task_scheduler.py_20260630_075740.py) | Built an event-driven task scheduler using the observer pattern so I can monitor long-running tasks with different types of listeners without coupling everything together. |
 | 2026-06-30 | [Modular Arithmetic Toolkit 20260630 075811](projects/modular_arithmetic_toolkit.py_20260630_075811.py) | Wrote a number theory utility for competitive programming practice — handles modular exponentiation, multiplicative inverses, and Chinese Remainder Theorem since I keep rewriting these. |
 | 2026-06-30 | [Tarjan Scc Finder 20260630 075843](projects/tarjan_scc_finder.py_20260630_075843.py) | Built Tarjan's SCC algorithm from scratch because I kept running into circular dependency issues in my projects and wanted to really understand how to detect them properly. |

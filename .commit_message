@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- implemented observer pattern for task scheduling system, lets me track job progress with multiple listeners
-- built a modular arithmetic toolkit with fast exponentiation, inverse, and CRT solver
-- implemented Tarjan's algorithm for finding strongly connected components - always wanted to understand how git handles DAG cycles
+- built a lazy evaluation pipeline with memoization support — chains transformations without eager computation
+- built a huffman encoder from scratch, compresses text pretty well and shows the actual tree structure
