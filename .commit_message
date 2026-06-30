@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented Graham scan for convex hull because I needed to visualize point clouds better
-- implemented Tarjan's algorithm for finding strongly connected components, been wanting to understand this one for a while
+built a markov chain text generator that actually produces readable output, uses configurable n-gram size
