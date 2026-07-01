@@ -1,1 +1,1 @@
-implemented k-means clustering without any libraries, just math module for distance calc
+built an nginx access log parser that extracts insights and detects suspicious patterns

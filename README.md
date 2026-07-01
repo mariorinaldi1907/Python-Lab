@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-01 | [Nginx Log Parser 20260701 081748](projects/nginx_log_parser.py_20260701_081748.py) | Created a parser that analyzes nginx access logs to pull out stats like top IPs, most hit endpoints, status code distribution, and flags potential bot traffic. |
 | 2026-07-01 | [Kmeans Clustering From Scratch 20260701 052447](projects/kmeans_clustering_from_scratch.py_20260701_052447.py) | Built k-means clustering from scratch to really understand how centroid updates work — includes demo with random 2D data points. |
 | 2026-06-30 | [Stack Calculator 20260630 192109](projects/stack_calculator.py_20260630_192109.py) | Implemented a reverse polish notation calculator because I wanted to revisit stack-based evaluation and see how clean I could make the error messages. |
 | 2026-06-30 | [Epidemic Sir Simulation 20260630 161349](projects/epidemic_sir_simulation.py_20260630_161349.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic simulator where agents move around a 2D grid and spread infection through proximity — helps visualize how diseases propagate through populations. |
