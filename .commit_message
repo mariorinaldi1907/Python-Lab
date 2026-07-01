@@ -1,1 +1,5 @@
-implemented k-means clustering with random initialization and euclidean distance, prints cluster assignments
+added 3 new scripts
+
+- built a lazy evaluation pipeline system with currying and memoization - actually use this pattern a lot
+- built a CLI deduplicator that hashes files to find duplicates, handles large files in chunks
+- built a bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values

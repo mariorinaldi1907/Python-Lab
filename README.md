@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-01 | [Lazy Pipeline Evaluator 20260701 192238](projects/lazy_pipeline_evaluator.py_20260701_192238.py) | Created a composable pipeline system with lazy evaluation, automatic memoization, and currying support because I got tired of writing nested function calls. |
+| 2026-07-01 | [Duplicate File Finder 20260701 192306](projects/duplicate_file_finder.py_20260701_192306.py) | Made a tool to scan directories for duplicate files using MD5 hashing — was tired of manually finding duplicate photos and videos on my drives. |
+| 2026-07-01 | [Bayesian Ab Testing 20260701 192335](projects/bayesian_ab_testing.py_20260701_192335.py) | Created a Bayesian A/B testing module that uses beta distributions to calculate probabilities and expected loss — helps me make actual data-driven decisions instead of guessing from p-values. |
 | 2026-07-01 | [K Means Clustering From Scratch 20260701 161345](projects/k_means_clustering_from_scratch.py_20260701_161345.py) | Built k-means clustering from scratch to really understand how the algorithm converges through iterative centroid updates. |
 | 2026-07-01 | [Modular Arithmetic Toolkit 20260701 103943](projects/modular_arithmetic_toolkit.py_20260701_103943.py) | Created a collection of modular arithmetic utilities including fast exponentiation, modular inverse, and Chinese Remainder Theorem solver since I keep needing these for project euler problems. |
 | 2026-07-01 | [Kmp String Search 20260701 104010](projects/kmp_string_search.py_20260701_104010.py) | Built a KMP string search algorithm because I was curious how text editors find patterns so fast without checking every possible substring. |
