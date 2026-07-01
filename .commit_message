@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a modular arithmetic toolkit with fast exponentiation and CRT solver — been playing with cryptography lately
-- implemented KMP string matching with proper prefix table — way faster than naive approach for repeated patterns
+implemented k-means clustering with random initialization and euclidean distance, prints cluster assignments

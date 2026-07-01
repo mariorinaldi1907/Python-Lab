@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-01 | [K Means Clustering From Scratch 20260701 161345](projects/k_means_clustering_from_scratch.py_20260701_161345.py) | Built k-means clustering from scratch to really understand how the algorithm converges through iterative centroid updates. |
 | 2026-07-01 | [Modular Arithmetic Toolkit 20260701 103943](projects/modular_arithmetic_toolkit.py_20260701_103943.py) | Created a collection of modular arithmetic utilities including fast exponentiation, modular inverse, and Chinese Remainder Theorem solver since I keep needing these for project euler problems. |
 | 2026-07-01 | [Kmp String Search 20260701 104010](projects/kmp_string_search.py_20260701_104010.py) | Built a KMP string search algorithm because I was curious how text editors find patterns so fast without checking every possible substring. |
 | 2026-07-01 | [Nginx Log Parser 20260701 081748](projects/nginx_log_parser.py_20260701_081748.py) | Created a parser that analyzes nginx access logs to pull out stats like top IPs, most hit endpoints, status code distribution, and flags potential bot traffic. |
