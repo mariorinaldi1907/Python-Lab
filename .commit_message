@@ -1,1 +1,1 @@
-built a modular arithmetic toolkit with fast exponentiation, extended gcd, and modular inverse — needed this for some cryptography experiments
+built an async token bucket rate limiter with producer-consumer pattern to experiment with asyncio concurrency primitives
