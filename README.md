@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-02 | [Huffman Text Compressor 20260702 050027](projects/huffman_text_compressor.py_20260702_050027.py) | Built a Huffman encoder/decoder to explore how compression actually works under the hood — encodes text into variable-length bit strings based on character frequency. |
 | 2026-07-01 | [Lazy Pipeline Evaluator 20260701 192238](projects/lazy_pipeline_evaluator.py_20260701_192238.py) | Created a composable pipeline system with lazy evaluation, automatic memoization, and currying support because I got tired of writing nested function calls. |
 | 2026-07-01 | [Duplicate File Finder 20260701 192306](projects/duplicate_file_finder.py_20260701_192306.py) | Made a tool to scan directories for duplicate files using MD5 hashing — was tired of manually finding duplicate photos and videos on my drives. |
 | 2026-07-01 | [Bayesian Ab Testing 20260701 192335](projects/bayesian_ab_testing.py_20260701_192335.py) | Created a Bayesian A/B testing module that uses beta distributions to calculate probabilities and expected loss — helps me make actual data-driven decisions instead of guessing from p-values. |
