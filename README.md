@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-03 | [Command Pattern Text Editor 20260703 072821](projects/command_pattern_text_editor.py_20260703_072821.py) | Built a simple text editor using the command pattern to handle operations like insert, delete, and replace with full undo/redo support — wanted to explore how this pattern makes action history manageable. |
 | 2026-07-02 | [Async Rate Limiter Demo 20260702 122513](projects/async_rate_limiter_demo.py_20260702_122513.py) | Implemented a token bucket rate limiter using asyncio to control API request rates while exploring coroutines and queue-based task distribution. |
 | 2026-07-02 | [Modular Arithmetic Toolkit 20260702 073727](projects/modular_arithmetic_toolkit.py_20260702_073727.py) | Created a collection of modular arithmetic functions I keep reusing in number theory problems, especially for working with RSA and discrete logarithms. |
 | 2026-07-02 | [Huffman Text Compressor 20260702 050027](projects/huffman_text_compressor.py_20260702_050027.py) | Built a Huffman encoder/decoder to explore how compression actually works under the hood — encodes text into variable-length bit strings based on character frequency. |
