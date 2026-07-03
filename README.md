@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-03 | [Floyd Warshall All Pairs Shortest Path 20260703 154653](projects/floyd_warshall_all_pairs_shortest_path.py_20260703_154653.py) | Built Floyd-Warshall algorithm to find shortest paths between all node pairs in a weighted graph — includes full path reconstruction which I needed for a side project. |
+| 2026-07-03 | [Async Port Scanner 20260703 154717](projects/async_port_scanner.py_20260703_154717.py) | Created a multithreaded port scanner that can check common ports or custom ranges — learned a lot about socket timeouts and thread pools. |
+| 2026-07-03 | [Bayesian Ab Test Analyzer 20260703 154750](projects/bayesian_ab_test_analyzer.py_20260703_154750.py) | Created a Bayesian A/B testing tool that updates beliefs using conjugate priors and computes probability of superiority between variants. |
 | 2026-07-03 | [Naive Bayes Classifier 20260703 122340](projects/naive_bayes_classifier.py_20260703_122340.py) | Implemented a Gaussian Naive Bayes classifier with laplace smoothing because I wanted to understand how probabilistic classifiers actually work under the hood. |
 | 2026-07-03 | [Convex Hull Gift Wrapping 20260703 122407](projects/convex_hull_gift_wrapping.py_20260703_122407.py) | Built a convex hull calculator using the gift wrapping algorithm because I wanted to understand how it walks the perimeter step by step. |
 | 2026-07-03 | [Directory Tree Printer 20260703 095317](projects/directory_tree_printer.py_20260703_095317.py) | Created a CLI tool that prints directory trees with Unicode box-drawing characters, file sizes, and pattern filtering because I got tired of piping `tree` through grep. |

@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- built naive bayes from scratch using log probabilities to avoid underflow issues
-- implemented gift wrapping algorithm for convex hull, added visualization with ASCII art
+- implemented Floyd-Warshall for all-pairs shortest paths, added path reconstruction because I always forget how to do that part
+- built a concurrent port scanner using threads, way faster than sequential scanning
+- built a bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values
