@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- built a recursive directory tree visualizer with filtering and size info — handles symlinks gracefully
-- built a markov chain text generator that actually preserves sentence structure and punctuation
-- built a modular arithmetic toolkit with fast exponentiation, inverse, and CRT solver
+- built naive bayes from scratch using log probabilities to avoid underflow issues
+- implemented gift wrapping algorithm for convex hull, added visualization with ASCII art

@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-03 | [Naive Bayes Classifier 20260703 122340](projects/naive_bayes_classifier.py_20260703_122340.py) | Implemented a Gaussian Naive Bayes classifier with laplace smoothing because I wanted to understand how probabilistic classifiers actually work under the hood. |
+| 2026-07-03 | [Convex Hull Gift Wrapping 20260703 122407](projects/convex_hull_gift_wrapping.py_20260703_122407.py) | Built a convex hull calculator using the gift wrapping algorithm because I wanted to understand how it walks the perimeter step by step. |
 | 2026-07-03 | [Directory Tree Printer 20260703 095317](projects/directory_tree_printer.py_20260703_095317.py) | Created a CLI tool that prints directory trees with Unicode box-drawing characters, file sizes, and pattern filtering because I got tired of piping `tree` through grep. |
 | 2026-07-03 | [Markov Text Generator 20260703 095343](projects/markov_text_generator.py_20260703_095343.py) | Created a configurable Markov chain generator that learns from input text and produces semi-coherent output while respecting sentence boundaries. |
 | 2026-07-03 | [Modular Arithmetic Toolkit 20260703 095410](projects/modular_arithmetic_toolkit.py_20260703_095410.py) | Created a collection of modular arithmetic utilities I keep needing for competitive programming and crypto experiments — includes fast modular exponentiation, extended GCD, and Chinese Remainder Theorem solver. |
