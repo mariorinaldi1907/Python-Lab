@@ -1,1 +1,5 @@
-implemented command pattern for a text editor with undo/redo, feels pretty clean
+added 3 new scripts
+
+- built a recursive directory tree visualizer with filtering and size info — handles symlinks gracefully
+- built a markov chain text generator that actually preserves sentence structure and punctuation
+- built a modular arithmetic toolkit with fast exponentiation, inverse, and CRT solver

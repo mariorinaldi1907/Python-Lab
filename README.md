@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-03 | [Directory Tree Printer 20260703 095317](projects/directory_tree_printer.py_20260703_095317.py) | Created a CLI tool that prints directory trees with Unicode box-drawing characters, file sizes, and pattern filtering because I got tired of piping `tree` through grep. |
+| 2026-07-03 | [Markov Text Generator 20260703 095343](projects/markov_text_generator.py_20260703_095343.py) | Created a configurable Markov chain generator that learns from input text and produces semi-coherent output while respecting sentence boundaries. |
+| 2026-07-03 | [Modular Arithmetic Toolkit 20260703 095410](projects/modular_arithmetic_toolkit.py_20260703_095410.py) | Created a collection of modular arithmetic utilities I keep needing for competitive programming and crypto experiments — includes fast modular exponentiation, extended GCD, and Chinese Remainder Theorem solver. |
 | 2026-07-03 | [Command Pattern Text Editor 20260703 072821](projects/command_pattern_text_editor.py_20260703_072821.py) | Built a simple text editor using the command pattern to handle operations like insert, delete, and replace with full undo/redo support — wanted to explore how this pattern makes action history manageable. |
 | 2026-07-02 | [Async Rate Limiter Demo 20260702 122513](projects/async_rate_limiter_demo.py_20260702_122513.py) | Implemented a token bucket rate limiter using asyncio to control API request rates while exploring coroutines and queue-based task distribution. |
 | 2026-07-02 | [Modular Arithmetic Toolkit 20260702 073727](projects/modular_arithmetic_toolkit.py_20260702_073727.py) | Created a collection of modular arithmetic functions I keep reusing in number theory problems, especially for working with RSA and discrete logarithms. |
