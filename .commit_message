@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- implemented Floyd-Warshall for all-pairs shortest paths, added path reconstruction because I always forget how to do that part
-- built a concurrent port scanner using threads, way faster than sequential scanning
-- built a bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values
+built a lazy evaluation pipeline with currying and memoization — chains operations without executing until you need the result
