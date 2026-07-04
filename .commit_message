@@ -1,1 +1,1 @@
-built a simple SIR epidemic model with visualization in terminal, tweaked transmission/recovery rates until I got interesting curves
+implemented bellman-ford with negative cycle detection, figured it'd be useful for arb detection someday
