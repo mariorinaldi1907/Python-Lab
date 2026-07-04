@@ -1,1 +1,1 @@
-built a lazy evaluation pipeline with currying and memoization — chains operations without executing until you need the result
+built a simple SIR epidemic model with visualization in terminal, tweaked transmission/recovery rates until I got interesting curves

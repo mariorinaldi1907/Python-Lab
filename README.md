@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-04 | [Epidemic Sir Simulation 20260704 091944](projects/epidemic_sir_simulation.py_20260704_091944.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic simulator that runs on a 2D grid and prints ASCII heatmaps over time — helps me understand how diseases spread locally. |
 | 2026-07-04 | [Lazy Pipeline 20260704 065200](projects/lazy_pipeline.py_20260704_065200.py) | Created a functional programming toolkit that lets me compose transformations lazily, so operations only run when I actually iterate the results. |
 | 2026-07-03 | [Floyd Warshall All Pairs Shortest Path 20260703 154653](projects/floyd_warshall_all_pairs_shortest_path.py_20260703_154653.py) | Built Floyd-Warshall algorithm to find shortest paths between all node pairs in a weighted graph — includes full path reconstruction which I needed for a side project. |
 | 2026-07-03 | [Async Port Scanner 20260703 154717](projects/async_port_scanner.py_20260703_154717.py) | Created a multithreaded port scanner that can check common ports or custom ranges — learned a lot about socket timeouts and thread pools. |
