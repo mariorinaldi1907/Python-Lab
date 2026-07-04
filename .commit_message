@@ -1,1 +1,4 @@
-implemented bellman-ford with negative cycle detection, figured it'd be useful for arb detection someday
+added 2 new scripts
+
+- built a bayesian A/B test analyzer because I got tired of checking p-values manually for my side projects
+- built a lazy evaluation pipeline with currying and memoization — chains transforms without eagerly computing until needed

@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-04 | [Bayesian Ab Tester 20260704 145631](projects/bayesian_ab_tester.py_20260704_145631.py) | Implemented a Bayesian A/B testing framework with Beta-Binomial conjugate priors so I can actually quantify probability of improvement instead of just rejecting null hypotheses. |
+| 2026-07-04 | [Lazy Pipeline 20260704 145701](projects/lazy_pipeline.py_20260704_145701.py) | Created a composable lazy pipeline system that lets me chain transformations functionally and only evaluate when I actually iterate, plus auto-memoizes expensive operations. |
 | 2026-07-04 | [Bellman Ford With Negative Cycles 20260704 114941](projects/bellman_ford_with_negative_cycles.py_20260704_114941.py) | Built a Bellman-Ford shortest path finder that explicitly detects and reports negative cycles, which Dijkstra can't handle. |
 | 2026-07-04 | [Epidemic Sir Simulation 20260704 091944](projects/epidemic_sir_simulation.py_20260704_091944.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic simulator that runs on a 2D grid and prints ASCII heatmaps over time — helps me understand how diseases spread locally. |
 | 2026-07-04 | [Lazy Pipeline 20260704 065200](projects/lazy_pipeline.py_20260704_065200.py) | Created a functional programming toolkit that lets me compose transformations lazily, so operations only run when I actually iterate the results. |
