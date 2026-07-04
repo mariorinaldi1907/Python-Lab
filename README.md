@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-04 | [Forest Fire Simulation 20260704 183357](projects/forest_fire_simulation.py_20260704_183357.py) | Created a cellular automaton that simulates how wildfires spread through a forest grid with configurable wind, ignition probability, and tree density — wanted to visualize how small parameter changes create drastically different outcomes. |
+| 2026-07-04 | [Lru Cache Implementation 20260704 183419](projects/lru_cache_implementation.py_20260704_183419.py) | Implemented an LRU cache with get/put operations in O(1) time by combining a dictionary with a doubly linked list for order tracking. |
 | 2026-07-04 | [Bayesian Ab Tester 20260704 145631](projects/bayesian_ab_tester.py_20260704_145631.py) | Implemented a Bayesian A/B testing framework with Beta-Binomial conjugate priors so I can actually quantify probability of improvement instead of just rejecting null hypotheses. |
 | 2026-07-04 | [Lazy Pipeline 20260704 145701](projects/lazy_pipeline.py_20260704_145701.py) | Created a composable lazy pipeline system that lets me chain transformations functionally and only evaluate when I actually iterate, plus auto-memoizes expensive operations. |
 | 2026-07-04 | [Bellman Ford With Negative Cycles 20260704 114941](projects/bellman_ford_with_negative_cycles.py_20260704_114941.py) | Built a Bellman-Ford shortest path finder that explicitly detects and reports negative cycles, which Dijkstra can't handle. |

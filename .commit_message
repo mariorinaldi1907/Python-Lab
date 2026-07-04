@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a bayesian A/B test analyzer because I got tired of checking p-values manually for my side projects
-- built a lazy evaluation pipeline with currying and memoization — chains transforms without eagerly computing until needed
+- built a forest fire spread simulator with wind direction and probabilistic burning
+- built an LRU cache from scratch using a hashmap + doubly linked list, wanted to understand the O(1) eviction magic
