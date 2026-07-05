@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented Tarjan's algorithm for finding strongly connected components, been wanting to build this since I needed it for dependency analysis
-- built naive bayes from scratch with laplace smoothing, surprisingly clean implementation
+- built an nginx access log parser that extracts insights from my server logs — can filter by status code and find slow requests
+- built a bayesian A/B test calculator because I was tired of relying on frequentist p-values for everything

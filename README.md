@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-05 | [Nginx Log Parser 20260705 115150](projects/nginx_log_parser.py_20260705_115150.py) | Wrote a parser for nginx access logs because I got tired of grepping through thousands of lines to find 500 errors and slow requests on my VPS. |
+| 2026-07-05 | [Bayesian Ab Tester 20260705 115226](projects/bayesian_ab_tester.py_20260705_115226.py) | Created a Bayesian A/B testing module with beta distribution priors that lets me calculate probability of superiority and expected loss — way more intuitive than classical stats for conversion rate experiments. |
 | 2026-07-05 | [Tarjans Scc Finder 20260705 093914](projects/tarjans_scc_finder.py_20260705_093914.py) | Built Tarjan's SCC algorithm from scratch to find strongly connected components in directed graphs — useful for cycle detection and analyzing dependencies. |
 | 2026-07-05 | [Naive Bayes Classifier 20260705 093942](projects/naive_bayes_classifier.py_20260705_093942.py) | Implemented a Naive Bayes classifier to understand probabilistic ML better — handles text classification with smoothing for unseen features. |
 | 2026-07-05 | [Forest Fire Simulation 20260705 073304](projects/forest_fire_simulation.py_20260705_073304.py) | Created a cellular automaton that simulates wildfire spreading through a forest with wind effects and probabilistic ignition — purely for fun and to visualize emergent behavior. |
