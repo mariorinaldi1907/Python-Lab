@@ -1,1 +1,4 @@
-built a forest fire simulator with wind direction and spread probabilities, watching patterns emerge is weirdly satisfying
+added 2 new scripts
+
+- implemented Tarjan's algorithm for finding strongly connected components, been wanting to build this since I needed it for dependency analysis
+- built naive bayes from scratch with laplace smoothing, surprisingly clean implementation

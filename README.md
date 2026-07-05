@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-05 | [Tarjans Scc Finder 20260705 093914](projects/tarjans_scc_finder.py_20260705_093914.py) | Built Tarjan's SCC algorithm from scratch to find strongly connected components in directed graphs — useful for cycle detection and analyzing dependencies. |
+| 2026-07-05 | [Naive Bayes Classifier 20260705 093942](projects/naive_bayes_classifier.py_20260705_093942.py) | Implemented a Naive Bayes classifier to understand probabilistic ML better — handles text classification with smoothing for unseen features. |
 | 2026-07-05 | [Forest Fire Simulation 20260705 073304](projects/forest_fire_simulation.py_20260705_073304.py) | Created a cellular automaton that simulates wildfire spreading through a forest with wind effects and probabilistic ignition — purely for fun and to visualize emergent behavior. |
 | 2026-07-05 | [Prime Sieve And Factorization 20260705 045939](projects/prime_sieve_and_factorization.py_20260705_045939.py) | Built a number theory toolkit centered around prime generation and factorization because I got tired of rewriting this logic every time I need it. |
 | 2026-07-05 | [Async Rate Limiter Demo 20260705 050003](projects/async_rate_limiter_demo.py_20260705_050003.py) | Implemented a token bucket rate limiter using asyncio to demo how to throttle concurrent operations without blocking the event loop. |
