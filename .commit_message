@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a forest fire spread simulator with wind direction and probabilistic burning
-- built an LRU cache from scratch using a hashmap + doubly linked list, wanted to understand the O(1) eviction magic
+- implemented sieve of Eratosthenes with prime factorization utilities — also added a Miller-Rabin primality test for fun
+- built an async rate limiter with token bucket algorithm, works great for throttling API calls
