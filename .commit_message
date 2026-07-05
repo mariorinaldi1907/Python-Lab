@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented sieve of Eratosthenes with prime factorization utilities — also added a Miller-Rabin primality test for fun
-- built an async rate limiter with token bucket algorithm, works great for throttling API calls
+built a forest fire simulator with wind direction and spread probabilities, watching patterns emerge is weirdly satisfying

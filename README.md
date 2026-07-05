@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-05 | [Forest Fire Simulation 20260705 073304](projects/forest_fire_simulation.py_20260705_073304.py) | Created a cellular automaton that simulates wildfire spreading through a forest with wind effects and probabilistic ignition — purely for fun and to visualize emergent behavior. |
 | 2026-07-05 | [Prime Sieve And Factorization 20260705 045939](projects/prime_sieve_and_factorization.py_20260705_045939.py) | Built a number theory toolkit centered around prime generation and factorization because I got tired of rewriting this logic every time I need it. |
 | 2026-07-05 | [Async Rate Limiter Demo 20260705 050003](projects/async_rate_limiter_demo.py_20260705_050003.py) | Implemented a token bucket rate limiter using asyncio to demo how to throttle concurrent operations without blocking the event loop. |
 | 2026-07-04 | [Forest Fire Simulation 20260704 183357](projects/forest_fire_simulation.py_20260704_183357.py) | Created a cellular automaton that simulates how wildfires spread through a forest grid with configurable wind, ignition probability, and tree density — wanted to visualize how small parameter changes create drastically different outcomes. |
