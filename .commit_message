@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- built a simple port scanner that checks common services, added threading to make it actually usable
-- implemented modular arithmetic toolkit with fast exponentiation, CRT solver, and modular inverse — needed this for some cryptography experiments
+- built an async rate limiter with token bucket algorithm, handles bursty traffic gracefully
+- implemented naive bayes from scratch with laplace smoothing, tested on text classification
+- built an LRU cache from scratch using a doubly linked list and hashmap — needed to understand how @lru_cache actually works under the hood

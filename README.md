@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-06 | [Async Rate Limiter Demo 20260706 140412](projects/async_rate_limiter_demo.py_20260706_140412.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns and how to throttle API-like requests without blocking. |
+| 2026-07-06 | [Naive Bayes Classifier From Scratch 20260706 140449](projects/naive_bayes_classifier_from_scratch.py_20260706_140449.py) | Built a Naive Bayes classifier to understand probabilistic classification better — handles both categorical and text data with smoothing to avoid zero probabilities. |
+| 2026-07-06 | [Lru Cache Implementation 20260706 140512](projects/lru_cache_implementation.py_20260706_140512.py) | Implemented an LRU (Least Recently Used) cache with O(1) get/put operations using a doubly linked list and dictionary, because I wanted to really understand the mechanics behind caching strategies. |
 | 2026-07-06 | [Local Port Scanner 20260706 112452](projects/local_port_scanner.py_20260706_112452.py) | Wrote a port scanner to check which services are running on my local network — useful for debugging my homelab setup. |
 | 2026-07-06 | [Modular Arithmetic Toolkit 20260706 112521](projects/modular_arithmetic_toolkit.py_20260706_112521.py) | Built a modular arithmetic library with extended GCD, Chinese Remainder Theorem solver, and modular exponentiation because I kept rewriting these for Project Euler problems. |
 | 2026-07-06 | [Convex Hull Graham Scan 20260706 082652](projects/convex_hull_graham_scan.py_20260706_082652.py) | Built a convex hull finder using Graham's scan algorithm because I needed to visualize point clusters and find their boundaries. |
