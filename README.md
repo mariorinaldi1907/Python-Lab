@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-06 | [Local Port Scanner 20260706 112452](projects/local_port_scanner.py_20260706_112452.py) | Wrote a port scanner to check which services are running on my local network — useful for debugging my homelab setup. |
+| 2026-07-06 | [Modular Arithmetic Toolkit 20260706 112521](projects/modular_arithmetic_toolkit.py_20260706_112521.py) | Built a modular arithmetic library with extended GCD, Chinese Remainder Theorem solver, and modular exponentiation because I kept rewriting these for Project Euler problems. |
 | 2026-07-06 | [Convex Hull Graham Scan 20260706 082652](projects/convex_hull_graham_scan.py_20260706_082652.py) | Built a convex hull finder using Graham's scan algorithm because I needed to visualize point clusters and find their boundaries. |
 | 2026-07-06 | [Modular Arithmetic Toolkit 20260706 051457](projects/modular_arithmetic_toolkit.py_20260706_051457.py) | Implemented a collection of number theory functions I kept needing for Project Euler problems — handles modular exponentiation, bezout coefficients, and CRT solving. |
 | 2026-07-06 | [Lru Cache Implementation 20260706 051520](projects/lru_cache_implementation.py_20260706_051520.py) | Implemented an LRU cache with O(1) get/put operations because I wanted to understand how Python's functools.lru_cache works under the hood. |

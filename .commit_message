@@ -1,1 +1,4 @@
-implemented Graham scan for convex hull, handles collinear points and edge cases properly
+added 2 new scripts
+
+- built a simple port scanner that checks common services, added threading to make it actually usable
+- implemented modular arithmetic toolkit with fast exponentiation, CRT solver, and modular inverse — needed this for some cryptography experiments
