@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- built an async rate limiter with token bucket algorithm, handles bursty traffic gracefully
-- implemented naive bayes from scratch with laplace smoothing, tested on text classification
-- built an LRU cache from scratch using a doubly linked list and hashmap — needed to understand how @lru_cache actually works under the hood
+added modular arithmetic toolkit with fast exponentiation, multiplicative inverse, and CRT solver
