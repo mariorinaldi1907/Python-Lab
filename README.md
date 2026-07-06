@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-06 | [Modular Arithmetic Toolkit 20260706 051457](projects/modular_arithmetic_toolkit.py_20260706_051457.py) | Implemented a collection of number theory functions I kept needing for Project Euler problems — handles modular exponentiation, bezout coefficients, and CRT solving. |
+| 2026-07-06 | [Lru Cache Implementation 20260706 051520](projects/lru_cache_implementation.py_20260706_051520.py) | Implemented an LRU cache with O(1) get/put operations because I wanted to understand how Python's functools.lru_cache works under the hood. |
 | 2026-07-05 | [Nginx Log Parser 20260705 115150](projects/nginx_log_parser.py_20260705_115150.py) | Wrote a parser for nginx access logs because I got tired of grepping through thousands of lines to find 500 errors and slow requests on my VPS. |
 | 2026-07-05 | [Bayesian Ab Tester 20260705 115226](projects/bayesian_ab_tester.py_20260705_115226.py) | Created a Bayesian A/B testing module with beta distribution priors that lets me calculate probability of superiority and expected loss — way more intuitive than classical stats for conversion rate experiments. |
 | 2026-07-05 | [Tarjans Scc Finder 20260705 093914](projects/tarjans_scc_finder.py_20260705_093914.py) | Built Tarjan's SCC algorithm from scratch to find strongly connected components in directed graphs — useful for cycle detection and analyzing dependencies. |

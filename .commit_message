@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built an nginx access log parser that extracts insights from my server logs — can filter by status code and find slow requests
-- built a bayesian A/B test calculator because I was tired of relying on frequentist p-values for everything
+- built a modular arithmetic toolkit with extended gcd, modular inverse, and chinese remainder theorem solver
+- built an LRU cache from scratch using a doubly linked list and hashmap — evicts least recently used items automatically
