@@ -1,1 +1,4 @@
-added modular arithmetic toolkit with fast exponentiation, multiplicative inverse, and CRT solver
+added 2 new scripts
+
+- implemented a markov chain text generator with configurable n-gram order, feels pretty smooth
+- built a modular arithmetic toolkit with fast exponentiation and CRT solver — been needing this for project euler problems
