@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-07 | [Word Ladder Bfs Solver 20260707 192139](projects/word_ladder_bfs_solver.py_20260707_192139.py) | Built a word ladder puzzle solver that finds the shortest transformation sequence between two words, changing one letter at a time through valid dictionary words. |
 | 2026-07-07 | [Bellman Ford Negative Cycles 20260707 124129](projects/bellman_ford_negative_cycles.py_20260707_124129.py) | Built a Bellman-Ford shortest path finder that detects negative cycles since I kept running into graph problems where Dijkstra choked on negative edge weights. |
 | 2026-07-07 | [Json Tree Explorer 20260707 124203](projects/json_tree_explorer.py_20260707_124203.py) | Created a JSON tree explorer that lets me quickly understand deeply nested JSON files by printing their structure with types and sample values. |
 | 2026-07-07 | [Lazy Pipeline 20260707 102240](projects/lazy_pipeline.py_20260707_102240.py) | Created a composable pipeline utility that lazily evaluates transformations and includes automatic memoization — been wanting to build this for my data processing scripts. |

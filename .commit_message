@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented Bellman-Ford with negative cycle detection because sometimes edges have negative weights and I needed something more robust than Dijkstra
-- built a CLI tool to explore JSON structure interactively — handles nested objects and arrays, pretty prints paths
+implemented word ladder solver using BFS, finds shortest path between two words by single-letter changes
