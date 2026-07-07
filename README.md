@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-07 | [Lazy Pipeline 20260707 102240](projects/lazy_pipeline.py_20260707_102240.py) | Created a composable pipeline utility that lazily evaluates transformations and includes automatic memoization — been wanting to build this for my data processing scripts. |
+| 2026-07-07 | [Tarjans Scc Finder 20260707 102306](projects/tarjans_scc_finder.py_20260707_102306.py) | Built Tarjan's algorithm to find strongly connected components in directed graphs — always wanted a clean implementation of this for analyzing dependency cycles. |
+| 2026-07-07 | [Command Pattern Text Editor 20260707 102329](projects/command_pattern_text_editor.py_20260707_102329.py) | Built a simple text editor using the command pattern to handle operations like insert, delete, and replace with full undo/redo functionality. |
 | 2026-07-07 | [Simple Expression Evaluator 20260707 074718](projects/simple_expression_evaluator.py_20260707_074718.py) | Wrote an expression evaluator that handles addition, subtraction, multiplication, division, and parentheses using recursive descent parsing — way cleaner than trying to wrestle with regex. |
 | 2026-07-07 | [Async Rate Limiter Demo 20260707 074804](projects/async_rate_limiter_demo.py_20260707_074804.py) | Implemented a token bucket rate limiter using asyncio to demonstrate controlled concurrency — useful pattern I keep needing for API clients. |
 | 2026-07-07 | [Bidirectional Bfs Shortest Path 20260707 074832](projects/bidirectional_bfs_shortest_path.py_20260707_074832.py) | Built a bidirectional breadth-first search that searches from both ends simultaneously, which I've been wanting to try since it can cut search time in half for dense graphs. |

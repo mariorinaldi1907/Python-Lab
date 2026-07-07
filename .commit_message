@@ -1,5 +1,5 @@
 added 3 new scripts
 
-- built a recursive descent parser for math expressions with proper operator precedence
-- built an async rate limiter with token bucket algorithm, works great for API call throttling
-- implemented bidirectional BFS for shortest paths - way faster than regular BFS on large graphs
+- built a lazy pipeline system with function composition and memoization, finally got around to learning proper functional patterns
+- implemented Tarjan's algorithm for finding strongly connected components, added visualization of the SCC structure
+- implemented command pattern for a mini text editor with undo/redo support
