@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-07 | [Simple Expression Evaluator 20260707 074718](projects/simple_expression_evaluator.py_20260707_074718.py) | Wrote an expression evaluator that handles addition, subtraction, multiplication, division, and parentheses using recursive descent parsing — way cleaner than trying to wrestle with regex. |
+| 2026-07-07 | [Async Rate Limiter Demo 20260707 074804](projects/async_rate_limiter_demo.py_20260707_074804.py) | Implemented a token bucket rate limiter using asyncio to demonstrate controlled concurrency — useful pattern I keep needing for API clients. |
+| 2026-07-07 | [Bidirectional Bfs Shortest Path 20260707 074832](projects/bidirectional_bfs_shortest_path.py_20260707_074832.py) | Built a bidirectional breadth-first search that searches from both ends simultaneously, which I've been wanting to try since it can cut search time in half for dense graphs. |
 | 2026-07-07 | [Markov Text Generator 20260707 045506](projects/markov_text_generator.py_20260707_045506.py) | Built a Markov chain text generator that learns from input text and produces semi-coherent output — playing around with n-grams was fun. |
 | 2026-07-07 | [Modular Arithmetic Toolkit 20260707 045535](projects/modular_arithmetic_toolkit.py_20260707_045535.py) | Created a collection of modular arithmetic utilities including fast modular exponentiation, extended Euclidean algorithm, and Chinese Remainder Theorem solver because I kept rewriting these for competitive programming. |
 | 2026-07-06 | [Modular Arithmetic Toolkit 20260706 191811](projects/modular_arithmetic_toolkit.py_20260706_191811.py) | Built a collection of modular arithmetic functions I keep needing for competitive programming and crypto exercises — includes extended Euclidean algorithm and Chinese Remainder Theorem solver. |
