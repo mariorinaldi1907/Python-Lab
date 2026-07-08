@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built k-means clustering from scratch with random init and convergence tracking
-- built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly
+- implemented word ladder solver with BFS, tracks path and handles edge cases like unreachable targets
+- built an LRU cache from scratch using a doubly linked list and dict for O(1) operations
