@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-08 | [Command Pattern Home Automation 20260708 092311](projects/command_pattern_home_automation.py_20260708_092311.py) | Built a home automation controller using the command pattern to handle device controls with full undo/redo support — feels like building a mini smart home. |
+| 2026-07-08 | [Async Rate Limiter Demo 20260708 092339](projects/async_rate_limiter_demo.py_20260708_092339.py) | Implemented a token bucket rate limiter using asyncio to explore practical concurrency patterns for API throttling scenarios. |
 | 2026-07-08 | [Bootstrap Statistics 20260708 063342](projects/bootstrap_statistics.py_20260708_063342.py) | Built a bootstrap statistics module to estimate sampling distributions and confidence intervals without assuming normality — useful for my data analysis experiments. |
 | 2026-07-07 | [Word Ladder Bfs Solver 20260707 192139](projects/word_ladder_bfs_solver.py_20260707_192139.py) | Built a word ladder puzzle solver that finds the shortest transformation sequence between two words, changing one letter at a time through valid dictionary words. |
 | 2026-07-07 | [Bellman Ford Negative Cycles 20260707 124129](projects/bellman_ford_negative_cycles.py_20260707_124129.py) | Built a Bellman-Ford shortest path finder that detects negative cycles since I kept running into graph problems where Dijkstra choked on negative edge weights. |

@@ -1,1 +1,4 @@
-implemented bootstrap resampling with confidence intervals, threw in a basic t-test too
+added 2 new scripts
+
+- implemented command pattern for a home automation system, makes undo/redo really clean
+- built an async rate limiter with token bucket algorithm, tested with simulated api calls
