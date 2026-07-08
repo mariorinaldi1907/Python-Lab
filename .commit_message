@@ -1,1 +1,1 @@
-implemented word ladder solver using BFS, finds shortest path between two words by single-letter changes
+implemented bootstrap resampling with confidence intervals, threw in a basic t-test too
