@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented command pattern for a home automation system, makes undo/redo really clean
-- built an async rate limiter with token bucket algorithm, tested with simulated api calls
+- built k-means clustering from scratch with random init and convergence tracking
+- built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly

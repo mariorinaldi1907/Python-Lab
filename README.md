@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-08 | [K Means Clustering From Scratch 20260708 120018](projects/k_means_clustering_from_scratch.py_20260708_120018.py) | Implemented k-means clustering using only standard library to understand how centroid-based clustering actually works under the hood. |
+| 2026-07-08 | [Simple Expression Evaluator 20260708 120039](projects/simple_expression_evaluator.py_20260708_120039.py) | Wrote an expression evaluator that parses and computes arithmetic expressions with proper operator precedence using recursive descent parsing. |
 | 2026-07-08 | [Command Pattern Home Automation 20260708 092311](projects/command_pattern_home_automation.py_20260708_092311.py) | Built a home automation controller using the command pattern to handle device controls with full undo/redo support — feels like building a mini smart home. |
 | 2026-07-08 | [Async Rate Limiter Demo 20260708 092339](projects/async_rate_limiter_demo.py_20260708_092339.py) | Implemented a token bucket rate limiter using asyncio to explore practical concurrency patterns for API throttling scenarios. |
 | 2026-07-08 | [Bootstrap Statistics 20260708 063342](projects/bootstrap_statistics.py_20260708_063342.py) | Built a bootstrap statistics module to estimate sampling distributions and confidence intervals without assuming normality — useful for my data analysis experiments. |
