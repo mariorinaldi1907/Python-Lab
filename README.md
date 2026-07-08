@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-08 | [Convex Hull Gift Wrapping 20260708 185509](projects/convex_hull_gift_wrapping.py_20260708_185509.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to visualize how Jarvis march works in 2D space. |
+| 2026-07-08 | [Bayesian Updater 20260708 185544](projects/bayesian_updater.py_20260708_185544.py) | Wrote a Bayesian inference tool using beta-binomial conjugate pairs to update beliefs from data, mostly because I wanted to analyze conversion rates properly. |
 | 2026-07-08 | [Word Ladder Bfs Solver 20260708 155624](projects/word_ladder_bfs_solver.py_20260708_155624.py) | Built a word ladder puzzle solver using BFS to find the shortest transformation path between two words, because I wanted to practice graph traversal on implicit graphs. |
 | 2026-07-08 | [Lru Cache Implementation 20260708 155647](projects/lru_cache_implementation.py_20260708_155647.py) | Implemented an LRU cache with get/put operations in constant time — needed this to understand how Python's functools.lru_cache actually works under the hood. |
 | 2026-07-08 | [K Means Clustering From Scratch 20260708 120018](projects/k_means_clustering_from_scratch.py_20260708_120018.py) | Implemented k-means clustering using only standard library to understand how centroid-based clustering actually works under the hood. |

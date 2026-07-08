@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented word ladder solver with BFS, tracks path and handles edge cases like unreachable targets
-- built an LRU cache from scratch using a doubly linked list and dict for O(1) operations
+- implemented gift wrapping algorithm for convex hull, handles collinear points and edge cases
+- built a Bayesian updater with beta distribution conjugate prior — handles A/B test scenarios nicely
