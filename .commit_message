@@ -1,1 +1,4 @@
-built an async rate limiter using token bucket pattern, testing it with simulated API calls
+added 2 new scripts
+
+- built a word frequency analyzer CLI that handles stopwords and outputs sorted results — actually useful for quick text analysis
+- built a markov chain text generator that actually preserves sentence structure and punctuation

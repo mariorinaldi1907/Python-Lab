@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-09 | [Word Freq Analyzer 20260709 042714](projects/word_freq_analyzer.py_20260709_042714.py) | Created a command-line tool to analyze word frequencies in text files with stopword filtering and multiple output formats, because I got tired of manually counting words in my writing. |
+| 2026-07-09 | [Markov Text Generator 20260709 042739](projects/markov_text_generator.py_20260709_042739.py) | Created a Markov chain text generator that learns from input text and generates semi-coherent sentences by analyzing word transition probabilities. |
 | 2026-07-09 | [Async Rate Limiter Demo 20260709 040655](projects/async_rate_limiter_demo.py_20260709_040655.py) | Implemented a token bucket rate limiter with asyncio to understand how to throttle concurrent requests without blocking everything. |
 | 2026-07-08 | [Convex Hull Gift Wrapping 20260708 185509](projects/convex_hull_gift_wrapping.py_20260708_185509.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to visualize how Jarvis march works in 2D space. |
 | 2026-07-08 | [Bayesian Updater 20260708 185544](projects/bayesian_updater.py_20260708_185544.py) | Wrote a Bayesian inference tool using beta-binomial conjugate pairs to update beliefs from data, mostly because I wanted to analyze conversion rates properly. |
