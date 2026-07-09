@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- implemented Tarjan's algorithm for finding strongly connected components — keeps track of discovery time and low-link values
-- built a subnet scanner that pings hosts and checks common ports — helps me map my home network
+- built a modular arithmetic toolkit with fast exponentiation and multiplicative inverse — needed this for some RSA experiments
+- built a composable function pipeline system with lazy evaluation and memoization — finally got tired of writing nested function calls
+- built a markov chain text generator with configurable n-gram size, handles edge cases and punctuation nicely

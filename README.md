@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-09 | [Modular Arithmetic Toolkit 20260709 161954](projects/modular_arithmetic_toolkit.py_20260709_161954.py) | Created a collection of modular arithmetic functions including fast modular exponentiation, extended Euclidean algorithm, and modular multiplicative inverse for cryptography and number theory work. |
+| 2026-07-09 | [Functional Pipeline 20260709 162021](projects/functional_pipeline.py_20260709_162021.py) | Created a functional programming toolkit that lets me chain operations lazily, memoize expensive computations, and compose functions like I'm writing Haskell but in Python. |
+| 2026-07-09 | [Markov Text Generator 20260709 162048](projects/markov_text_generator.py_20260709_162048.py) | Implemented a Markov chain text generator that can learn from any text corpus and generate somewhat coherent sentences — fun for generating nonsense from my old commit messages. |
 | 2026-07-09 | [Tarjans Scc Finder 20260709 045646](projects/tarjans_scc_finder.py_20260709_045646.py) | Built Tarjan's SCC algorithm because I wanted to understand how compilers find loops and cycles in control flow graphs. |
 | 2026-07-09 | [Subnet Scanner 20260709 045716](projects/subnet_scanner.py_20260709_045716.py) | Created a simple subnet scanner to discover active hosts and open ports on my local network using pure Python stdlib. |
 | 2026-07-09 | [Word Freq Analyzer 20260709 042714](projects/word_freq_analyzer.py_20260709_042714.py) | Created a command-line tool to analyze word frequencies in text files with stopword filtering and multiple output formats, because I got tired of manually counting words in my writing. |
