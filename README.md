@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-09 | [Tarjans Scc Finder 20260709 045646](projects/tarjans_scc_finder.py_20260709_045646.py) | Built Tarjan's SCC algorithm because I wanted to understand how compilers find loops and cycles in control flow graphs. |
+| 2026-07-09 | [Subnet Scanner 20260709 045716](projects/subnet_scanner.py_20260709_045716.py) | Created a simple subnet scanner to discover active hosts and open ports on my local network using pure Python stdlib. |
 | 2026-07-09 | [Word Freq Analyzer 20260709 042714](projects/word_freq_analyzer.py_20260709_042714.py) | Created a command-line tool to analyze word frequencies in text files with stopword filtering and multiple output formats, because I got tired of manually counting words in my writing. |
 | 2026-07-09 | [Markov Text Generator 20260709 042739](projects/markov_text_generator.py_20260709_042739.py) | Created a Markov chain text generator that learns from input text and generates semi-coherent sentences by analyzing word transition probabilities. |
 | 2026-07-09 | [Async Rate Limiter Demo 20260709 040655](projects/async_rate_limiter_demo.py_20260709_040655.py) | Implemented a token bucket rate limiter with asyncio to understand how to throttle concurrent requests without blocking everything. |
