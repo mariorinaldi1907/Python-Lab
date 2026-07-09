@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- built a modular arithmetic toolkit with fast exponentiation and multiplicative inverse — needed this for some RSA experiments
-- built a composable function pipeline system with lazy evaluation and memoization — finally got tired of writing nested function calls
-- built a markov chain text generator with configurable n-gram size, handles edge cases and punctuation nicely
+built a word ladder solver using BFS — finds shortest path between two words by changing one letter at a time
