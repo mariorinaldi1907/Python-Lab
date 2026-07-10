@@ -1,1 +1,4 @@
-implemented an LRU cache from scratch using a doubly linked list and hashmap — wanted to really understand how the eviction policy works under the hood
+added 2 new scripts
+
+- implemented Tarjan's algorithm for finding strongly connected components, always wanted to understand how graph decomposition works under the hood
+- built a minimal lisp-style expression evaluator that handles arithmetic and lets you define variables

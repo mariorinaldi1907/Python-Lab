@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-10 | [Tarjans Scc Finder 20260710 123925](projects/tarjans_scc_finder.py_20260710_123925.py) | Built Tarjan's SCC algorithm to decompose directed graphs into strongly connected components — really elegant use of DFS and stack invariants. |
+| 2026-07-10 | [Simple Lisp Evaluator 20260710 123950](projects/simple_lisp_evaluator.py_20260710_123950.py) | Wrote a tiny interpreter that parses and evaluates s-expressions with basic arithmetic ops and variable bindings — basically a calculator that speaks lisp. |
 | 2026-07-10 | [Lru Cache Implementation 20260710 101956](projects/lru_cache_implementation.py_20260710_101956.py) | Built an LRU cache to solidify my understanding of combined data structures — uses O(1) lookups and evictions by combining a hashmap with a doubly linked list. |
 | 2026-07-10 | [Epidemic Sir Simulation 20260710 074155](projects/epidemic_sir_simulation.py_20260710_074155.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic simulator on a 2D grid where infection spreads to neighbors and you can watch it propagate in the terminal. |
 | 2026-07-10 | [Modular Arithmetic Toolkit 20260710 074234](projects/modular_arithmetic_toolkit.py_20260710_074234.py) | Created a collection of modular arithmetic functions I kept rewriting for project euler problems, including Chinese Remainder Theorem and extended Euclidean algorithm. |
