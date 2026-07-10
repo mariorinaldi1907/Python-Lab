@@ -1,1 +1,4 @@
-built a word ladder solver using BFS — finds shortest path between two words by changing one letter at a time
+added 2 new scripts
+
+- built a basic SIR epidemic model with ASCII visualization — tweaked parameters until it looked realistic
+- built a modular arithmetic toolkit with fast exponentiation and CRT solver — feels cleaner than copy-pasting these every time

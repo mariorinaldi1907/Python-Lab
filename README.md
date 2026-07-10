@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-10 | [Epidemic Sir Simulation 20260710 074155](projects/epidemic_sir_simulation.py_20260710_074155.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic simulator on a 2D grid where infection spreads to neighbors and you can watch it propagate in the terminal. |
+| 2026-07-10 | [Modular Arithmetic Toolkit 20260710 074234](projects/modular_arithmetic_toolkit.py_20260710_074234.py) | Created a collection of modular arithmetic functions I kept rewriting for project euler problems, including Chinese Remainder Theorem and extended Euclidean algorithm. |
 | 2026-07-09 | [Word Ladder Bfs Solver 20260709 190844](projects/word_ladder_bfs_solver.py_20260709_190844.py) | Implemented a BFS-based word ladder puzzle solver that finds the shortest transformation sequence between two words, perfect for those NYT-style puzzles I keep seeing. |
 | 2026-07-09 | [Modular Arithmetic Toolkit 20260709 161954](projects/modular_arithmetic_toolkit.py_20260709_161954.py) | Created a collection of modular arithmetic functions including fast modular exponentiation, extended Euclidean algorithm, and modular multiplicative inverse for cryptography and number theory work. |
 | 2026-07-09 | [Functional Pipeline 20260709 162021](projects/functional_pipeline.py_20260709_162021.py) | Created a functional programming toolkit that lets me chain operations lazily, memoize expensive computations, and compose functions like I'm writing Haskell but in Python. |
