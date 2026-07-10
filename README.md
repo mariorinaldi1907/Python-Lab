@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-10 | [Lru Cache Implementation 20260710 101956](projects/lru_cache_implementation.py_20260710_101956.py) | Built an LRU cache to solidify my understanding of combined data structures — uses O(1) lookups and evictions by combining a hashmap with a doubly linked list. |
 | 2026-07-10 | [Epidemic Sir Simulation 20260710 074155](projects/epidemic_sir_simulation.py_20260710_074155.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic simulator on a 2D grid where infection spreads to neighbors and you can watch it propagate in the terminal. |
 | 2026-07-10 | [Modular Arithmetic Toolkit 20260710 074234](projects/modular_arithmetic_toolkit.py_20260710_074234.py) | Created a collection of modular arithmetic functions I kept rewriting for project euler problems, including Chinese Remainder Theorem and extended Euclidean algorithm. |
 | 2026-07-09 | [Word Ladder Bfs Solver 20260709 190844](projects/word_ladder_bfs_solver.py_20260709_190844.py) | Implemented a BFS-based word ladder puzzle solver that finds the shortest transformation sequence between two words, perfect for those NYT-style puzzles I keep seeing. |
