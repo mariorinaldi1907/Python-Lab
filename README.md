@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-11 | [Naive Bayes From Scratch 20260711 041436](projects/naive_bayes_from_scratch.py_20260711_041436.py) | Implemented a Gaussian Naive Bayes classifier without any ML libraries to really understand the probability math behind it. |
+| 2026-07-11 | [Nginx Log Parser 20260711 041506](projects/nginx_log_parser.py_20260711_041506.py) | Wrote a parser for nginx access logs that breaks down traffic patterns — helps me spot suspicious activity on my personal server. |
 | 2026-07-10 | [Tarjans Scc Finder 20260710 123925](projects/tarjans_scc_finder.py_20260710_123925.py) | Built Tarjan's SCC algorithm to decompose directed graphs into strongly connected components — really elegant use of DFS and stack invariants. |
 | 2026-07-10 | [Simple Lisp Evaluator 20260710 123950](projects/simple_lisp_evaluator.py_20260710_123950.py) | Wrote a tiny interpreter that parses and evaluates s-expressions with basic arithmetic ops and variable bindings — basically a calculator that speaks lisp. |
 | 2026-07-10 | [Lru Cache Implementation 20260710 101956](projects/lru_cache_implementation.py_20260710_101956.py) | Built an LRU cache to solidify my understanding of combined data structures — uses O(1) lookups and evictions by combining a hashmap with a doubly linked list. |

@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented Tarjan's algorithm for finding strongly connected components, always wanted to understand how graph decomposition works under the hood
-- built a minimal lisp-style expression evaluator that handles arithmetic and lets you define variables
+- built naive bayes classifier from scratch, tested on iris-like data with laplace smoothing
+- built an nginx access log parser that extracts useful stats like top IPs, status codes, and request patterns
