@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built an LRU cache from scratch using a doubly linked list and hash map, pretty happy with how clean the O(1) operations turned out
-- implemented strategy pattern for payment processing, makes adding new payment methods super clean
+- built an async rate limiter with token bucket algorithm, handles burst traffic nicely
+- built a markov chain text generator with configurable n-gram order, been wanting to make one of these for a while

@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-11 | [Async Rate Limiter Demo 20260711 084359](projects/async_rate_limiter_demo.py_20260711_084359.py) | Implemented a token bucket rate limiter using asyncio to understand how to control API request rates in concurrent environments. |
+| 2026-07-11 | [Markov Text Generator 20260711 084426](projects/markov_text_generator.py_20260711_084426.py) | Created a Markov chain text generator that learns from input text and generates plausible-sounding sentences using n-grams of configurable order. |
 | 2026-07-11 | [Lru Cache Implementation 20260711 061911](projects/lru_cache_implementation.py_20260711_061911.py) | Implemented an LRU cache with get/put operations in constant time using a custom doubly linked list — wanted to really understand how these work under the hood. |
 | 2026-07-11 | [Strategy Payment Processor 20260711 061940](projects/strategy_payment_processor.py_20260711_061940.py) | Built a payment processor using the strategy pattern so I can swap payment methods at runtime without changing client code. |
 | 2026-07-11 | [Naive Bayes From Scratch 20260711 041436](projects/naive_bayes_from_scratch.py_20260711_041436.py) | Implemented a Gaussian Naive Bayes classifier without any ML libraries to really understand the probability math behind it. |
