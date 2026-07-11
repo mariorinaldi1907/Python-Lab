@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-11 | [Directory Tree Printer 20260711 112857](projects/directory_tree_printer.py_20260711_112857.py) | Made a CLI tool that prints directory trees with file sizes and lets me exclude patterns like node_modules or .git — uses only stdlib and handles symlinks gracefully. |
+| 2026-07-11 | [Lazy Pipeline Evaluator 20260711 112926](projects/lazy_pipeline_evaluator.py_20260711_112926.py) | Created a functional programming toolkit that combines lazy evaluation, automatic memoization, and chainable pipelines so I can compose transformations efficiently without wasting cycles on unused computations. |
 | 2026-07-11 | [Async Rate Limiter Demo 20260711 084359](projects/async_rate_limiter_demo.py_20260711_084359.py) | Implemented a token bucket rate limiter using asyncio to understand how to control API request rates in concurrent environments. |
 | 2026-07-11 | [Markov Text Generator 20260711 084426](projects/markov_text_generator.py_20260711_084426.py) | Created a Markov chain text generator that learns from input text and generates plausible-sounding sentences using n-grams of configurable order. |
 | 2026-07-11 | [Lru Cache Implementation 20260711 061911](projects/lru_cache_implementation.py_20260711_061911.py) | Implemented an LRU cache with get/put operations in constant time using a custom doubly linked list — wanted to really understand how these work under the hood. |

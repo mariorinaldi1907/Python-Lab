@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built an async rate limiter with token bucket algorithm, handles burst traffic nicely
-- built a markov chain text generator with configurable n-gram order, been wanting to make one of these for a while
+- built a recursive directory tree printer with size calculations and ignore patterns
+- built a lazy pipeline system with memoization - lets me chain operations without computing until needed
