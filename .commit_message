@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- built a recursive directory tree printer with size calculations and ignore patterns
-- built a lazy pipeline system with memoization - lets me chain operations without computing until needed
+- built a CLI word frequency analyzer with stop-word filtering and multiple output formats
+- built a recursive descent parser for basic math expressions, handles operator precedence properly
+- implemented an LRU cache from scratch using OrderedDict, wanted to understand how @lru_cache actually works under the hood

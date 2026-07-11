@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-11 | [Word Frequency Analyzer 20260711 182842](projects/word_frequency_analyzer.py_20260711_182842.py) | Created a command-line tool that analyzes text files for word frequency distribution, with configurable filtering and JSON/CSV export options because I got tired of doing this manually in data cleanup tasks. |
+| 2026-07-11 | [Simple Expression Evaluator 20260711 182905](projects/simple_expression_evaluator.py_20260711_182905.py) | Wrote an expression evaluator that parses and calculates arithmetic expressions with proper precedence rules — way more elegant than RPN for this use case. |
+| 2026-07-11 | [Lru Cache Implementation 20260711 182926](projects/lru_cache_implementation.py_20260711_182926.py) | Built a proper LRU cache with get/put operations in O(1) time to finally understand the eviction policy mechanics myself. |
 | 2026-07-11 | [Directory Tree Printer 20260711 112857](projects/directory_tree_printer.py_20260711_112857.py) | Made a CLI tool that prints directory trees with file sizes and lets me exclude patterns like node_modules or .git — uses only stdlib and handles symlinks gracefully. |
 | 2026-07-11 | [Lazy Pipeline Evaluator 20260711 112926](projects/lazy_pipeline_evaluator.py_20260711_112926.py) | Created a functional programming toolkit that combines lazy evaluation, automatic memoization, and chainable pipelines so I can compose transformations efficiently without wasting cycles on unused computations. |
 | 2026-07-11 | [Async Rate Limiter Demo 20260711 084359](projects/async_rate_limiter_demo.py_20260711_084359.py) | Implemented a token bucket rate limiter using asyncio to understand how to control API request rates in concurrent environments. |
