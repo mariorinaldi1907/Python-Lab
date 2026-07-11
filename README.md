@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-11 | [Lru Cache Implementation 20260711 061911](projects/lru_cache_implementation.py_20260711_061911.py) | Implemented an LRU cache with get/put operations in constant time using a custom doubly linked list — wanted to really understand how these work under the hood. |
+| 2026-07-11 | [Strategy Payment Processor 20260711 061940](projects/strategy_payment_processor.py_20260711_061940.py) | Built a payment processor using the strategy pattern so I can swap payment methods at runtime without changing client code. |
 | 2026-07-11 | [Naive Bayes From Scratch 20260711 041436](projects/naive_bayes_from_scratch.py_20260711_041436.py) | Implemented a Gaussian Naive Bayes classifier without any ML libraries to really understand the probability math behind it. |
 | 2026-07-11 | [Nginx Log Parser 20260711 041506](projects/nginx_log_parser.py_20260711_041506.py) | Wrote a parser for nginx access logs that breaks down traffic patterns — helps me spot suspicious activity on my personal server. |
 | 2026-07-10 | [Tarjans Scc Finder 20260710 123925](projects/tarjans_scc_finder.py_20260710_123925.py) | Built Tarjan's SCC algorithm to decompose directed graphs into strongly connected components — really elegant use of DFS and stack invariants. |

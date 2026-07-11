@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built naive bayes classifier from scratch, tested on iris-like data with laplace smoothing
-- built an nginx access log parser that extracts useful stats like top IPs, status codes, and request patterns
+- built an LRU cache from scratch using a doubly linked list and hash map, pretty happy with how clean the O(1) operations turned out
+- implemented strategy pattern for payment processing, makes adding new payment methods super clean
