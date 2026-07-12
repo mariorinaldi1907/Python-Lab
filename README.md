@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-12 | [Async Rate Limiter Demo 20260712 042645](projects/async_rate_limiter_demo.py_20260712_042645.py) | Implemented a token bucket rate limiter using asyncio to throttle concurrent requests — useful pattern I keep needing for API integrations. |
+| 2026-07-12 | [Bayesian Ab Test 20260712 042720](projects/bayesian_ab_test.py_20260712_042720.py) | Implemented a Bayesian A/B test framework with Beta-Bernoulli conjugate priors so I can actually tell if my UI tweaks are real improvements or just noise. |
+| 2026-07-12 | [Command Pattern Text Editor 20260712 042748](projects/command_pattern_text_editor.py_20260712_042748.py) | Built a text editor simulator using the command pattern to handle undo/redo operations, which I've always wanted to implement properly. |
 | 2026-07-11 | [Word Frequency Analyzer 20260711 182842](projects/word_frequency_analyzer.py_20260711_182842.py) | Created a command-line tool that analyzes text files for word frequency distribution, with configurable filtering and JSON/CSV export options because I got tired of doing this manually in data cleanup tasks. |
 | 2026-07-11 | [Simple Expression Evaluator 20260711 182905](projects/simple_expression_evaluator.py_20260711_182905.py) | Wrote an expression evaluator that parses and calculates arithmetic expressions with proper precedence rules — way more elegant than RPN for this use case. |
 | 2026-07-11 | [Lru Cache Implementation 20260711 182926](projects/lru_cache_implementation.py_20260711_182926.py) | Built a proper LRU cache with get/put operations in O(1) time to finally understand the eviction policy mechanics myself. |

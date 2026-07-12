@@ -1,5 +1,5 @@
 added 3 new scripts
 
-- built a CLI word frequency analyzer with stop-word filtering and multiple output formats
-- built a recursive descent parser for basic math expressions, handles operator precedence properly
-- implemented an LRU cache from scratch using OrderedDict, wanted to understand how @lru_cache actually works under the hood
+- built an async rate limiter with token bucket algorithm, tested with simulated API calls
+- built a bayesian A/B test analyzer because I got tired of guessing if my changes actually mattered
+- implemented command pattern for a text editor with undo/redo — feels clean for action history
