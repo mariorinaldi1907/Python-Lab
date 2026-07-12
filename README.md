@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-12 | [Async Rate Limiter Demo 20260712 144534](projects/async_rate_limiter_demo.py_20260712_144534.py) | Implemented a token bucket rate limiter using asyncio to explore how to handle bursty API calls without overwhelming downstream services. |
+| 2026-07-12 | [Nginx Log Parser 20260712 144610](projects/nginx_log_parser.py_20260712_144610.py) | Built a parser for nginx access logs that breaks down traffic patterns, response codes, and user agents — helps me analyze my VPS logs without installing anything. |
 | 2026-07-12 | [Simple Expression Evaluator 20260712 113522](projects/simple_expression_evaluator.py_20260712_113522.py) | Wrote an expression evaluator that parses and computes arithmetic expressions with proper operator precedence — no eval() cheating. |
 | 2026-07-12 | [Run Length Encoder 20260712 113605](projects/run_length_encoder.py_20260712_113605.py) | Built a simple but solid run-length encoder/decoder to compress repetitive text — useful for basic data compression experiments. |
 | 2026-07-12 | [Bayesian Ab Tester 20260712 113637](projects/bayesian_ab_tester.py_20260712_113637.py) | Created a Bayesian A/B testing tool that updates beliefs in real-time and tells you the probability that variant B beats A — way more intuitive than p-values. |

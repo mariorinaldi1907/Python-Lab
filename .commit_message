@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly
-- implemented run-length encoding with decode support, handles edge cases like single chars and empty strings
-- built a bayesian A/B test analyzer because I'm tired of waiting for "statistical significance"
+- built an async rate limiter with token bucket algorithm, handles burst traffic nicely
+- wrote nginx access log parser that handles common formats and extracts useful stats
