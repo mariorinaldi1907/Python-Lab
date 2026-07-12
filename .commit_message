@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- built a CLI deduplicator that hashes files to find exact duplicates, added size pre-filtering to avoid hashing everything
-- implemented bootstrap resampling for confidence intervals, threw in some basic stats helpers too
+- built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly
+- implemented run-length encoding with decode support, handles edge cases like single chars and empty strings
+- built a bayesian A/B test analyzer because I'm tired of waiting for "statistical significance"

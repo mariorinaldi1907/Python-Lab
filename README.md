@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-12 | [Simple Expression Evaluator 20260712 113522](projects/simple_expression_evaluator.py_20260712_113522.py) | Wrote an expression evaluator that parses and computes arithmetic expressions with proper operator precedence — no eval() cheating. |
+| 2026-07-12 | [Run Length Encoder 20260712 113605](projects/run_length_encoder.py_20260712_113605.py) | Built a simple but solid run-length encoder/decoder to compress repetitive text — useful for basic data compression experiments. |
+| 2026-07-12 | [Bayesian Ab Tester 20260712 113637](projects/bayesian_ab_tester.py_20260712_113637.py) | Created a Bayesian A/B testing tool that updates beliefs in real-time and tells you the probability that variant B beats A — way more intuitive than p-values. |
 | 2026-07-12 | [Duplicate File Finder 20260712 090001](projects/duplicate_file_finder.py_20260712_090001.py) | Made a file deduplicator that uses MD5 hashing with size-based pre-filtering to quickly find duplicate files across directories. |
 | 2026-07-12 | [Bootstrap Confidence Intervals 20260712 090034](projects/bootstrap_confidence_intervals.py_20260712_090034.py) | Built a bootstrapping module to estimate confidence intervals from small datasets without assuming normal distributions — useful for when I'm analyzing experiment results. |
 | 2026-07-12 | [Async Rate Limiter Demo 20260712 042645](projects/async_rate_limiter_demo.py_20260712_042645.py) | Implemented a token bucket rate limiter using asyncio to throttle concurrent requests — useful pattern I keep needing for API integrations. |
