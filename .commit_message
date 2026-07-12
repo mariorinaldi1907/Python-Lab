@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- built an async rate limiter with token bucket algorithm, tested with simulated API calls
-- built a bayesian A/B test analyzer because I got tired of guessing if my changes actually mattered
-- implemented command pattern for a text editor with undo/redo — feels clean for action history
+- built a CLI deduplicator that hashes files to find exact duplicates, added size pre-filtering to avoid hashing everything
+- implemented bootstrap resampling for confidence intervals, threw in some basic stats helpers too

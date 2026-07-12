@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-12 | [Duplicate File Finder 20260712 090001](projects/duplicate_file_finder.py_20260712_090001.py) | Made a file deduplicator that uses MD5 hashing with size-based pre-filtering to quickly find duplicate files across directories. |
+| 2026-07-12 | [Bootstrap Confidence Intervals 20260712 090034](projects/bootstrap_confidence_intervals.py_20260712_090034.py) | Built a bootstrapping module to estimate confidence intervals from small datasets without assuming normal distributions — useful for when I'm analyzing experiment results. |
 | 2026-07-12 | [Async Rate Limiter Demo 20260712 042645](projects/async_rate_limiter_demo.py_20260712_042645.py) | Implemented a token bucket rate limiter using asyncio to throttle concurrent requests — useful pattern I keep needing for API integrations. |
 | 2026-07-12 | [Bayesian Ab Test 20260712 042720](projects/bayesian_ab_test.py_20260712_042720.py) | Implemented a Bayesian A/B test framework with Beta-Bernoulli conjugate priors so I can actually tell if my UI tweaks are real improvements or just noise. |
 | 2026-07-12 | [Command Pattern Text Editor 20260712 042748](projects/command_pattern_text_editor.py_20260712_042748.py) | Built a text editor simulator using the command pattern to handle undo/redo operations, which I've always wanted to implement properly. |
