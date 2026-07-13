@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-13 | [Huffman Text Compressor 20260713 072655](projects/huffman_text_compressor.py_20260713_072655.py) | Implemented Huffman coding to compress text by building frequency trees and generating variable-length codes — wanted to see how much I could squeeze out of repetitive strings. |
+| 2026-07-13 | [Lazy Pipeline 20260713 072726](projects/lazy_pipeline.py_20260713_072726.py) | Created a functional programming toolkit that lets me chain operations lazily, cache expensive computations, and partially apply functions for cleaner data processing code. |
+| 2026-07-13 | [Bayesian Ab Tester 20260713 072802](projects/bayesian_ab_tester.py_20260713_072802.py) | Created a Bayesian A/B testing tool that uses beta-binomial conjugates to analyze conversion rates and compute win probabilities without p-values. |
 | 2026-07-13 | [Floyd Warshall All Pairs Shortest Path 20260713 043207](projects/floyd_warshall_all_pairs_shortest_path.py_20260713_043207.py) | Built Floyd-Warshall to compute shortest paths between all node pairs — useful when I need the full distance matrix and not just single-source paths. |
 | 2026-07-12 | [Async Rate Limiter Demo 20260712 144534](projects/async_rate_limiter_demo.py_20260712_144534.py) | Implemented a token bucket rate limiter using asyncio to explore how to handle bursty API calls without overwhelming downstream services. |
 | 2026-07-12 | [Nginx Log Parser 20260712 144610](projects/nginx_log_parser.py_20260712_144610.py) | Built a parser for nginx access logs that breaks down traffic patterns, response codes, and user agents — helps me analyze my VPS logs without installing anything. |

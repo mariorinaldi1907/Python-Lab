@@ -1,1 +1,5 @@
-implemented Floyd-Warshall for all-pairs shortest paths, added path reconstruction because I always forget how
+added 3 new scripts
+
+- built a huffman coding compressor from scratch, generates trees and encodes/decodes text nicely
+- built a lazy evaluation pipeline with memoization and currying — handles complex data transformations without loading everything into memory
+- built a Bayesian A/B test analyzer with beta distributions and credible intervals
