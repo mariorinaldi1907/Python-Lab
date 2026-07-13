@@ -1,1 +1,1 @@
-built a multi-threaded port scanner that's actually fast, uses threadpool to scan common ports in parallel
+built a word ladder solver using BFS — finds shortest transformations between words

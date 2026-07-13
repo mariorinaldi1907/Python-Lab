@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-13 | [Word Ladder Bfs Solver 20260713 161831](projects/word_ladder_bfs_solver.py_20260713_161831.py) | Implemented a BFS-based word ladder solver that finds the shortest path between two words by changing one letter at a time, because I wanted to practice graph traversal on something more interesting than just trees. |
 | 2026-07-13 | [Async Port Scanner 20260713 102023](projects/async_port_scanner.py_20260713_102023.py) | Created a concurrent port scanner to quickly check which services are running on a target host — helps me debug my homelab setup. |
 | 2026-07-13 | [Huffman Text Compressor 20260713 072655](projects/huffman_text_compressor.py_20260713_072655.py) | Implemented Huffman coding to compress text by building frequency trees and generating variable-length codes — wanted to see how much I could squeeze out of repetitive strings. |
 | 2026-07-13 | [Lazy Pipeline 20260713 072726](projects/lazy_pipeline.py_20260713_072726.py) | Created a functional programming toolkit that lets me chain operations lazily, cache expensive computations, and partially apply functions for cleaner data processing code. |
