@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- built a huffman coding compressor from scratch, generates trees and encodes/decodes text nicely
-- built a lazy evaluation pipeline with memoization and currying — handles complex data transformations without loading everything into memory
-- built a Bayesian A/B test analyzer with beta distributions and credible intervals
+built a multi-threaded port scanner that's actually fast, uses threadpool to scan common ports in parallel

@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-13 | [Async Port Scanner 20260713 102023](projects/async_port_scanner.py_20260713_102023.py) | Created a concurrent port scanner to quickly check which services are running on a target host — helps me debug my homelab setup. |
 | 2026-07-13 | [Huffman Text Compressor 20260713 072655](projects/huffman_text_compressor.py_20260713_072655.py) | Implemented Huffman coding to compress text by building frequency trees and generating variable-length codes — wanted to see how much I could squeeze out of repetitive strings. |
 | 2026-07-13 | [Lazy Pipeline 20260713 072726](projects/lazy_pipeline.py_20260713_072726.py) | Created a functional programming toolkit that lets me chain operations lazily, cache expensive computations, and partially apply functions for cleaner data processing code. |
 | 2026-07-13 | [Bayesian Ab Tester 20260713 072802](projects/bayesian_ab_tester.py_20260713_072802.py) | Created a Bayesian A/B testing tool that uses beta-binomial conjugates to analyze conversion rates and compute win probabilities without p-values. |
