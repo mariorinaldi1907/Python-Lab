@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-13 | [Floyd Warshall All Pairs Shortest Path 20260713 043207](projects/floyd_warshall_all_pairs_shortest_path.py_20260713_043207.py) | Built Floyd-Warshall to compute shortest paths between all node pairs — useful when I need the full distance matrix and not just single-source paths. |
 | 2026-07-12 | [Async Rate Limiter Demo 20260712 144534](projects/async_rate_limiter_demo.py_20260712_144534.py) | Implemented a token bucket rate limiter using asyncio to explore how to handle bursty API calls without overwhelming downstream services. |
 | 2026-07-12 | [Nginx Log Parser 20260712 144610](projects/nginx_log_parser.py_20260712_144610.py) | Built a parser for nginx access logs that breaks down traffic patterns, response codes, and user agents — helps me analyze my VPS logs without installing anything. |
 | 2026-07-12 | [Simple Expression Evaluator 20260712 113522](projects/simple_expression_evaluator.py_20260712_113522.py) | Wrote an expression evaluator that parses and computes arithmetic expressions with proper operator precedence — no eval() cheating. |
