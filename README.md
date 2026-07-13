@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-13 | [Run Length Encoder 20260713 185839](projects/run_length_encoder.py_20260713_185839.py) | Implemented a clean run-length encoding utility that compresses repetitive sequences — useful for simple text compression tasks. |
+| 2026-07-13 | [K Means Clustering From Scratch 20260713 185905](projects/k_means_clustering_from_scratch.py_20260713_185905.py) | Implemented k-means clustering algorithm without any ML libraries to really understand how the centroid updates and assignment steps work together. |
+| 2026-07-13 | [Modular Arithmetic Toolkit 20260713 185936](projects/modular_arithmetic_toolkit.py_20260713_185936.py) | Created a collection of modular arithmetic functions I always end up needing for crypto challenges and competitive programming — includes modular inverse, Chinese remainder theorem, and proper fast exponentiation. |
 | 2026-07-13 | [Word Ladder Bfs Solver 20260713 161831](projects/word_ladder_bfs_solver.py_20260713_161831.py) | Implemented a BFS-based word ladder solver that finds the shortest path between two words by changing one letter at a time, because I wanted to practice graph traversal on something more interesting than just trees. |
 | 2026-07-13 | [Async Port Scanner 20260713 102023](projects/async_port_scanner.py_20260713_102023.py) | Created a concurrent port scanner to quickly check which services are running on a target host — helps me debug my homelab setup. |
 | 2026-07-13 | [Huffman Text Compressor 20260713 072655](projects/huffman_text_compressor.py_20260713_072655.py) | Implemented Huffman coding to compress text by building frequency trees and generating variable-length codes — wanted to see how much I could squeeze out of repetitive strings. |

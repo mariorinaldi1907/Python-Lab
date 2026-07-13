@@ -1,1 +1,5 @@
-built a word ladder solver using BFS — finds shortest transformations between words
+added 3 new scripts
+
+- built a run-length encoder/decoder with some nice CLI options, handles edge cases like empty strings
+- built k-means from scratch with random initialization and euclidean distance, tested on synthetic 2d data
+- built a modular arithmetic toolkit with fast exponentiation, extended euclidean, and CRT solver
