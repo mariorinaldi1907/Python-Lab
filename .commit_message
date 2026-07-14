@@ -1,1 +1,4 @@
-built k-means clustering without numpy because I wanted to see how the math actually works under the hood
+added 2 new scripts
+
+- built a tree-style directory printer with size stats and gitignore support
+- built a markov chain text generator with configurable n-gram order, works surprisingly well with longer context windows

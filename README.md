@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-14 | [Recursive Directory Tree 20260714 184147](projects/recursive_directory_tree.py_20260714_184147.py) | Wrote a CLI tool that prints directory structures in a visual tree format with file sizes, because I got tired of installing `tree` on every new machine. |
+| 2026-07-14 | [Markov Text Generator 20260714 184213](projects/markov_text_generator.py_20260714_184213.py) | Created a Markov chain text generator that learns from sample text and produces semi-coherent output — added state length customization because bigrams alone produce nonsense. |
 | 2026-07-14 | [K Means Clustering From Scratch 20260714 115107](projects/k_means_clustering_from_scratch.py_20260714_115107.py) | Implemented k-means clustering using only the standard library to really understand the distance calculations and centroid updates myself. |
 | 2026-07-14 | [Markov Text Generator 20260714 035953](projects/markov_text_generator.py_20260714_035953.py) | Implemented a Markov chain text generator that builds n-gram probability models from input text and generates new semi-coherent output. |
 | 2026-07-14 | [Word Frequency Analyzer 20260714 040022](projects/word_frequency_analyzer.py_20260714_040022.py) | Created a command-line tool to analyze text files and show word frequency distributions — useful for quick content analysis when I'm curious about what terms dominate a document. |
