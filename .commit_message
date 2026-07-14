@@ -1,5 +1,1 @@
-added 3 new scripts
-
-- built a markov chain text generator with configurable n-gram order, works surprisingly well on longer texts
-- built a CLI word frequency counter with argparse, supports stopword filtering and case-insensitive mode
-- built a bayesian A/B test analyzer because I got tired of p-values not telling me what I actually want to know
+built k-means clustering without numpy because I wanted to see how the math actually works under the hood

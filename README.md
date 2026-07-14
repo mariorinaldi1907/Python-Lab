@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-14 | [K Means Clustering From Scratch 20260714 115107](projects/k_means_clustering_from_scratch.py_20260714_115107.py) | Implemented k-means clustering using only the standard library to really understand the distance calculations and centroid updates myself. |
 | 2026-07-14 | [Markov Text Generator 20260714 035953](projects/markov_text_generator.py_20260714_035953.py) | Implemented a Markov chain text generator that builds n-gram probability models from input text and generates new semi-coherent output. |
 | 2026-07-14 | [Word Frequency Analyzer 20260714 040022](projects/word_frequency_analyzer.py_20260714_040022.py) | Created a command-line tool to analyze text files and show word frequency distributions — useful for quick content analysis when I'm curious about what terms dominate a document. |
 | 2026-07-14 | [Bayesian Ab Tester 20260714 040100](projects/bayesian_ab_tester.py_20260714_040100.py) | Implemented a Bayesian A/B testing module with Beta-Binomial conjugate priors so I can get actual probability estimates that variant B beats variant A, plus credible intervals. |
