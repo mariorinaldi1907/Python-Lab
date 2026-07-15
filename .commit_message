@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a markov chain text generator with configurable order, handles sentence boundaries properly
-- built a lazy pipeline system with deferred execution and result caching, pretty happy with how composable it turned out
+built a Bayesian A/B test calculator because I got tired of waiting for "statistical significance"

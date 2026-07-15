@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-15 | [Bayesian Ab Tester 20260715 062039](projects/bayesian_ab_tester.py_20260715_062039.py) | Created a Bayesian A/B testing module that updates beliefs in real-time and actually tells you the probability one variant is better — way more intuitive than p-values. |
 | 2026-07-15 | [Markov Text Generator 20260715 040716](projects/markov_text_generator.py_20260715_040716.py) | Implemented a Markov chain text generator that can learn from input text and generate new plausible sentences — useful for understanding probabilistic text models. |
 | 2026-07-15 | [Lazy Pipeline Evaluator 20260715 040746](projects/lazy_pipeline_evaluator.py_20260715_040746.py) | Created a functional pipeline library that chains transformations lazily and only computes when needed — saves a ton of work when you only want the first few results. |
 | 2026-07-14 | [Recursive Directory Tree 20260714 184147](projects/recursive_directory_tree.py_20260714_184147.py) | Wrote a CLI tool that prints directory structures in a visual tree format with file sizes, because I got tired of installing `tree` on every new machine. |
