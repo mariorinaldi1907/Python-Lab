@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-15 | [Markov Text Generator 20260715 040716](projects/markov_text_generator.py_20260715_040716.py) | Implemented a Markov chain text generator that can learn from input text and generate new plausible sentences — useful for understanding probabilistic text models. |
+| 2026-07-15 | [Lazy Pipeline Evaluator 20260715 040746](projects/lazy_pipeline_evaluator.py_20260715_040746.py) | Created a functional pipeline library that chains transformations lazily and only computes when needed — saves a ton of work when you only want the first few results. |
 | 2026-07-14 | [Recursive Directory Tree 20260714 184147](projects/recursive_directory_tree.py_20260714_184147.py) | Wrote a CLI tool that prints directory structures in a visual tree format with file sizes, because I got tired of installing `tree` on every new machine. |
 | 2026-07-14 | [Markov Text Generator 20260714 184213](projects/markov_text_generator.py_20260714_184213.py) | Created a Markov chain text generator that learns from sample text and produces semi-coherent output — added state length customization because bigrams alone produce nonsense. |
 | 2026-07-14 | [K Means Clustering From Scratch 20260714 115107](projects/k_means_clustering_from_scratch.py_20260714_115107.py) | Implemented k-means clustering using only the standard library to really understand the distance calculations and centroid updates myself. |
