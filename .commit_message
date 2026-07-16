@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a markov chain text generator with configurable n-gram order, handles edge cases and preserves sentence structure
-- implemented word ladder solver with BFS, finds shortest path between two words by changing one letter at a time
+implemented bellman-ford with negative cycle detection, returns both distances and the cycle path if found

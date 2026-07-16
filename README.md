@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-16 | [Bellman Ford Negative Cycles 20260716 115739](projects/bellman_ford_negative_cycles.py_20260716_115739.py) | Built a Bellman-Ford implementation that not only finds shortest paths but also detects and extracts negative cycles when they exist. |
 | 2026-07-16 | [Markov Text Generator 20260716 062340](projects/markov_text_generator.py_20260716_062340.py) | Created a Markov chain text generator that learns from input text and produces semi-coherent output — useful for experimenting with probabilistic language models. |
 | 2026-07-16 | [Word Ladder Solver 20260716 062407](projects/word_ladder_solver.py_20260716_062407.py) | Built a word ladder puzzle solver that finds the shortest transformation sequence between two words using breadth-first search — handles arbitrary dictionary sizes and validates paths. |
 | 2026-07-16 | [Topological Sort With Cycle Detection 20260716 041039](projects/topological_sort_with_cycle_detection.py_20260716_041039.py) | Built a topological sort implementation that handles both DAG ordering and cycle detection because I kept needing this for dependency resolution stuff. |
