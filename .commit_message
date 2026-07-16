@@ -1,1 +1,4 @@
-implemented topological sort with Kahn's algorithm and cycle detection for my graph projects
+added 2 new scripts
+
+- built a markov chain text generator with configurable n-gram order, handles edge cases and preserves sentence structure
+- implemented word ladder solver with BFS, finds shortest path between two words by changing one letter at a time
