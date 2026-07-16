@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-16 | [Epidemic Sir Simulation 20260716 184229](projects/epidemic_sir_simulation.py_20260716_184229.py) | Implemented a stochastic SIR (Susceptible-Infected-Recovered) epidemic simulator to model disease spread through a population with adjustable infection and recovery rates. |
+| 2026-07-16 | [Word Frequency Analyzer 20260716 184301](projects/word_frequency_analyzer.py_20260716_184301.py) | Created a command-line tool to analyze word frequencies in text files with configurable stopword filtering and visual percentage output. |
 | 2026-07-16 | [Async Rate Limiter Demo 20260716 152323](projects/async_rate_limiter_demo.py_20260716_152323.py) | Implemented a token bucket rate limiter using asyncio to control concurrent API request patterns — useful for avoiding API throttling. |
 | 2026-07-16 | [Bellman Ford Negative Cycles 20260716 115739](projects/bellman_ford_negative_cycles.py_20260716_115739.py) | Built a Bellman-Ford implementation that not only finds shortest paths but also detects and extracts negative cycles when they exist. |
 | 2026-07-16 | [Markov Text Generator 20260716 062340](projects/markov_text_generator.py_20260716_062340.py) | Created a Markov chain text generator that learns from input text and produces semi-coherent output — useful for experimenting with probabilistic language models. |

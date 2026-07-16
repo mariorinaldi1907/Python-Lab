@@ -1,1 +1,4 @@
-built an async rate limiter with token bucket algorithm, handles burst traffic nicely
+added 2 new scripts
+
+- built a simple SIR epidemic model with configurable parameters, prints daily stats and final outcomes
+- built a word frequency analyzer CLI that filters stopwords and shows top N results with percentage bars
