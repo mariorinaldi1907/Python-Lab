@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-16 | [Topological Sort With Cycle Detection 20260716 041039](projects/topological_sort_with_cycle_detection.py_20260716_041039.py) | Built a topological sort implementation that handles both DAG ordering and cycle detection because I kept needing this for dependency resolution stuff. |
 | 2026-07-15 | [Forest Fire Simulation 20260715 183934](projects/forest_fire_simulation.py_20260715_183934.py) | Simulated a forest fire spreading through a grid with probabilistic ignition, wind effects, and regrowth to explore cellular automaton dynamics. |
 | 2026-07-15 | [Forest Fire Simulation 20260715 151529](projects/forest_fire_simulation.py_20260715_151529.py) | Wrote a cellular automaton that simulates wildfire spread through a forest with configurable wind direction, tree density, and burn rates — prints ASCII frames to watch it evolve. |
 | 2026-07-15 | [Bayesian Ab Tester 20260715 062039](projects/bayesian_ab_tester.py_20260715_062039.py) | Created a Bayesian A/B testing module that updates beliefs in real-time and actually tells you the probability one variant is better — way more intuitive than p-values. |
