@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-16 | [Async Rate Limiter Demo 20260716 152323](projects/async_rate_limiter_demo.py_20260716_152323.py) | Implemented a token bucket rate limiter using asyncio to control concurrent API request patterns — useful for avoiding API throttling. |
 | 2026-07-16 | [Bellman Ford Negative Cycles 20260716 115739](projects/bellman_ford_negative_cycles.py_20260716_115739.py) | Built a Bellman-Ford implementation that not only finds shortest paths but also detects and extracts negative cycles when they exist. |
 | 2026-07-16 | [Markov Text Generator 20260716 062340](projects/markov_text_generator.py_20260716_062340.py) | Created a Markov chain text generator that learns from input text and produces semi-coherent output — useful for experimenting with probabilistic language models. |
 | 2026-07-16 | [Word Ladder Solver 20260716 062407](projects/word_ladder_solver.py_20260716_062407.py) | Built a word ladder puzzle solver that finds the shortest transformation sequence between two words using breadth-first search — handles arbitrary dictionary sizes and validates paths. |
