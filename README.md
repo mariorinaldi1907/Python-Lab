@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-17 | [Naive Bayes Classifier 20260717 090547](projects/naive_bayes_classifier.py_20260717_090547.py) | Built a Gaussian Naive Bayes classifier to refresh my understanding of probabilistic ML — handles continuous features and includes smoothing. |
+| 2026-07-17 | [Word Ladder Bfs Solver 20260717 090610](projects/word_ladder_bfs_solver.py_20260717_090610.py) | Built a word ladder solver using BFS to find the shortest transformation sequence between two words — something I wanted after playing too much Wordle. |
 | 2026-07-16 | [Epidemic Sir Simulation 20260716 184229](projects/epidemic_sir_simulation.py_20260716_184229.py) | Implemented a stochastic SIR (Susceptible-Infected-Recovered) epidemic simulator to model disease spread through a population with adjustable infection and recovery rates. |
 | 2026-07-16 | [Word Frequency Analyzer 20260716 184301](projects/word_frequency_analyzer.py_20260716_184301.py) | Created a command-line tool to analyze word frequencies in text files with configurable stopword filtering and visual percentage output. |
 | 2026-07-16 | [Async Rate Limiter Demo 20260716 152323](projects/async_rate_limiter_demo.py_20260716_152323.py) | Implemented a token bucket rate limiter using asyncio to control concurrent API request patterns — useful for avoiding API throttling. |
