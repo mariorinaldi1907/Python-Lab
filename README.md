@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-17 | [Tarjans Scc Algorithm 20260717 114814](projects/tarjans_scc_algorithm.py_20260717_114814.py) | Built Tarjan's SCC algorithm because I wanted to understand how cycle detection works in directed graphs at a deeper level. |
 | 2026-07-17 | [Naive Bayes Classifier 20260717 090547](projects/naive_bayes_classifier.py_20260717_090547.py) | Built a Gaussian Naive Bayes classifier to refresh my understanding of probabilistic ML — handles continuous features and includes smoothing. |
 | 2026-07-17 | [Word Ladder Bfs Solver 20260717 090610](projects/word_ladder_bfs_solver.py_20260717_090610.py) | Built a word ladder solver using BFS to find the shortest transformation sequence between two words — something I wanted after playing too much Wordle. |
 | 2026-07-16 | [Epidemic Sir Simulation 20260716 184229](projects/epidemic_sir_simulation.py_20260716_184229.py) | Implemented a stochastic SIR (Susceptible-Infected-Recovered) epidemic simulator to model disease spread through a population with adjustable infection and recovery rates. |

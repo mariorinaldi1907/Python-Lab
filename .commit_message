@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented naive bayes from scratch with laplace smoothing, tested on simple text classification
-- implemented word ladder solver with BFS, handles edge cases and prints the transformation path
+implemented Tarjan's algorithm for finding strongly connected components, been meaning to try this one for a while
