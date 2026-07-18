@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-18 | [Bayesian Ab Tester 20260718 112804](projects/bayesian_ab_tester.py_20260718_112804.py) | Created a Bayesian A/B testing tool that updates beliefs with Beta distributions and runs Monte Carlo simulations to estimate win probabilities — way more intuitive than frequentist approaches. |
+| 2026-07-18 | [Local Port Scanner 20260718 112828](projects/local_port_scanner.py_20260718_112828.py) | Created a port scanner that checks which ports are open on a target host using multithreading to speed things up — helps me audit my local dev environment. |
 | 2026-07-18 | [Lru Cache Implementation 20260718 084607](projects/lru_cache_implementation.py_20260718_084607.py) | Implemented a Least Recently Used cache with capacity limits using a doubly linked list for ordering and a hashmap for fast lookups, because I wanted to understand how Python's functools.lru_cache actually works under the hood. |
 | 2026-07-18 | [Epidemic Sir Simulation 20260718 084634](projects/epidemic_sir_simulation.py_20260718_084634.py) | Implemented a stochastic SIR (Susceptible-Infected-Recovered) epidemic model to experiment with disease spread dynamics and see how parameters affect outbreak severity. |
 | 2026-07-18 | [Functional Pipeline 20260718 061001](projects/functional_pipeline.py_20260718_061001.py) | Created a composable function pipeline with lazy evaluation and automatic memoization because I kept writing the same nested map/filter patterns everywhere. |

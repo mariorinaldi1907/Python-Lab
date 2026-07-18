@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built an LRU cache from scratch using a doubly linked list and dict — handles O(1) get/put operations
-- built a SIR epidemic simulator with visualization — watched different infection rates play out in a small population
+- built a Bayesian A/B test analyzer because I was tired of p-values lying to me
+- built a multithreaded port scanner with timeout control, useful for checking what's running on localhost
