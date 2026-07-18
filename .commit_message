@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a functional pipeline system with lazy eval and memoization — honestly just got tired of writing nested function calls
-- implemented Tarjan's algorithm for finding strongly connected components, handles disconnected graphs and prints them in topological order
+- built an LRU cache from scratch using a doubly linked list and dict — handles O(1) get/put operations
+- built a SIR epidemic simulator with visualization — watched different infection rates play out in a small population

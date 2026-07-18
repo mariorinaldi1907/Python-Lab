@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-18 | [Lru Cache Implementation 20260718 084607](projects/lru_cache_implementation.py_20260718_084607.py) | Implemented a Least Recently Used cache with capacity limits using a doubly linked list for ordering and a hashmap for fast lookups, because I wanted to understand how Python's functools.lru_cache actually works under the hood. |
+| 2026-07-18 | [Epidemic Sir Simulation 20260718 084634](projects/epidemic_sir_simulation.py_20260718_084634.py) | Implemented a stochastic SIR (Susceptible-Infected-Recovered) epidemic model to experiment with disease spread dynamics and see how parameters affect outbreak severity. |
 | 2026-07-18 | [Functional Pipeline 20260718 061001](projects/functional_pipeline.py_20260718_061001.py) | Created a composable function pipeline with lazy evaluation and automatic memoization because I kept writing the same nested map/filter patterns everywhere. |
 | 2026-07-18 | [Tarjan Scc Finder 20260718 061025](projects/tarjan_scc_finder.py_20260718_061025.py) | Built Tarjan's SCC algorithm because I needed to understand circular dependencies in directed graphs — uses DFS with a stack to find all strongly connected components in linear time. |
 | 2026-07-18 | [Lazy Pipeline 20260718 035649](projects/lazy_pipeline.py_20260718_035649.py) | Created a composable lazy pipeline system that defers execution until values are pulled, with built-in memoization for expensive computations. |
