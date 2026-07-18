@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-18 | [Functional Pipeline 20260718 061001](projects/functional_pipeline.py_20260718_061001.py) | Created a composable function pipeline with lazy evaluation and automatic memoization because I kept writing the same nested map/filter patterns everywhere. |
+| 2026-07-18 | [Tarjan Scc Finder 20260718 061025](projects/tarjan_scc_finder.py_20260718_061025.py) | Built Tarjan's SCC algorithm because I needed to understand circular dependencies in directed graphs — uses DFS with a stack to find all strongly connected components in linear time. |
 | 2026-07-18 | [Lazy Pipeline 20260718 035649](projects/lazy_pipeline.py_20260718_035649.py) | Created a composable lazy pipeline system that defers execution until values are pulled, with built-in memoization for expensive computations. |
 | 2026-07-17 | [Tarjans Scc Algorithm 20260717 114814](projects/tarjans_scc_algorithm.py_20260717_114814.py) | Built Tarjan's SCC algorithm because I wanted to understand how cycle detection works in directed graphs at a deeper level. |
 | 2026-07-17 | [Naive Bayes Classifier 20260717 090547](projects/naive_bayes_classifier.py_20260717_090547.py) | Built a Gaussian Naive Bayes classifier to refresh my understanding of probabilistic ML — handles continuous features and includes smoothing. |

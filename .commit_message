@@ -1,1 +1,4 @@
-built a lazy functional pipeline with memoization - chains operations without executing until needed
+added 2 new scripts
+
+- built a functional pipeline system with lazy eval and memoization — honestly just got tired of writing nested function calls
+- implemented Tarjan's algorithm for finding strongly connected components, handles disconnected graphs and prints them in topological order
