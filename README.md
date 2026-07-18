@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-18 | [Naive Bayes Classifier 20260718 182921](projects/naive_bayes_classifier.py_20260718_182921.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic classification — handles continuous features and multiple classes. |
+| 2026-07-18 | [Simple Port Scanner 20260718 182944](projects/simple_port_scanner.py_20260718_182944.py) | Built a concurrent port scanner to check which services are running on my local network devices — learned some socket timeout edge cases the hard way. |
 | 2026-07-18 | [Simple Expr Evaluator 20260718 144305](projects/simple_expr_evaluator.py_20260718_144305.py) | Wrote a simple expression evaluator that parses and computes arithmetic expressions with proper operator precedence — wanted to understand how parsers actually work under the hood. |
 | 2026-07-18 | [Bayesian Ab Tester 20260718 112804](projects/bayesian_ab_tester.py_20260718_112804.py) | Created a Bayesian A/B testing tool that updates beliefs with Beta distributions and runs Monte Carlo simulations to estimate win probabilities — way more intuitive than frequentist approaches. |
 | 2026-07-18 | [Local Port Scanner 20260718 112828](projects/local_port_scanner.py_20260718_112828.py) | Created a port scanner that checks which ports are open on a target host using multithreading to speed things up — helps me audit my local dev environment. |

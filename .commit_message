@@ -1,1 +1,4 @@
-built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly
+added 2 new scripts
+
+- implemented naive bayes from scratch, works surprisingly well on text classification
+- wrote a multithreaded port scanner that actually respects timeouts and doesn't hang forever
