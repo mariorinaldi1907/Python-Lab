@@ -1,1 +1,1 @@
-implemented Tarjan's algorithm for finding strongly connected components, been meaning to try this one for a while
+built a lazy functional pipeline with memoization - chains operations without executing until needed
