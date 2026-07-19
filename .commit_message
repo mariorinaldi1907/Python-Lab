@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented naive bayes from scratch, works surprisingly well on text classification
-- wrote a multithreaded port scanner that actually respects timeouts and doesn't hang forever
+implemented ray casting algorithm for point-in-polygon tests, handles edge cases and complex polygons
