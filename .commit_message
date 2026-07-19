@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built an async rate limiter with token bucket algorithm, handles burst traffic smoothly
-- implemented Graham scan for convex hull because I needed it for a collision detection prototype
+- built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly
+- built a word frequency analyzer CLI that handles stopwords and outputs sorted results — useful for quick text analysis

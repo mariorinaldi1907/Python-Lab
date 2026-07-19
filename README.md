@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-19 | [Simple Expression Evaluator 20260719 182946](projects/simple_expression_evaluator.py_20260719_182946.py) | Wrote an expression evaluator that parses and computes arithmetic with proper operator precedence — way more elegant than RPN for this use case. |
+| 2026-07-19 | [Word Frequency Analyzer 20260719 183012](projects/word_frequency_analyzer.py_20260719_183012.py) | Created a command-line tool to analyze word frequencies in text files with optional stopword filtering and configurable output formats. |
 | 2026-07-19 | [Async Rate Limiter Demo 20260719 144459](projects/async_rate_limiter_demo.py_20260719_144459.py) | Implemented a token bucket rate limiter using asyncio to explore backpressure and throttling patterns in concurrent systems. |
 | 2026-07-19 | [Convex Hull Graham Scan 20260719 144538](projects/convex_hull_graham_scan.py_20260719_144538.py) | Built a convex hull calculator using Graham's scan algorithm — it finds the smallest convex polygon enclosing a set of 2D points. |
 | 2026-07-19 | [Tcp Port Scanner 20260719 090312](projects/tcp_port_scanner.py_20260719_090312.py) | Created a port scanner that checks common ports on any host, grabs service banners when possible, and uses threading to speed things up without hammering the target. |
