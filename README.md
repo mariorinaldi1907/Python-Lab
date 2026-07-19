@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-19 | [Word Frequency Analyzer 20260719 063549](projects/word_frequency_analyzer.py_20260719_063549.py) | Made a CLI tool that analyzes text files and shows word frequencies with optional filtering and ASCII histogram visualization. |
 | 2026-07-19 | [Point In Polygon Ray Casting 20260719 042249](projects/point_in_polygon_ray_casting.py_20260719_042249.py) | Built a point-in-polygon checker using ray casting because I needed to figure out if coordinates fall inside irregular boundaries for a mapping side project. |
 | 2026-07-18 | [Naive Bayes Classifier 20260718 182921](projects/naive_bayes_classifier.py_20260718_182921.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic classification — handles continuous features and multiple classes. |
 | 2026-07-18 | [Simple Port Scanner 20260718 182944](projects/simple_port_scanner.py_20260718_182944.py) | Built a concurrent port scanner to check which services are running on my local network devices — learned some socket timeout edge cases the hard way. |

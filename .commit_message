@@ -1,1 +1,1 @@
-implemented ray casting algorithm for point-in-polygon tests, handles edge cases and complex polygons
+built a word frequency analyzer with stemming and stopword filtering — outputs pretty histograms in the terminal
