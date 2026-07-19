@@ -1,1 +1,5 @@
-built a word frequency analyzer with stemming and stopword filtering — outputs pretty histograms in the terminal
+added 3 new scripts
+
+- built a multi-threaded TCP port scanner with timeout handling and banner grabbing
+- implemented markov chain text generator with configurable n-gram size, handles sentence boundaries properly
+- built a word ladder solver using BFS — finds shortest path between two words by changing one letter at a time

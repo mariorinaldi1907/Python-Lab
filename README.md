@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-19 | [Tcp Port Scanner 20260719 090312](projects/tcp_port_scanner.py_20260719_090312.py) | Created a port scanner that checks common ports on any host, grabs service banners when possible, and uses threading to speed things up without hammering the target. |
+| 2026-07-19 | [Markov Text Generator 20260719 090337](projects/markov_text_generator.py_20260719_090337.py) | Built a Markov chain text generator that learns from input text and produces semi-coherent output — useful for experimenting with simple generative models. |
+| 2026-07-19 | [Word Ladder Solver 20260719 090406](projects/word_ladder_solver.py_20260719_090406.py) | Wrote a BFS-based word ladder solver that finds the shortest transformation sequence between two words, changing only one letter per step. |
 | 2026-07-19 | [Word Frequency Analyzer 20260719 063549](projects/word_frequency_analyzer.py_20260719_063549.py) | Made a CLI tool that analyzes text files and shows word frequencies with optional filtering and ASCII histogram visualization. |
 | 2026-07-19 | [Point In Polygon Ray Casting 20260719 042249](projects/point_in_polygon_ray_casting.py_20260719_042249.py) | Built a point-in-polygon checker using ray casting because I needed to figure out if coordinates fall inside irregular boundaries for a mapping side project. |
 | 2026-07-18 | [Naive Bayes Classifier 20260718 182921](projects/naive_bayes_classifier.py_20260718_182921.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic classification — handles continuous features and multiple classes. |
