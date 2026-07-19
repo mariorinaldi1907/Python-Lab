@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- built a multi-threaded TCP port scanner with timeout handling and banner grabbing
-- implemented markov chain text generator with configurable n-gram size, handles sentence boundaries properly
-- built a word ladder solver using BFS — finds shortest path between two words by changing one letter at a time
+- built an async rate limiter with token bucket algorithm, handles burst traffic smoothly
+- implemented Graham scan for convex hull because I needed it for a collision detection prototype

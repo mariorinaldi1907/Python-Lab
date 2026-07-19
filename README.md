@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-19 | [Async Rate Limiter Demo 20260719 144459](projects/async_rate_limiter_demo.py_20260719_144459.py) | Implemented a token bucket rate limiter using asyncio to explore backpressure and throttling patterns in concurrent systems. |
+| 2026-07-19 | [Convex Hull Graham Scan 20260719 144538](projects/convex_hull_graham_scan.py_20260719_144538.py) | Built a convex hull calculator using Graham's scan algorithm — it finds the smallest convex polygon enclosing a set of 2D points. |
 | 2026-07-19 | [Tcp Port Scanner 20260719 090312](projects/tcp_port_scanner.py_20260719_090312.py) | Created a port scanner that checks common ports on any host, grabs service banners when possible, and uses threading to speed things up without hammering the target. |
 | 2026-07-19 | [Markov Text Generator 20260719 090337](projects/markov_text_generator.py_20260719_090337.py) | Built a Markov chain text generator that learns from input text and produces semi-coherent output — useful for experimenting with simple generative models. |
 | 2026-07-19 | [Word Ladder Solver 20260719 090406](projects/word_ladder_solver.py_20260719_090406.py) | Wrote a BFS-based word ladder solver that finds the shortest transformation sequence between two words, changing only one letter per step. |
