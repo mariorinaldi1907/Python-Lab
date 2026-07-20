@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-20 | [Rpn Calculator 20260720 191502](projects/rpn_calculator.py_20260720_191502.py) | Implemented an RPN calculator because I wanted to really understand stack-based evaluation and it's honestly the cleanest way to parse expressions without dealing with precedence nightmares. |
 | 2026-07-20 | [Rpn Calculator 20260720 154218](projects/rpn_calculator.py_20260720_154218.py) | Implemented an RPN calculator that evaluates postfix expressions using a stack — supports basic arithmetic, trig functions, and custom operations. |
 | 2026-07-20 | [Command Pattern Text Editor 20260720 154242](projects/command_pattern_text_editor.py_20260720_154242.py) | Built a text editor simulator using the command pattern to handle undo/redo operations cleanly, because I wanted to understand how editors actually track changes. |
 | 2026-07-20 | [Word Frequency Analyzer 20260720 043741](projects/word_frequency_analyzer.py_20260720_043741.py) | Created a CLI tool to analyze word frequencies across text files with options for case sensitivity, minimum occurrence filtering, and top-N results display. |
