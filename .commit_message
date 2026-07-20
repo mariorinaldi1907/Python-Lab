@@ -1,4 +1,5 @@
-added 2 new scripts
+added 3 new scripts
 
-- built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly
-- built a word frequency analyzer CLI that handles stopwords and outputs sorted results — useful for quick text analysis
+- built a word frequency analyzer with CLI, supports multiple files and filtering by min occurrence count
+- built an SIR epidemic simulator with configurable params, prints daily stats and visualizes spread over time
+- built a modular arithmetic toolkit with fast exponentiation, extended gcd, and multiplicative inverses

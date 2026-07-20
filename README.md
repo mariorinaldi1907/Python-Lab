@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-20 | [Word Frequency Analyzer 20260720 043741](projects/word_frequency_analyzer.py_20260720_043741.py) | Created a CLI tool to analyze word frequencies across text files with options for case sensitivity, minimum occurrence filtering, and top-N results display. |
+| 2026-07-20 | [Epidemic Sir Simulation 20260720 043809](projects/epidemic_sir_simulation.py_20260720_043809.py) | Implemented a stochastic SIR (Susceptible-Infected-Recovered) epidemic model to explore disease dynamics — adjustable infection rate, recovery time, and population mixing. |
+| 2026-07-20 | [Modular Arithmetic Toolkit 20260720 043836](projects/modular_arithmetic_toolkit.py_20260720_043836.py) | Created a utility for modular arithmetic operations that I keep needing for competitive programming and cryptography experiments — includes all the essentials like fast power, inverse calculations, and CRT solving. |
 | 2026-07-19 | [Simple Expression Evaluator 20260719 182946](projects/simple_expression_evaluator.py_20260719_182946.py) | Wrote an expression evaluator that parses and computes arithmetic with proper operator precedence — way more elegant than RPN for this use case. |
 | 2026-07-19 | [Word Frequency Analyzer 20260719 183012](projects/word_frequency_analyzer.py_20260719_183012.py) | Created a command-line tool to analyze word frequencies in text files with optional stopword filtering and configurable output formats. |
 | 2026-07-19 | [Async Rate Limiter Demo 20260719 144459](projects/async_rate_limiter_demo.py_20260719_144459.py) | Implemented a token bucket rate limiter using asyncio to explore backpressure and throttling patterns in concurrent systems. |
