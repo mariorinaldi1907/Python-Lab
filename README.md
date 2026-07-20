@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-20 | [Rpn Calculator 20260720 154218](projects/rpn_calculator.py_20260720_154218.py) | Implemented an RPN calculator that evaluates postfix expressions using a stack — supports basic arithmetic, trig functions, and custom operations. |
+| 2026-07-20 | [Command Pattern Text Editor 20260720 154242](projects/command_pattern_text_editor.py_20260720_154242.py) | Built a text editor simulator using the command pattern to handle undo/redo operations cleanly, because I wanted to understand how editors actually track changes. |
 | 2026-07-20 | [Word Frequency Analyzer 20260720 043741](projects/word_frequency_analyzer.py_20260720_043741.py) | Created a CLI tool to analyze word frequencies across text files with options for case sensitivity, minimum occurrence filtering, and top-N results display. |
 | 2026-07-20 | [Epidemic Sir Simulation 20260720 043809](projects/epidemic_sir_simulation.py_20260720_043809.py) | Implemented a stochastic SIR (Susceptible-Infected-Recovered) epidemic model to explore disease dynamics — adjustable infection rate, recovery time, and population mixing. |
 | 2026-07-20 | [Modular Arithmetic Toolkit 20260720 043836](projects/modular_arithmetic_toolkit.py_20260720_043836.py) | Created a utility for modular arithmetic operations that I keep needing for competitive programming and cryptography experiments — includes all the essentials like fast power, inverse calculations, and CRT solving. |

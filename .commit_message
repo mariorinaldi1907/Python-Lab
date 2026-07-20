@@ -1,5 +1,4 @@
-added 3 new scripts
+added 2 new scripts
 
-- built a word frequency analyzer with CLI, supports multiple files and filtering by min occurrence count
-- built an SIR epidemic simulator with configurable params, prints daily stats and visualizes spread over time
-- built a modular arithmetic toolkit with fast exponentiation, extended gcd, and multiplicative inverses
+- built a reverse polish notation calculator with stack-based evaluation and basic error handling
+- implemented command pattern for a simple text editor with undo/redo — feels like building vim lite
