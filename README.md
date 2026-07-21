@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-21 | [Markov Chain Text Generator 20260721 063425](projects/markov_chain_text_generator.py_20260721_063425.py) | Implemented a Markov chain text generator with variable order n-grams because I wanted to see how coherent randomly generated text could get with proper prefix tracking. |
 | 2026-07-21 | [Command Pattern Text Editor 20260721 041648](projects/command_pattern_text_editor.py_20260721_041648.py) | Implemented the command pattern for a simple text editor that supports undo/redo operations, because I wanted something more practical than the usual light switch examples. |
 | 2026-07-21 | [Bootstrap Statistics 20260721 041719](projects/bootstrap_statistics.py_20260721_041719.py) | Built a bootstrap resampling toolkit to estimate sampling distributions and confidence intervals without assuming normality, which I needed for analyzing some personal project metrics. |
 | 2026-07-21 | [Modular Arithmetic Toolkit 20260721 041746](projects/modular_arithmetic_toolkit.py_20260721_041746.py) | Created a modular arithmetic utility that handles fast modular exponentiation, multiplicative inverses, and solves systems using the Chinese Remainder Theorem — been wanting this for Project Euler problems. |
