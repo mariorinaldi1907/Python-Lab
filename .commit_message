@@ -1,1 +1,5 @@
-built a reverse polish notation calculator with operator support and stack-based evaluation
+added 3 new scripts
+
+- built a command pattern text editor with undo/redo — felt like the right pattern to finally learn properly
+- wrote a bootstrapping module with confidence intervals and hypothesis testing — handles both means and medians
+- built a modular arithmetic toolkit with fast exponentiation and CRT solver

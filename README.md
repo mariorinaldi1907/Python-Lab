@@ -15,6 +15,9 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-21 | [Command Pattern Text Editor 20260721 041648](projects/command_pattern_text_editor.py_20260721_041648.py) | Implemented the command pattern for a simple text editor that supports undo/redo operations, because I wanted something more practical than the usual light switch examples. |
+| 2026-07-21 | [Bootstrap Statistics 20260721 041719](projects/bootstrap_statistics.py_20260721_041719.py) | Built a bootstrap resampling toolkit to estimate sampling distributions and confidence intervals without assuming normality, which I needed for analyzing some personal project metrics. |
+| 2026-07-21 | [Modular Arithmetic Toolkit 20260721 041746](projects/modular_arithmetic_toolkit.py_20260721_041746.py) | Created a modular arithmetic utility that handles fast modular exponentiation, multiplicative inverses, and solves systems using the Chinese Remainder Theorem — been wanting this for Project Euler problems. |
 | 2026-07-20 | [Rpn Calculator 20260720 191502](projects/rpn_calculator.py_20260720_191502.py) | Implemented an RPN calculator because I wanted to really understand stack-based evaluation and it's honestly the cleanest way to parse expressions without dealing with precedence nightmares. |
 | 2026-07-20 | [Rpn Calculator 20260720 154218](projects/rpn_calculator.py_20260720_154218.py) | Implemented an RPN calculator that evaluates postfix expressions using a stack — supports basic arithmetic, trig functions, and custom operations. |
 | 2026-07-20 | [Command Pattern Text Editor 20260720 154242](projects/command_pattern_text_editor.py_20260720_154242.py) | Built a text editor simulator using the command pattern to handle undo/redo operations cleanly, because I wanted to understand how editors actually track changes. |
