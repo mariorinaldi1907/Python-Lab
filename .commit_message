@@ -1,1 +1,4 @@
-built a markov chain text generator that actually produces readable output, configurable n-gram order
+added 2 new scripts
+
+- built a naive bayes classifier from scratch, handles continuous features with gaussian distribution
+- built a word ladder solver using BFS — finds shortest path between two words by changing one letter at a time
