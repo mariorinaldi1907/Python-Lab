@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-21 | [Epidemic Spread Simulator 20260721 185054](projects/epidemic_spread_simulator.py_20260721_185054.py) | Implemented an SIR (Susceptible-Infected-Recovered) epidemic model to explore disease dynamics — runs multiple days and shows population changes. |
 | 2026-07-21 | [Naive Bayes Classifier From Scratch 20260721 152742](projects/naive_bayes_classifier_from_scratch.py_20260721_152742.py) | Implemented a Gaussian Naive Bayes classifier to understand probabilistic machine learning — calculates class priors and feature likelihoods manually. |
 | 2026-07-21 | [Word Ladder Bfs Solver 20260721 152808](projects/word_ladder_bfs_solver.py_20260721_152808.py) | Implemented a BFS-based word ladder puzzle solver that finds the shortest transformation sequence between two words, because I wanted to visualize how graph search works on something concrete. |
 | 2026-07-21 | [Markov Chain Text Generator 20260721 063425](projects/markov_chain_text_generator.py_20260721_063425.py) | Implemented a Markov chain text generator with variable order n-grams because I wanted to see how coherent randomly generated text could get with proper prefix tracking. |
