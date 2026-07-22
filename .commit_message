@@ -1,1 +1,1 @@
-built a simple SIR epidemic simulator with visualization, tracks susceptible/infected/recovered over time
+built a lazy evaluation pipeline system with memoization — feels clean for chaining data transformations
