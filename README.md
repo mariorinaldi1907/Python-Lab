@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-22 | [Tarjans Scc Finder 20260722 152503](projects/tarjans_scc_finder.py_20260722_152503.py) | Built Tarjan's SCC algorithm because I wanted to understand how compilers detect cycles in dependency graphs — pure recursive DFS approach with discovery time tracking. |
 | 2026-07-22 | [Lazy Pipeline 20260722 063443](projects/lazy_pipeline.py_20260722_063443.py) | Created a functional programming toolkit with lazy pipelines, automatic memoization, and currying so I can chain operations without computing anything until I need the result. |
 | 2026-07-21 | [Epidemic Spread Simulator 20260721 185054](projects/epidemic_spread_simulator.py_20260721_185054.py) | Implemented an SIR (Susceptible-Infected-Recovered) epidemic model to explore disease dynamics — runs multiple days and shows population changes. |
 | 2026-07-21 | [Naive Bayes Classifier From Scratch 20260721 152742](projects/naive_bayes_classifier_from_scratch.py_20260721_152742.py) | Implemented a Gaussian Naive Bayes classifier to understand probabilistic machine learning — calculates class priors and feature likelihoods manually. |

@@ -1,1 +1,1 @@
-built a lazy evaluation pipeline system with memoization — feels clean for chaining data transformations
+implemented Tarjan's algorithm for finding strongly connected components, uses DFS with stack tracking
