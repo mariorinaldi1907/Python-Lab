@@ -1,1 +1,4 @@
-implemented Tarjan's algorithm for finding strongly connected components, uses DFS with stack tracking
+added 2 new scripts
+
+- implemented k-means clustering from scratch with euclidean distance, tested on 2D blobs
+- built a basic SIR epidemic model with spatial component, fun to watch outbreaks spread
