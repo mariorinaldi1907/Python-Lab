@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented k-means clustering from scratch with euclidean distance, tested on 2D blobs
-- built a basic SIR epidemic model with spatial component, fun to watch outbreaks spread
+implemented word ladder solver with BFS, finds shortest transformation path between any two words
