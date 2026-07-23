@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented observer pattern for a notification system, supports multiple channels and priority filtering
-- built huffman coding compressor from scratch, handles text files and shows compression ratio
+built a proper infix expression evaluator using shunting yard algorithm, handles operator precedence and parentheses correctly

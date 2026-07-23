@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-23 | [Shunting Yard Calculator 20260723 120830](projects/shunting_yard_calculator.py_20260723_120830.py) | Implemented an expression parser that converts infix notation to postfix using Dijkstra's shunting yard algorithm, then evaluates it — wanted something more robust than basic RPN. |
 | 2026-07-23 | [Notification Observer Pattern 20260723 063445](projects/notification_observer_pattern.py_20260723_063445.py) | Built a notification dispatcher using the observer pattern to handle multi-channel alerts with priority levels — felt like a clean way to decouple event sources from handlers. |
 | 2026-07-23 | [Huffman Text Compressor 20260723 063512](projects/huffman_text_compressor.py_20260723_063512.py) | Implemented Huffman encoding/decoding to actually compress text data — wanted to see how much space I could save on repetitive strings. |
 | 2026-07-23 | [Word Ladder Solver 20260723 041704](projects/word_ladder_solver.py_20260723_041704.py) | Built a word ladder puzzle solver that finds the shortest chain of single-letter transformations between two words using breadth-first search. |
