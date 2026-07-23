@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-23 | [Notification Observer Pattern 20260723 063445](projects/notification_observer_pattern.py_20260723_063445.py) | Built a notification dispatcher using the observer pattern to handle multi-channel alerts with priority levels — felt like a clean way to decouple event sources from handlers. |
+| 2026-07-23 | [Huffman Text Compressor 20260723 063512](projects/huffman_text_compressor.py_20260723_063512.py) | Implemented Huffman encoding/decoding to actually compress text data — wanted to see how much space I could save on repetitive strings. |
 | 2026-07-23 | [Word Ladder Solver 20260723 041704](projects/word_ladder_solver.py_20260723_041704.py) | Built a word ladder puzzle solver that finds the shortest chain of single-letter transformations between two words using breadth-first search. |
 | 2026-07-22 | [K Means Clustering From Scratch 20260722 184336](projects/k_means_clustering_from_scratch.py_20260722_184336.py) | Built a k-means clustering algorithm without any ML libraries to really understand how centroid assignment and iteration works under the hood. |
 | 2026-07-22 | [Epidemic Sir Simulation 20260722 184406](projects/epidemic_sir_simulation.py_20260722_184406.py) | Implemented a spatial SIR (Susceptible-Infected-Recovered) epidemic simulator on a 2D grid where infection spreads to neighbors probabilistically. |

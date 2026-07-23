@@ -1,1 +1,4 @@
-implemented word ladder solver with BFS, finds shortest transformation path between any two words
+added 2 new scripts
+
+- implemented observer pattern for a notification system, supports multiple channels and priority filtering
+- built huffman coding compressor from scratch, handles text files and shows compression ratio
