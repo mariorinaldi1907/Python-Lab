@@ -14,7 +14,7 @@ from pathlib import Path
 
 # ── Config ────────────────────────────────────────────────────────────────────
 COMMIT_PROBABILITY = 0.70   # Change to 1.0 to force a commit, 0.70 for natural cadence
-PROJECTS_PER_RUN   = random.choice([1, 1, 1, 2, 2, 3])
+PROJECTS_PER_RUN   = random.choice([1, 1, 1, 2, 2, 1])
 # ─────────────────────────────────────────────────────────────────────────────
 
 PROJECT_CATEGORIES = [
