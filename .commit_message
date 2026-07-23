@@ -1,1 +1,4 @@
-built a proper infix expression evaluator using shunting yard algorithm, handles operator precedence and parentheses correctly
+added 2 new scripts
+
+- implemented Tarjan's algorithm for finding strongly connected components, went with the iterative DFS approach to avoid stack overflow on large graphs
+- implemented Graham scan for convex hulls, been meaning to do this since I needed it for a game project

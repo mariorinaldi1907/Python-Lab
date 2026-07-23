@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-23 | [Tarjans Scc Finder 20260723 184706](projects/tarjans_scc_finder.py_20260723_184706.py) | Built Tarjan's SCC algorithm because I needed to understand cyclic dependencies in directed graphs — returns all strongly connected components with their node indices. |
+| 2026-07-23 | [Convex Hull Graham Scan 20260723 184735](projects/convex_hull_graham_scan.py_20260723_184735.py) | Built a convex hull finder using Graham's scan algorithm because I wanted to understand how collision boundaries actually get computed in 2D games. |
 | 2026-07-23 | [Shunting Yard Calculator 20260723 120830](projects/shunting_yard_calculator.py_20260723_120830.py) | Implemented an expression parser that converts infix notation to postfix using Dijkstra's shunting yard algorithm, then evaluates it — wanted something more robust than basic RPN. |
 | 2026-07-23 | [Notification Observer Pattern 20260723 063445](projects/notification_observer_pattern.py_20260723_063445.py) | Built a notification dispatcher using the observer pattern to handle multi-channel alerts with priority levels — felt like a clean way to decouple event sources from handlers. |
 | 2026-07-23 | [Huffman Text Compressor 20260723 063512](projects/huffman_text_compressor.py_20260723_063512.py) | Implemented Huffman encoding/decoding to actually compress text data — wanted to see how much space I could save on repetitive strings. |
