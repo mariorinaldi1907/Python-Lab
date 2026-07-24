@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-24 | [Local Port Scanner 20260724 115856](projects/local_port_scanner.py_20260724_115856.py) | Wrote a multithreaded port scanner to quickly find open ports on local machines — helps me see what services I have exposed during dev work. |
 | 2026-07-24 | [Async Rate Limiter Demo 20260724 091712](projects/async_rate_limiter_demo.py_20260724_091712.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns — lets you control request rates with configurable burst capacity. |
 | 2026-07-24 | [Word Frequency Analyzer 20260724 063105](projects/word_frequency_analyzer.py_20260724_063105.py) | Created a CLI tool that analyzes text files for word frequencies with options to filter by min occurrences and sort by frequency or alphabetically. |
 | 2026-07-24 | [Word Ladder Solver 20260724 063130](projects/word_ladder_solver.py_20260724_063130.py) | Implemented a BFS-based word ladder puzzle solver that finds the shortest transformation sequence between two words, because I got nerdsniped by a word game at 2am. |
