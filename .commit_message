@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a markov chain text generator with configurable chain order, handles punctuation and generates pretty natural-sounding nonsense
-- built a lazy pipeline system with deferred execution and infinite sequence support
+- built a word frequency analyzer with regex tokenization and sortable output modes
+- built a word ladder solver using BFS — finds shortest path between two words by changing one letter at a time
