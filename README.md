@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-24 | [Markov Text Generator 20260724 041731](projects/markov_text_generator.py_20260724_041731.py) | Implemented a Markov chain text generator that learns from input text and produces new sentences — useful for generating plausible but random text from any corpus. |
+| 2026-07-24 | [Lazy Pipeline Evaluator 20260724 041759](projects/lazy_pipeline_evaluator.py_20260724_041759.py) | Created a functional programming toolkit with lazy evaluation pipelines that only compute values when needed, plus memoization and currying helpers because I got tired of rewriting these patterns. |
 | 2026-07-23 | [Tarjans Scc Finder 20260723 184706](projects/tarjans_scc_finder.py_20260723_184706.py) | Built Tarjan's SCC algorithm because I needed to understand cyclic dependencies in directed graphs — returns all strongly connected components with their node indices. |
 | 2026-07-23 | [Convex Hull Graham Scan 20260723 184735](projects/convex_hull_graham_scan.py_20260723_184735.py) | Built a convex hull finder using Graham's scan algorithm because I wanted to understand how collision boundaries actually get computed in 2D games. |
 | 2026-07-23 | [Shunting Yard Calculator 20260723 120830](projects/shunting_yard_calculator.py_20260723_120830.py) | Implemented an expression parser that converts infix notation to postfix using Dijkstra's shunting yard algorithm, then evaluates it — wanted something more robust than basic RPN. |
