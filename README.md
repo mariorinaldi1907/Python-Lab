@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-24 | [Modular Arithmetic Toolkit 20260724 151925](projects/modular_arithmetic_toolkit.py_20260724_151925.py) | Created a collection of number theory functions I kept rewriting for Project Euler problems — figured I'd consolidate them once and for all. |
+| 2026-07-24 | [Async Rate Limiter Demo 20260724 152008](projects/async_rate_limiter_demo.py_20260724_152008.py) | Implemented a token bucket rate limiter using asyncio to explore how to throttle concurrent tasks without blocking everything — includes a realistic API request simulator. |
 | 2026-07-24 | [Local Port Scanner 20260724 115856](projects/local_port_scanner.py_20260724_115856.py) | Wrote a multithreaded port scanner to quickly find open ports on local machines — helps me see what services I have exposed during dev work. |
 | 2026-07-24 | [Async Rate Limiter Demo 20260724 091712](projects/async_rate_limiter_demo.py_20260724_091712.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns — lets you control request rates with configurable burst capacity. |
 | 2026-07-24 | [Word Frequency Analyzer 20260724 063105](projects/word_frequency_analyzer.py_20260724_063105.py) | Created a CLI tool that analyzes text files for word frequencies with options to filter by min occurrences and sort by frequency or alphabetically. |

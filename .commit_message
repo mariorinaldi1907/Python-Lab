@@ -1,1 +1,4 @@
-built a quick port scanner to check what's running on my local network, handles timeouts and concurrent scanning
+added 2 new scripts
+
+- built a modular arithmetic toolkit with fast exponentiation, modular inverse, and CRT solver
+- built an async rate limiter with token bucket algorithm, added producer-consumer demo showing backpressure in action
