@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-24 | [Async Rate Limiter Demo 20260724 091712](projects/async_rate_limiter_demo.py_20260724_091712.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns — lets you control request rates with configurable burst capacity. |
 | 2026-07-24 | [Word Frequency Analyzer 20260724 063105](projects/word_frequency_analyzer.py_20260724_063105.py) | Created a CLI tool that analyzes text files for word frequencies with options to filter by min occurrences and sort by frequency or alphabetically. |
 | 2026-07-24 | [Word Ladder Solver 20260724 063130](projects/word_ladder_solver.py_20260724_063130.py) | Implemented a BFS-based word ladder puzzle solver that finds the shortest transformation sequence between two words, because I got nerdsniped by a word game at 2am. |
 | 2026-07-24 | [Markov Text Generator 20260724 041731](projects/markov_text_generator.py_20260724_041731.py) | Implemented a Markov chain text generator that learns from input text and produces new sentences — useful for generating plausible but random text from any corpus. |
