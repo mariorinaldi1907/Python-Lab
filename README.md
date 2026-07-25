@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-25 | [Huffman Compression 20260725 041336](projects/huffman_compression.py_20260725_041336.py) | Built a Huffman encoder/decoder to mess around with lossless compression — shows actual compression ratios and bit savings. |
 | 2026-07-24 | [Modular Arithmetic Toolkit 20260724 151925](projects/modular_arithmetic_toolkit.py_20260724_151925.py) | Created a collection of number theory functions I kept rewriting for Project Euler problems — figured I'd consolidate them once and for all. |
 | 2026-07-24 | [Async Rate Limiter Demo 20260724 152008](projects/async_rate_limiter_demo.py_20260724_152008.py) | Implemented a token bucket rate limiter using asyncio to explore how to throttle concurrent tasks without blocking everything — includes a realistic API request simulator. |
 | 2026-07-24 | [Local Port Scanner 20260724 115856](projects/local_port_scanner.py_20260724_115856.py) | Wrote a multithreaded port scanner to quickly find open ports on local machines — helps me see what services I have exposed during dev work. |
