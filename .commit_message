@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a reverse polish notation calculator with operator extensibility and error handling
-- built a word ladder solver using BFS — finds shortest path between words by changing one letter at a time
+implemented Graham scan for convex hull because I got tired of manually checking which points form the boundary
