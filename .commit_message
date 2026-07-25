@@ -1,1 +1,1 @@
-implemented Huffman coding from scratch with compression stats, pretty happy with the tree building logic
+built a multi-threaded TCP port scanner with decent output formatting and timeout handling
