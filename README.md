@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-25 | [Bayesian Ab Test Analyzer 20260725 114026](projects/bayesian_ab_test_analyzer.py_20260725_114026.py) | Created a Bayesian inference tool for A/B testing that updates prior beliefs with observed conversion data and calculates probability of one variant beating another. |
 | 2026-07-25 | [Tcp Port Scanner 20260725 085712](projects/tcp_port_scanner.py_20260725_085712.py) | Created a quick port scanner to check what's running on my local network — uses threading to speed things up without overwhelming the target. |
 | 2026-07-25 | [Huffman Compression 20260725 041336](projects/huffman_compression.py_20260725_041336.py) | Built a Huffman encoder/decoder to mess around with lossless compression — shows actual compression ratios and bit savings. |
 | 2026-07-24 | [Modular Arithmetic Toolkit 20260724 151925](projects/modular_arithmetic_toolkit.py_20260724_151925.py) | Created a collection of number theory functions I kept rewriting for Project Euler problems — figured I'd consolidate them once and for all. |

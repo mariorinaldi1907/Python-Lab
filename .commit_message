@@ -1,1 +1,1 @@
-built a multi-threaded TCP port scanner with decent output formatting and timeout handling
+built a Bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values for small sample sizes
