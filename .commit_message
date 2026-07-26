@@ -1,1 +1,1 @@
-implemented word ladder solver with BFS, finds shortest transformation path between words
+implemented observer pattern for async-style task scheduling, helps me automate my workflow triggers
