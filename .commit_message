@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a modular arithmetic toolkit with extended euclidean, chinese remainder theorem, and mod inverse — useful for crypto stuff
-- implemented KMP string search with prefix table visualization, handles multiple pattern occurrences
+wrote a basic port scanner with threading to check common services — handles timeouts and shows service names
