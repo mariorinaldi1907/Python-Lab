@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-26 | [Word Ladder Solver 20260726 042841](projects/word_ladder_solver.py_20260726_042841.py) | Built a word ladder puzzle solver that finds the shortest path between two words by changing one letter at a time — uses BFS and a dictionary lookup for valid words. |
 | 2026-07-25 | [Convex Hull Graham Scan 20260725 182830](projects/convex_hull_graham_scan.py_20260725_182830.py) | Built a convex hull calculator using Graham's scan algorithm to find the smallest convex polygon containing a set of 2D points. |
 | 2026-07-25 | [Rpn Calculator 20260725 145351](projects/rpn_calculator.py_20260725_145351.py) | Implemented a stack-based RPN calculator that supports basic math ops and is easy to extend with new operators — handles edge cases like division by zero. |
 | 2026-07-25 | [Word Ladder Solver 20260725 145415](projects/word_ladder_solver.py_20260725_145415.py) | Created a BFS-based word ladder puzzle solver that finds the shortest transformation sequence between two words, like turning "COLD" into "WARM". |
