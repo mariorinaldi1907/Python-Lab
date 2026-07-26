@@ -1,1 +1,4 @@
-built an async rate limiter using token bucket algorithm, tested with concurrent API requests
+added 2 new scripts
+
+- built a modular arithmetic toolkit with extended euclidean, chinese remainder theorem, and mod inverse — useful for crypto stuff
+- implemented KMP string search with prefix table visualization, handles multiple pattern occurrences

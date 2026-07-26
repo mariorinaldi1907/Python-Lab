@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-26 | [Modular Arithmetic Toolkit 20260726 145525](projects/modular_arithmetic_toolkit.py_20260726_145525.py) | Created a number theory utility library for modular arithmetic operations since I keep needing these for Project Euler and cryptography experiments. |
+| 2026-07-26 | [Kmp String Matcher 20260726 145557](projects/kmp_string_matcher.py_20260726_145557.py) | Built a KMP pattern matcher because I was curious how Linux `grep` avoids backtracking — includes a demo that shows the prefix table construction step-by-step. |
 | 2026-07-26 | [Async Rate Limiter Demo 20260726 090900](projects/async_rate_limiter_demo.py_20260726_090900.py) | Implemented a token bucket rate limiter with asyncio to explore controlled concurrency — useful for respecting API rate limits in real projects. |
 | 2026-07-26 | [Event Driven Task Scheduler 20260726 064142](projects/event_driven_task_scheduler.py_20260726_064142.py) | Built an event-driven task scheduler using the observer pattern so different parts of my scripts can react to events without tight coupling. |
 | 2026-07-26 | [Word Ladder Solver 20260726 042841](projects/word_ladder_solver.py_20260726_042841.py) | Built a word ladder puzzle solver that finds the shortest path between two words by changing one letter at a time — uses BFS and a dictionary lookup for valid words. |
