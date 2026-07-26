@@ -1,1 +1,1 @@
-implemented observer pattern for async-style task scheduling, helps me automate my workflow triggers
+built an async rate limiter using token bucket algorithm, tested with concurrent API requests
