@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-27 | [Lru Cache Implementation 20260727 160536](projects/lru_cache_implementation.py_20260727_160536.py) | Built an LRU cache from scratch using a doubly linked list for O(1) eviction and a hashmap for O(1) lookups — wanted to understand how caching works under the hood. |
 | 2026-07-27 | [Nginx Log Parser 20260727 132405](projects/nginx_log_parser.py_20260727_132405.py) | Wrote a parser for nginx access logs that calculates stats like request counts, status code distribution, and flags potential security issues like SQL injection attempts or excessive 404s from the same IP. |
 | 2026-07-27 | [Markov Text Generator 20260727 103737](projects/markov_text_generator.py_20260727_103737.py) | Implemented a configurable-order Markov chain text generator because I wanted to play with statistical text generation without pulling in heavy NLP libraries. |
 | 2026-07-26 | [Simple Port Scanner 20260726 183357](projects/simple_port_scanner.py_20260726_183357.py) | Built a threaded port scanner that checks common ports on a target host and identifies running services — wanted something quick for checking which services are up on my local network. |
