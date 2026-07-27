@@ -1,1 +1,1 @@
-wrote a basic port scanner with threading to check common services — handles timeouts and shows service names
+built a markov chain text generator that actually works pretty well with variable order chains

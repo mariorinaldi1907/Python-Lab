@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-27 | [Markov Text Generator 20260727 103737](projects/markov_text_generator.py_20260727_103737.py) | Implemented a configurable-order Markov chain text generator because I wanted to play with statistical text generation without pulling in heavy NLP libraries. |
 | 2026-07-26 | [Simple Port Scanner 20260726 183357](projects/simple_port_scanner.py_20260726_183357.py) | Built a threaded port scanner that checks common ports on a target host and identifies running services — wanted something quick for checking which services are up on my local network. |
 | 2026-07-26 | [Modular Arithmetic Toolkit 20260726 145525](projects/modular_arithmetic_toolkit.py_20260726_145525.py) | Created a number theory utility library for modular arithmetic operations since I keep needing these for Project Euler and cryptography experiments. |
 | 2026-07-26 | [Kmp String Matcher 20260726 145557](projects/kmp_string_matcher.py_20260726_145557.py) | Built a KMP pattern matcher because I was curious how Linux `grep` avoids backtracking — includes a demo that shows the prefix table construction step-by-step. |
