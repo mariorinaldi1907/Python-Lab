@@ -1,1 +1,1 @@
-implemented LRU cache with doubly linked list and hashmap, handles edge cases pretty well
+implemented topological sort using Kahn's algorithm, added cycle detection because debugging DAGs without it was annoying
