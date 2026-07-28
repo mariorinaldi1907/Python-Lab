@@ -1,1 +1,1 @@
-implemented Tarjan's algorithm for finding strongly connected components, spent way too long debugging the lowlink updates
+built a recursive descent parser for arithmetic expressions, handles precedence and parens correctly

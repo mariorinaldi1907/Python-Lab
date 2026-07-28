@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-28 | [Simple Expression Evaluator 20260728 185447](projects/simple_expression_evaluator.py_20260728_185447.py) | Wrote a simple expression evaluator that parses and evaluates mathematical expressions with proper operator precedence — wanted to understand how parsers actually work under the hood. |
 | 2026-07-28 | [Tarjan Scc Finder 20260728 121856](projects/tarjan_scc_finder.py_20260728_121856.py) | Built Tarjan's SCC algorithm because I needed to analyze dependency cycles in a config graph — works in one DFS pass which is pretty neat. |
 | 2026-07-28 | [Lazy Pipeline Evaluator 20260728 093317](projects/lazy_pipeline_evaluator.py_20260728_093317.py) | Created a functional programming utility that combines lazy evaluation, memoization, and method chaining to process sequences efficiently without computing everything upfront. |
 | 2026-07-28 | [Topological Sort With Cycle Detection 20260728 041329](projects/topological_sort_with_cycle_detection.py_20260728_041329.py) | Built a topological sorting algorithm that detects cycles in directed graphs — useful for task scheduling and dependency resolution problems I keep running into. |
