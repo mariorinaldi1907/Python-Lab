@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-28 | [Lazy Pipeline Evaluator 20260728 093317](projects/lazy_pipeline_evaluator.py_20260728_093317.py) | Created a functional programming utility that combines lazy evaluation, memoization, and method chaining to process sequences efficiently without computing everything upfront. |
 | 2026-07-28 | [Topological Sort With Cycle Detection 20260728 041329](projects/topological_sort_with_cycle_detection.py_20260728_041329.py) | Built a topological sorting algorithm that detects cycles in directed graphs — useful for task scheduling and dependency resolution problems I keep running into. |
 | 2026-07-27 | [Lru Cache Implementation 20260727 160536](projects/lru_cache_implementation.py_20260727_160536.py) | Built an LRU cache from scratch using a doubly linked list for O(1) eviction and a hashmap for O(1) lookups — wanted to understand how caching works under the hood. |
 | 2026-07-27 | [Nginx Log Parser 20260727 132405](projects/nginx_log_parser.py_20260727_132405.py) | Wrote a parser for nginx access logs that calculates stats like request counts, status code distribution, and flags potential security issues like SQL injection attempts or excessive 404s from the same IP. |

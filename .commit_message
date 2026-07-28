@@ -1,1 +1,1 @@
-implemented topological sort using Kahn's algorithm, added cycle detection because debugging DAGs without it was annoying
+built a lazy evaluation pipeline with chainable operations and memoization — finally understand why Haskell devs won't shut up about this
