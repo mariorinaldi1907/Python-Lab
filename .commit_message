@@ -1,1 +1,1 @@
-built a lazy evaluation pipeline with chainable operations and memoization — finally understand why Haskell devs won't shut up about this
+implemented Tarjan's algorithm for finding strongly connected components, spent way too long debugging the lowlink updates
