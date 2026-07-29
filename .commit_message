@@ -1,1 +1,4 @@
-implemented word ladder solver with BFS, finds shortest path between any two dictionary words
+added 2 new scripts
+
+- implemented naive bayes from scratch with laplace smoothing, tested on simple text classification
+- implemented word ladder solver with BFS, finds shortest transformation path between any two words
