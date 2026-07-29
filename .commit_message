@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented naive bayes from scratch with laplace smoothing, tested on simple text classification
-- implemented word ladder solver with BFS, finds shortest transformation path between any two words
+implemented Tarjan's algorithm for finding strongly connected components, added cycle detection helper
