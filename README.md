@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-29 | [Word Ladder Solver 20260729 093447](projects/word_ladder_solver.py_20260729_093447.py) | Built a word ladder puzzle solver that finds the shortest transformation path between two words by changing one letter at a time — uses BFS for optimal paths. |
 | 2026-07-29 | [Bayesian Ab Tester 20260729 063637](projects/bayesian_ab_tester.py_20260729_063637.py) | Created a Bayesian A/B testing tool that updates beliefs about conversion rates using conjugate priors — way more intuitive than frequentist approaches for real product decisions. |
 | 2026-07-29 | [Line Count Analyzer 20260729 063710](projects/line_count_analyzer.py_20260729_063710.py) | Made a CLI tool that analyzes source files and gives me a detailed breakdown of code lines, comments, blanks, and calculates code density. |
 | 2026-07-28 | [Simple Expression Evaluator 20260728 185447](projects/simple_expression_evaluator.py_20260728_185447.py) | Wrote a simple expression evaluator that parses and evaluates mathematical expressions with proper operator precedence — wanted to understand how parsers actually work under the hood. |
