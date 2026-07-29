@@ -1,1 +1,4 @@
-built a recursive descent parser for arithmetic expressions, handles precedence and parens correctly
+added 2 new scripts
+
+- built a bayesian A/B test calculator because I got tired of p-values, uses beta distributions for conversion rate inference
+- built a line counter that breaks down code vs comments vs blanks, helpful for quick project stats
