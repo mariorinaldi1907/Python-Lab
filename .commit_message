@@ -1,1 +1,4 @@
-built a recursive descent parser for arithmetic expressions, handles parentheses and operator precedence correctly
+added 2 new scripts
+
+- implemented LRU cache from scratch using a dict + doubly linked list, learned a ton about eviction policies
+- built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly

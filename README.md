@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-30 | [Lru Cache Implementation 20260730 154446](projects/lru_cache_implementation.py_20260730_154446.py) | Built an LRU cache to really understand how caching works under the hood — uses a hash map for O(1) lookups and a doubly linked list for O(1) evictions. |
+| 2026-07-30 | [Simple Expression Evaluator 20260730 154506](projects/simple_expression_evaluator.py_20260730_154506.py) | Wrote an expression evaluator that parses and computes arithmetic expressions with proper operator precedence — felt like building a mini compiler. |
 | 2026-07-30 | [Recursive Descent Calculator 20260730 092656](projects/recursive_descent_calculator.py_20260730_092656.py) | Wrote a simple expression evaluator using recursive descent parsing because I wanted to understand how parsers actually work under the hood. |
 | 2026-07-30 | [Task Scheduler Command Pattern 20260730 063258](projects/task_scheduler_command_pattern.py_20260730_063258.py) | Built a task scheduler using the command pattern so I can queue up file operations and system tasks with full undo/redo support — super useful for my backup scripts. |
 | 2026-07-29 | [Tarjans Scc Finder 20260729 183251](projects/tarjans_scc_finder.py_20260729_183251.py) | Built Tarjan's SCC algorithm because I needed to detect cycles in a dependency graph and figured I'd make it reusable. |
