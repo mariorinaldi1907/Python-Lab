@@ -1,1 +1,1 @@
-implemented command pattern for a task scheduler with undo/redo, makes testing work automation way easier
+built a recursive descent parser for arithmetic expressions, handles parentheses and operator precedence correctly
