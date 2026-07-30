@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-30 | [Task Scheduler Command Pattern 20260730 063258](projects/task_scheduler_command_pattern.py_20260730_063258.py) | Built a task scheduler using the command pattern so I can queue up file operations and system tasks with full undo/redo support — super useful for my backup scripts. |
 | 2026-07-29 | [Tarjans Scc Finder 20260729 183251](projects/tarjans_scc_finder.py_20260729_183251.py) | Built Tarjan's SCC algorithm because I needed to detect cycles in a dependency graph and figured I'd make it reusable. |
 | 2026-07-29 | [Naive Bayes Classifier 20260729 154314](projects/naive_bayes_classifier.py_20260729_154314.py) | Built a Gaussian Naive Bayes classifier to see how probabilities combine for predictions — handles continuous features and multiple classes. |
 | 2026-07-29 | [Word Ladder Solver 20260729 154346](projects/word_ladder_solver.py_20260729_154346.py) | Built a word ladder puzzle solver that finds the shortest path between two words by changing one letter at a time — uses BFS and actually generates pretty readable output. |

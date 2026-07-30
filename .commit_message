@@ -1,1 +1,1 @@
-implemented Tarjan's algorithm for finding strongly connected components, added cycle detection helper
+implemented command pattern for a task scheduler with undo/redo, makes testing work automation way easier
