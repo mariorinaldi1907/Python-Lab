@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-07-31 | [Command Pattern Text Editor 20260731 122438](projects/command_pattern_text_editor.py_20260731_122438.py) | Built a text editor simulator using the command pattern because I wanted a clean way to handle undo/redo without spaghetti code. |
+| 2026-07-31 | [Huffman Text Compressor 20260731 122502](projects/huffman_text_compressor.py_20260731_122502.py) | Built a Huffman encoder/decoder to play around with compression algorithms — actually gets decent ratios on repetitive text. |
 | 2026-07-31 | [Convex Hull Gift Wrapping 20260731 064932](projects/convex_hull_gift_wrapping.py_20260731_064932.py) | Built a convex hull finder using the gift wrapping (Jarvis march) algorithm because I needed something visual and intuitive to understand how convex hulls actually work. |
 | 2026-07-30 | [Lru Cache Implementation 20260730 154446](projects/lru_cache_implementation.py_20260730_154446.py) | Built an LRU cache to really understand how caching works under the hood — uses a hash map for O(1) lookups and a doubly linked list for O(1) evictions. |
 | 2026-07-30 | [Simple Expression Evaluator 20260730 154506](projects/simple_expression_evaluator.py_20260730_154506.py) | Wrote an expression evaluator that parses and computes arithmetic expressions with proper operator precedence — felt like building a mini compiler. |

@@ -1,1 +1,4 @@
-implemented gift wrapping algorithm for convex hulls, handles collinear points correctly
+added 2 new scripts
+
+- implemented command pattern for a simple text editor with undo/redo support
+- implemented huffman coding from scratch, builds tree with heapq and compresses text pretty well
