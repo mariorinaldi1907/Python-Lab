@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-01 | [Modular Arithmetic Toolkit 20260801 042254](projects/modular_arithmetic_toolkit.py_20260801_042254.py) | Implemented core number theory algorithms I keep needing for cryptography problems and competitive programming — proper handling of edge cases included. |
+| 2026-08-01 | [Lazy Pipeline 20260801 042322](projects/lazy_pipeline.py_20260801_042322.py) | Created a functional programming utility that lets me compose data transformations lazily with automatic memoization, because I got tired of rewriting the same map/filter/reduce chains. |
 | 2026-07-31 | [Command Pattern Text Editor 20260731 122438](projects/command_pattern_text_editor.py_20260731_122438.py) | Built a text editor simulator using the command pattern because I wanted a clean way to handle undo/redo without spaghetti code. |
 | 2026-07-31 | [Huffman Text Compressor 20260731 122502](projects/huffman_text_compressor.py_20260731_122502.py) | Built a Huffman encoder/decoder to play around with compression algorithms — actually gets decent ratios on repetitive text. |
 | 2026-07-31 | [Convex Hull Gift Wrapping 20260731 064932](projects/convex_hull_gift_wrapping.py_20260731_064932.py) | Built a convex hull finder using the gift wrapping (Jarvis march) algorithm because I needed something visual and intuitive to understand how convex hulls actually work. |

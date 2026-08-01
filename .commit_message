@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented command pattern for a simple text editor with undo/redo support
-- implemented huffman coding from scratch, builds tree with heapq and compresses text pretty well
+- built a modular arithmetic toolkit with extended gcd, modular inverse, and chinese remainder theorem
+- built a lazy pipeline system with memoization — chains operations without executing until needed
