@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-01 | [Word Frequency Analyzer 20260801 145051](projects/word_frequency_analyzer.py_20260801_145051.py) | Created a command-line tool to analyze word frequencies in text files with optional stopword filtering and configurable output limits. |
 | 2026-08-01 | [Markov Text Generator 20260801 113900](projects/markov_text_generator.py_20260801_113900.py) | Created a Markov chain text generator with configurable n-gram order because I wanted to experiment with probabilistic text generation using just the standard library. |
 | 2026-08-01 | [Word Ladder Solver 20260801 113921](projects/word_ladder_solver.py_20260801_113921.py) | Built a word ladder puzzle solver that finds the shortest chain of single-letter transformations between two words using breadth-first search. |
 | 2026-08-01 | [Modular Arithmetic Toolkit 20260801 042254](projects/modular_arithmetic_toolkit.py_20260801_042254.py) | Implemented core number theory algorithms I keep needing for cryptography problems and competitive programming — proper handling of edge cases included. |
