@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-01 | [Markov Text Generator 20260801 113900](projects/markov_text_generator.py_20260801_113900.py) | Created a Markov chain text generator with configurable n-gram order because I wanted to experiment with probabilistic text generation using just the standard library. |
+| 2026-08-01 | [Word Ladder Solver 20260801 113921](projects/word_ladder_solver.py_20260801_113921.py) | Built a word ladder puzzle solver that finds the shortest chain of single-letter transformations between two words using breadth-first search. |
 | 2026-08-01 | [Modular Arithmetic Toolkit 20260801 042254](projects/modular_arithmetic_toolkit.py_20260801_042254.py) | Implemented core number theory algorithms I keep needing for cryptography problems and competitive programming — proper handling of edge cases included. |
 | 2026-08-01 | [Lazy Pipeline 20260801 042322](projects/lazy_pipeline.py_20260801_042322.py) | Created a functional programming utility that lets me compose data transformations lazily with automatic memoization, because I got tired of rewriting the same map/filter/reduce chains. |
 | 2026-07-31 | [Command Pattern Text Editor 20260731 122438](projects/command_pattern_text_editor.py_20260731_122438.py) | Built a text editor simulator using the command pattern because I wanted a clean way to handle undo/redo without spaghetti code. |

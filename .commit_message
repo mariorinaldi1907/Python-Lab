@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a modular arithmetic toolkit with extended gcd, modular inverse, and chinese remainder theorem
-- built a lazy pipeline system with memoization — chains operations without executing until needed
+- built a markov chain text generator that actually works pretty well with variable n-gram sizes
+- implemented word ladder solver with BFS, finds shortest transformation path between any two words
