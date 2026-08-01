@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-01 | [Simple Expression Evaluator 20260801 183229](projects/simple_expression_evaluator.py_20260801_183229.py) | Implemented a simple expression evaluator that parses and computes arithmetic expressions with proper operator precedence using recursive descent parsing. |
+| 2026-08-01 | [Async Port Scanner 20260801 183253](projects/async_port_scanner.py_20260801_183253.py) | Created a concurrent port scanner using threading to check common ports quickly — learned a lot about socket timeouts and thread pooling. |
 | 2026-08-01 | [Word Frequency Analyzer 20260801 145051](projects/word_frequency_analyzer.py_20260801_145051.py) | Created a command-line tool to analyze word frequencies in text files with optional stopword filtering and configurable output limits. |
 | 2026-08-01 | [Markov Text Generator 20260801 113900](projects/markov_text_generator.py_20260801_113900.py) | Created a Markov chain text generator with configurable n-gram order because I wanted to experiment with probabilistic text generation using just the standard library. |
 | 2026-08-01 | [Word Ladder Solver 20260801 113921](projects/word_ladder_solver.py_20260801_113921.py) | Built a word ladder puzzle solver that finds the shortest chain of single-letter transformations between two words using breadth-first search. |

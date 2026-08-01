@@ -1,1 +1,4 @@
-built a word frequency analyzer CLI that handles stopwords and outputs sorted results - pretty useful for quick text analysis
+added 2 new scripts
+
+- built a recursive descent parser for basic math expressions, handles precedence and parentheses properly
+- built a multithreaded port scanner that actually respects timeouts and doesn't hang forever
