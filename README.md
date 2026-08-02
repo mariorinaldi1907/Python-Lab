@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-02 | [Lazy Pipeline 20260802 063821](projects/lazy_pipeline.py_20260802_063821.py) | Created a functional programming toolkit that chains operations lazily, only computing when needed, with automatic memoization and currying support. |
+| 2026-08-02 | [Floyd Warshall Shortest Paths 20260802 063848](projects/floyd_warshall_shortest_paths.py_20260802_063848.py) | Built Floyd-Warshall all-pairs shortest path finder because I wanted to understand how it handles negative weights better than running Dijkstra n times. |
 | 2026-08-02 | [Nginx Log Parser 20260802 042532](projects/nginx_log_parser.py_20260802_042532.py) | Wrote a parser for nginx access logs that groups requests by IP, finds error patterns, and flags potential scanning activity based on 404 rates. |
 | 2026-08-01 | [Simple Expression Evaluator 20260801 183229](projects/simple_expression_evaluator.py_20260801_183229.py) | Implemented a simple expression evaluator that parses and computes arithmetic expressions with proper operator precedence using recursive descent parsing. |
 | 2026-08-01 | [Async Port Scanner 20260801 183253](projects/async_port_scanner.py_20260801_183253.py) | Created a concurrent port scanner using threading to check common ports quickly — learned a lot about socket timeouts and thread pooling. |
