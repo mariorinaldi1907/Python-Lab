@@ -1,1 +1,1 @@
-built an async rate limiter with token bucket algorithm, handles bursts nicely
+built a multi-threaded port scanner with timeout controls and common service detection
