@@ -1,1 +1,1 @@
-built a word frequency analyzer with stemming and stopword filtering, outputs top N words with nice formatting
+built an async rate limiter with token bucket algorithm, handles bursts nicely

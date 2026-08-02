@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-02 | [Async Rate Limiter Demo 20260802 145304](projects/async_rate_limiter_demo.py_20260802_145304.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns — supports burst traffic and gradual refill. |
 | 2026-08-02 | [Word Frequency Analyzer 20260802 090625](projects/word_frequency_analyzer.py_20260802_090625.py) | Created a CLI tool to analyze text files and show word frequency distributions — includes basic stemming and common word filtering to get more meaningful results. |
 | 2026-08-02 | [Lazy Pipeline 20260802 063821](projects/lazy_pipeline.py_20260802_063821.py) | Created a functional programming toolkit that chains operations lazily, only computing when needed, with automatic memoization and currying support. |
 | 2026-08-02 | [Floyd Warshall Shortest Paths 20260802 063848](projects/floyd_warshall_shortest_paths.py_20260802_063848.py) | Built Floyd-Warshall all-pairs shortest path finder because I wanted to understand how it handles negative weights better than running Dijkstra n times. |
