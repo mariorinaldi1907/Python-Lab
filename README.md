@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-03 | [Lru Cache Implementation 20260803 190722](projects/lru_cache_implementation.py_20260803_190722.py) | Built an LRU cache with O(1) get/put operations to understand how caching eviction policies work under the hood. |
 | 2026-08-03 | [Async Rate Limiter Demo 20260803 132232](projects/async_rate_limiter_demo.py_20260803_132232.py) | Implemented a token bucket rate limiter using asyncio to understand how APIs throttle requests — includes both time-based and burst control. |
 | 2026-08-03 | [Lazy Pipeline 20260803 073417](projects/lazy_pipeline.py_20260803_073417.py) | Created a functional pipeline that lazily evaluates chained operations with automatic memoization and currying support — helps me avoid computing stuff I don't need. |
 | 2026-08-03 | [Nginx Log Parser 20260803 043226](projects/nginx_log_parser.py_20260803_043226.py) | Wrote a log parser that chews through nginx access logs and spits out traffic stats, error rates, and flags potential bot activity — been wanting to analyze my VPS logs for a while. |
