@@ -1,1 +1,1 @@
-built a multi-threaded port scanner with timeout controls and common service detection
+built an nginx access log parser that extracts stats and detects suspicious patterns

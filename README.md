@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-03 | [Nginx Log Parser 20260803 043226](projects/nginx_log_parser.py_20260803_043226.py) | Wrote a log parser that chews through nginx access logs and spits out traffic stats, error rates, and flags potential bot activity — been wanting to analyze my VPS logs for a while. |
 | 2026-08-02 | [Async Port Scanner 20260802 183219](projects/async_port_scanner.py_20260802_183219.py) | Created a concurrent port scanner that checks multiple ports simultaneously and identifies common services running on open ports. |
 | 2026-08-02 | [Async Rate Limiter Demo 20260802 145304](projects/async_rate_limiter_demo.py_20260802_145304.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns — supports burst traffic and gradual refill. |
 | 2026-08-02 | [Word Frequency Analyzer 20260802 090625](projects/word_frequency_analyzer.py_20260802_090625.py) | Created a CLI tool to analyze text files and show word frequency distributions — includes basic stemming and common word filtering to get more meaningful results. |
