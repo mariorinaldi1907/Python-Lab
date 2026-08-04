@@ -1,1 +1,1 @@
-built a word ladder solver using BFS — finds shortest path between two words by changing one letter at a time
+built an nginx access log parser that extracts useful stats like status codes, top IPs, and bandwidth usage
