@@ -1,1 +1,4 @@
-implemented LRU cache from scratch using dict + doubly linked list, actually pretty clean
+added 2 new scripts
+
+- built a Bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values
+- implemented Graham scan for convex hull because I needed it for a collision detection project

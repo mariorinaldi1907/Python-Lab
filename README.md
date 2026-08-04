@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-04 | [Bayesian Ab Test Analyzer 20260804 041635](projects/bayesian_ab_test_analyzer.py_20260804_041635.py) | Implemented a Bayesian A/B testing framework using conjugate priors to compare conversion rates and make decisions with actual probability statements instead of confusing p-values. |
+| 2026-08-04 | [Convex Hull Graham Scan 20260804 041704](projects/convex_hull_graham_scan.py_20260804_041704.py) | Built a convex hull finder using Graham scan algorithm — takes 2D points and returns the minimal convex polygon containing them all. |
 | 2026-08-03 | [Lru Cache Implementation 20260803 190722](projects/lru_cache_implementation.py_20260803_190722.py) | Built an LRU cache with O(1) get/put operations to understand how caching eviction policies work under the hood. |
 | 2026-08-03 | [Async Rate Limiter Demo 20260803 132232](projects/async_rate_limiter_demo.py_20260803_132232.py) | Implemented a token bucket rate limiter using asyncio to understand how APIs throttle requests — includes both time-based and burst control. |
 | 2026-08-03 | [Lazy Pipeline 20260803 073417](projects/lazy_pipeline.py_20260803_073417.py) | Created a functional pipeline that lazily evaluates chained operations with automatic memoization and currying support — helps me avoid computing stuff I don't need. |
