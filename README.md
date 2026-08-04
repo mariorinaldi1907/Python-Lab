@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-04 | [Word Ladder Solver 20260804 122338](projects/word_ladder_solver.py_20260804_122338.py) | Implemented a BFS-based word ladder puzzle solver that finds the shortest transformation sequence between two words, because I've always found these puzzles satisfying to crack algorithmically. |
 | 2026-08-04 | [K Means Clustering From Scratch 20260804 093637](projects/k_means_clustering_from_scratch.py_20260804_093637.py) | Implemented k-means clustering without any ML libraries to really understand how centroid updates and cluster assignments work under the hood. |
 | 2026-08-04 | [Huffman Text Compressor 20260804 093702](projects/huffman_text_compressor.py_20260804_093702.py) | Built a Huffman encoder/decoder to see how much I could compress text without external libraries — pretty satisfying to watch it build the tree. |
 | 2026-08-04 | [Simple Expression Evaluator 20260804 063159](projects/simple_expression_evaluator.py_20260804_063159.py) | Wrote a simple expression evaluator that parses and computes arithmetic expressions with proper operator precedence, because I wanted to understand how parsers actually work under the hood. |
