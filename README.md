@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-04 | [Simple Expression Evaluator 20260804 063159](projects/simple_expression_evaluator.py_20260804_063159.py) | Wrote a simple expression evaluator that parses and computes arithmetic expressions with proper operator precedence, because I wanted to understand how parsers actually work under the hood. |
 | 2026-08-04 | [Bayesian Ab Test Analyzer 20260804 041635](projects/bayesian_ab_test_analyzer.py_20260804_041635.py) | Implemented a Bayesian A/B testing framework using conjugate priors to compare conversion rates and make decisions with actual probability statements instead of confusing p-values. |
 | 2026-08-04 | [Convex Hull Graham Scan 20260804 041704](projects/convex_hull_graham_scan.py_20260804_041704.py) | Built a convex hull finder using Graham scan algorithm — takes 2D points and returns the minimal convex polygon containing them all. |
 | 2026-08-03 | [Lru Cache Implementation 20260803 190722](projects/lru_cache_implementation.py_20260803_190722.py) | Built an LRU cache with O(1) get/put operations to understand how caching eviction policies work under the hood. |
