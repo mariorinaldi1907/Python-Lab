@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-04 | [K Means Clustering From Scratch 20260804 093637](projects/k_means_clustering_from_scratch.py_20260804_093637.py) | Implemented k-means clustering without any ML libraries to really understand how centroid updates and cluster assignments work under the hood. |
+| 2026-08-04 | [Huffman Text Compressor 20260804 093702](projects/huffman_text_compressor.py_20260804_093702.py) | Built a Huffman encoder/decoder to see how much I could compress text without external libraries — pretty satisfying to watch it build the tree. |
 | 2026-08-04 | [Simple Expression Evaluator 20260804 063159](projects/simple_expression_evaluator.py_20260804_063159.py) | Wrote a simple expression evaluator that parses and computes arithmetic expressions with proper operator precedence, because I wanted to understand how parsers actually work under the hood. |
 | 2026-08-04 | [Bayesian Ab Test Analyzer 20260804 041635](projects/bayesian_ab_test_analyzer.py_20260804_041635.py) | Implemented a Bayesian A/B testing framework using conjugate priors to compare conversion rates and make decisions with actual probability statements instead of confusing p-values. |
 | 2026-08-04 | [Convex Hull Graham Scan 20260804 041704](projects/convex_hull_graham_scan.py_20260804_041704.py) | Built a convex hull finder using Graham scan algorithm — takes 2D points and returns the minimal convex polygon containing them all. |
