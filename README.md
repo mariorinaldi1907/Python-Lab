@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-05 | [Async Port Scanner 20260805 190410](projects/async_port_scanner.py_20260805_190410.py) | Created a multi-threaded port scanner that checks common service ports and tries to identify what's running on them using banner grabbing. |
 | 2026-08-05 | [Lru Cache Implementation 20260805 122135](projects/lru_cache_implementation.py_20260805_122135.py) | Implemented a proper LRU cache with O(1) get/put operations using a dictionary and doubly linked list — wanted to understand how @lru_cache actually works under the hood. |
 | 2026-08-05 | [Word Frequency Analyzer 20260805 093225](projects/word_frequency_analyzer.py_20260805_093225.py) | Created a command-line word frequency analyzer that processes text files and outputs stats in different formats — helpful for quick content analysis. |
 | 2026-08-05 | [Tarjans Scc Finder 20260805 093249](projects/tarjans_scc_finder.py_20260805_093249.py) | Built Tarjan's SCC algorithm because I wanted to understand how dependency analyzers detect circular imports in codebases. |
