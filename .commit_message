@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a recursive JSON schema validator that checks types, required fields, and nested objects
-- built a Bayesian A/B test analyzer with conjugate priors, way cleaner than frequentist p-value hell
+built a markov chain text generator that actually produces readable output, added sentence-aware tokenization

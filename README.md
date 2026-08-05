@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-05 | [Markov Text Generator 20260805 063317](projects/markov_text_generator.py_20260805_063317.py) | Implemented a configurable Markov chain generator that learns from input text and generates new text with adjustable context windows — preserves sentence structure better than basic word-level chains. |
 | 2026-08-05 | [Json Schema Validator 20260805 041255](projects/json_schema_validator.py_20260805_041255.py) | Implemented a JSON schema validator from scratch to better understand how tools like jsonschema work under the hood — supports type checking, required fields, and nested validation. |
 | 2026-08-05 | [Bayesian Ab Test Analyzer 20260805 041328](projects/bayesian_ab_test_analyzer.py_20260805_041328.py) | Created a Bayesian inference tool for A/B testing that uses Beta-Binomial conjugate priors to estimate conversion rates and compute probability of superiority — tired of misinterpreting p-values. |
 | 2026-08-04 | [Nginx Log Parser 20260804 190934](projects/nginx_log_parser.py_20260804_190934.py) | I needed a quick way to analyze nginx access logs without installing anything, so I wrote this parser that summarizes requests, errors, and bandwidth in one go. |
