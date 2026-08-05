@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-05 | [Word Frequency Analyzer 20260805 093225](projects/word_frequency_analyzer.py_20260805_093225.py) | Created a command-line word frequency analyzer that processes text files and outputs stats in different formats — helpful for quick content analysis. |
+| 2026-08-05 | [Tarjans Scc Finder 20260805 093249](projects/tarjans_scc_finder.py_20260805_093249.py) | Built Tarjan's SCC algorithm because I wanted to understand how dependency analyzers detect circular imports in codebases. |
 | 2026-08-05 | [Markov Text Generator 20260805 063317](projects/markov_text_generator.py_20260805_063317.py) | Implemented a configurable Markov chain generator that learns from input text and generates new text with adjustable context windows — preserves sentence structure better than basic word-level chains. |
 | 2026-08-05 | [Json Schema Validator 20260805 041255](projects/json_schema_validator.py_20260805_041255.py) | Implemented a JSON schema validator from scratch to better understand how tools like jsonschema work under the hood — supports type checking, required fields, and nested validation. |
 | 2026-08-05 | [Bayesian Ab Test Analyzer 20260805 041328](projects/bayesian_ab_test_analyzer.py_20260805_041328.py) | Created a Bayesian inference tool for A/B testing that uses Beta-Binomial conjugate priors to estimate conversion rates and compute probability of superiority — tired of misinterpreting p-values. |

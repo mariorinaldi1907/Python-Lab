@@ -1,1 +1,4 @@
-built a markov chain text generator that actually produces readable output, added sentence-aware tokenization
+added 2 new scripts
+
+- built a word frequency CLI tool with multiple sorting options and stopword filtering
+- implemented Tarjan's algorithm for finding strongly connected components, works on directed graphs with cycles
