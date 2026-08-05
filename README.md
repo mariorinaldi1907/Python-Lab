@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-05 | [Json Schema Validator 20260805 041255](projects/json_schema_validator.py_20260805_041255.py) | Implemented a JSON schema validator from scratch to better understand how tools like jsonschema work under the hood — supports type checking, required fields, and nested validation. |
+| 2026-08-05 | [Bayesian Ab Test Analyzer 20260805 041328](projects/bayesian_ab_test_analyzer.py_20260805_041328.py) | Created a Bayesian inference tool for A/B testing that uses Beta-Binomial conjugate priors to estimate conversion rates and compute probability of superiority — tired of misinterpreting p-values. |
 | 2026-08-04 | [Nginx Log Parser 20260804 190934](projects/nginx_log_parser.py_20260804_190934.py) | I needed a quick way to analyze nginx access logs without installing anything, so I wrote this parser that summarizes requests, errors, and bandwidth in one go. |
 | 2026-08-04 | [Word Ladder Solver 20260804 122338](projects/word_ladder_solver.py_20260804_122338.py) | Implemented a BFS-based word ladder puzzle solver that finds the shortest transformation sequence between two words, because I've always found these puzzles satisfying to crack algorithmically. |
 | 2026-08-04 | [K Means Clustering From Scratch 20260804 093637](projects/k_means_clustering_from_scratch.py_20260804_093637.py) | Implemented k-means clustering without any ML libraries to really understand how centroid updates and cluster assignments work under the hood. |

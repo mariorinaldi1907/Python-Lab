@@ -1,1 +1,4 @@
-built an nginx access log parser that extracts useful stats like status codes, top IPs, and bandwidth usage
+added 2 new scripts
+
+- built a recursive JSON schema validator that checks types, required fields, and nested objects
+- built a Bayesian A/B test analyzer with conjugate priors, way cleaner than frequentist p-value hell
