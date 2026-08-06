@@ -1,1 +1,4 @@
-built a concurrent port scanner with threading to check common services, way faster than sequential scanning
+added 2 new scripts
+
+- built a run-length encoder with compression stats, handles both text and binary files
+- built a forest fire spread simulator with multiple ignition points and wind effects

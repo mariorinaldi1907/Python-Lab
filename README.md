@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-06 | [Run Length Encoder 20260806 063619](projects/run_length_encoder.py_20260806_063619.py) | Created a run-length encoding utility that compresses repetitive data and shows you how much space you saved — works great for pixel data or logs with lots of repeating characters. |
+| 2026-08-06 | [Forest Fire Simulation 20260806 063644](projects/forest_fire_simulation.py_20260806_063644.py) | Created a cellular automaton that models wildfire propagation across a grid with probabilistic spread, wind direction influence, and ASCII visualization. |
 | 2026-08-05 | [Async Port Scanner 20260805 190410](projects/async_port_scanner.py_20260805_190410.py) | Created a multi-threaded port scanner that checks common service ports and tries to identify what's running on them using banner grabbing. |
 | 2026-08-05 | [Lru Cache Implementation 20260805 122135](projects/lru_cache_implementation.py_20260805_122135.py) | Implemented a proper LRU cache with O(1) get/put operations using a dictionary and doubly linked list — wanted to understand how @lru_cache actually works under the hood. |
 | 2026-08-05 | [Word Frequency Analyzer 20260805 093225](projects/word_frequency_analyzer.py_20260805_093225.py) | Created a command-line word frequency analyzer that processes text files and outputs stats in different formats — helpful for quick content analysis. |
