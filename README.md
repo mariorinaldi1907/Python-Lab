@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-06 | [Forest Fire Simulation 20260806 093659](projects/forest_fire_simulation.py_20260806_093659.py) | Implemented a forest fire simulation using cellular automata rules where trees grow randomly, lightning can strike, and fires spread to adjacent cells before burning out. |
+| 2026-08-06 | [Tarjans Scc Finder 20260806 093731](projects/tarjans_scc_finder.py_20260806_093731.py) | Built Tarjan's SCC algorithm from scratch to detect cycles and connected components in directed graphs, using DFS with a single pass. |
 | 2026-08-06 | [Run Length Encoder 20260806 063619](projects/run_length_encoder.py_20260806_063619.py) | Created a run-length encoding utility that compresses repetitive data and shows you how much space you saved — works great for pixel data or logs with lots of repeating characters. |
 | 2026-08-06 | [Forest Fire Simulation 20260806 063644](projects/forest_fire_simulation.py_20260806_063644.py) | Created a cellular automaton that models wildfire propagation across a grid with probabilistic spread, wind direction influence, and ASCII visualization. |
 | 2026-08-05 | [Async Port Scanner 20260805 190410](projects/async_port_scanner.py_20260805_190410.py) | Created a multi-threaded port scanner that checks common service ports and tries to identify what's running on them using banner grabbing. |
