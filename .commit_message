@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a forest fire cellular automaton — trees grow, lightning strikes, fires spread with nice ascii viz
-- implemented Tarjan's algorithm for finding strongly connected components — always wanted to build this one properly
+implemented Tarjan's algorithm for finding strongly connected components — honestly one of the cleanest graph algos once you get the stack logic
