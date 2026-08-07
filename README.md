@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-07 | [Convex Hull Graham Scan 20260807 081005](projects/convex_hull_graham_scan.py_20260807_081005.py) | Built a convex hull calculator using Graham's scan algorithm to find the smallest convex polygon containing a set of 2D points. |
 | 2026-08-06 | [Tarjans Scc Finder 20260806 122347](projects/tarjans_scc_finder.py_20260806_122347.py) | Built Tarjan's SCC algorithm because I wanted to understand how dependency cycles get detected in real build systems. |
 | 2026-08-06 | [Forest Fire Simulation 20260806 093659](projects/forest_fire_simulation.py_20260806_093659.py) | Implemented a forest fire simulation using cellular automata rules where trees grow randomly, lightning can strike, and fires spread to adjacent cells before burning out. |
 | 2026-08-06 | [Tarjans Scc Finder 20260806 093731](projects/tarjans_scc_finder.py_20260806_093731.py) | Built Tarjan's SCC algorithm from scratch to detect cycles and connected components in directed graphs, using DFS with a single pass. |

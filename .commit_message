@@ -1,1 +1,1 @@
-implemented Tarjan's algorithm for finding strongly connected components — honestly one of the cleanest graph algos once you get the stack logic
+implemented Graham scan for convex hull because I needed it for a collision detection project
