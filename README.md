@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-07 | [Word Ladder Bfs Solver 20260807 182344](projects/word_ladder_bfs_solver.py_20260807_182344.py) | Implemented a word ladder puzzle solver that uses breadth-first search to find the shortest transformation sequence between two words, where each step changes exactly one letter. |
+| 2026-08-07 | [Bayesian Ab Testing 20260807 182421](projects/bayesian_ab_testing.py_20260807_182421.py) | Created a Bayesian AB testing module that actually tells you the probability one variant is better, plus credible intervals — way more intuitive than frequentist stats. |
 | 2026-08-07 | [Word Ladder Solver 20260807 144333](projects/word_ladder_solver.py_20260807_144333.py) | Built a word ladder puzzle solver that finds the shortest transformation path between two words by changing one letter at a time — uses BFS for optimal pathfinding. |
 | 2026-08-07 | [Convex Hull Graham Scan 20260807 081005](projects/convex_hull_graham_scan.py_20260807_081005.py) | Built a convex hull calculator using Graham's scan algorithm to find the smallest convex polygon containing a set of 2D points. |
 | 2026-08-06 | [Tarjans Scc Finder 20260806 122347](projects/tarjans_scc_finder.py_20260806_122347.py) | Built Tarjan's SCC algorithm because I wanted to understand how dependency cycles get detected in real build systems. |

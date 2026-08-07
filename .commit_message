@@ -1,1 +1,4 @@
-implemented word ladder solver with BFS, finds shortest path between any two words
+added 2 new scripts
+
+- built a word ladder solver using BFS — finds shortest path between two words by single-letter changes
+- built a bayesian AB test analyzer because I was tired of p-value confusion in my side projects
