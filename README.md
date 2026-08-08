@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-08 | [Huffman Text Compressor 20260808 142049](projects/huffman_text_compressor.py_20260808_142049.py) | Implemented Huffman coding to compress text by building frequency-based binary trees — includes encode/decode with visual tree representation. |
 | 2026-08-08 | [Nginx Log Analyzer 20260808 025600](projects/nginx_log_analyzer.py_20260808_025600.py) | Wrote a parser for nginx access logs that extracts stats like top IPs, status codes, and request patterns — helps me spot weird traffic on my server. |
 | 2026-08-08 | [Async Rate Limiter Demo 20260808 025626](projects/async_rate_limiter_demo.py_20260808_025626.py) | Implemented a token bucket rate limiter using asyncio to experiment with concurrency control — useful pattern for API calls and resource throttling. |
 | 2026-08-07 | [Word Ladder Bfs Solver 20260807 182344](projects/word_ladder_bfs_solver.py_20260807_182344.py) | Implemented a word ladder puzzle solver that uses breadth-first search to find the shortest transformation sequence between two words, where each step changes exactly one letter. |

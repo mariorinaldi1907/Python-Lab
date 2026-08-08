@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a quick nginx log parser to analyze my homelab traffic patterns
-- built an async rate limiter with token bucket algorithm, handles bursts and steady-state nicely
+built a huffman encoder/decoder from scratch, generates frequency trees and encodes text into bit strings
