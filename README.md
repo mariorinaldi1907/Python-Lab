@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-08 | [Nginx Log Analyzer 20260808 025600](projects/nginx_log_analyzer.py_20260808_025600.py) | Wrote a parser for nginx access logs that extracts stats like top IPs, status codes, and request patterns — helps me spot weird traffic on my server. |
+| 2026-08-08 | [Async Rate Limiter Demo 20260808 025626](projects/async_rate_limiter_demo.py_20260808_025626.py) | Implemented a token bucket rate limiter using asyncio to experiment with concurrency control — useful pattern for API calls and resource throttling. |
 | 2026-08-07 | [Word Ladder Bfs Solver 20260807 182344](projects/word_ladder_bfs_solver.py_20260807_182344.py) | Implemented a word ladder puzzle solver that uses breadth-first search to find the shortest transformation sequence between two words, where each step changes exactly one letter. |
 | 2026-08-07 | [Bayesian Ab Testing 20260807 182421](projects/bayesian_ab_testing.py_20260807_182421.py) | Created a Bayesian AB testing module that actually tells you the probability one variant is better, plus credible intervals — way more intuitive than frequentist stats. |
 | 2026-08-07 | [Word Ladder Solver 20260807 144333](projects/word_ladder_solver.py_20260807_144333.py) | Built a word ladder puzzle solver that finds the shortest transformation path between two words by changing one letter at a time — uses BFS for optimal pathfinding. |
