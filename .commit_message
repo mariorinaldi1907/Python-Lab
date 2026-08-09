@@ -1,1 +1,4 @@
-built a huffman encoder/decoder from scratch, generates frequency trees and encodes text into bit strings
+added 2 new scripts
+
+- built a word ladder solver using BFS — finds shortest path between two words by changing one letter at a time
+- built a bootstrapping module with confidence intervals and hypothesis testing — handles both numeric and categorical data
