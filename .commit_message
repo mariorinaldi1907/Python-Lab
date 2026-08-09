@@ -1,1 +1,1 @@
-built a multi-threaded TCP port scanner with timeout controls and nice output formatting
+built a simple SIR epidemic model with random mixing, prints daily stats and lets you tune transmission params

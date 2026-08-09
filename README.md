@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-09 | [Epidemic Sir Simulation 20260809 180040](projects/epidemic_sir_simulation.py_20260809_180040.py) | Wrote an epidemic simulator using the SIR compartmental model to see how diseases spread through populations with different R0 values. |
 | 2026-08-09 | [Tcp Port Scanner 20260809 142222](projects/tcp_port_scanner.py_20260809_142222.py) | Wrote a concurrent port scanner that checks common services and prints results in real-time — helps me quickly audit which ports are open on my local network devices. |
 | 2026-08-09 | [Disease Spread Simulator 20260809 105933](projects/disease_spread_simulator.py_20260809_105933.py) | Simulated disease spread using a spatial SIR model where agents move randomly on a grid and infect nearby susceptible individuals — wanted to see how mobility affects outbreak dynamics. |
 | 2026-08-09 | [Lru Cache Implementation 20260809 051045](projects/lru_cache_implementation.py_20260809_051045.py) | Built a proper LRU cache with O(1) get/put operations to finally understand the data structure behind Python's functools decorator. |
