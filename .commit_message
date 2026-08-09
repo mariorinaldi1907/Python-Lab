@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a word ladder solver using BFS — finds shortest path between two words by changing one letter at a time
-- built a bootstrapping module with confidence intervals and hypothesis testing — handles both numeric and categorical data
+implemented an LRU cache from scratch using a doubly linked list and hashmap — wanted to understand how @lru_cache actually works under the hood

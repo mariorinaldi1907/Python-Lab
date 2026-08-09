@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-09 | [Lru Cache Implementation 20260809 051045](projects/lru_cache_implementation.py_20260809_051045.py) | Built a proper LRU cache with O(1) get/put operations to finally understand the data structure behind Python's functools decorator. |
 | 2026-08-09 | [Word Ladder Solver 20260809 030251](projects/word_ladder_solver.py_20260809_030251.py) | Implemented a BFS-based word ladder puzzle solver that finds the shortest transformation sequence between two words, changing only one letter per step. |
 | 2026-08-09 | [Bootstrap Inference 20260809 030322](projects/bootstrap_inference.py_20260809_030322.py) | Implemented a statistical bootstrapping library for resampling-based inference, because I got tired of using heavyweight stats packages for simple CI calculations. |
 | 2026-08-08 | [Huffman Text Compressor 20260808 142049](projects/huffman_text_compressor.py_20260808_142049.py) | Implemented Huffman coding to compress text by building frequency-based binary trees — includes encode/decode with visual tree representation. |
