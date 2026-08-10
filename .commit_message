@@ -1,1 +1,1 @@
-implemented Tarjan's algorithm for finding strongly connected components, works on any directed graph
+implemented extended Euclidean algorithm with modular inverse — handles negative numbers and includes gcd computation
