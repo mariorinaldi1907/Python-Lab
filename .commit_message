@@ -1,1 +1,1 @@
-built a simple SIR epidemic model with random mixing, prints daily stats and lets you tune transmission params
+implemented command pattern for a tiny text editor with undo/redo support
