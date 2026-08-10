@@ -1,1 +1,1 @@
-implemented command pattern for a tiny text editor with undo/redo support
+built an LRU cache from scratch using a doubly linked list and hashmap — wanted to really understand how functools.lru_cache works under the hood
