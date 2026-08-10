@@ -1,1 +1,1 @@
-built a modular arithmetic toolkit with fast exponentiation, inverse, and CRT solver
+implemented Tarjan's algorithm for finding strongly connected components, works on any directed graph
