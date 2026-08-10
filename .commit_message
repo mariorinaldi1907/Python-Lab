@@ -1,1 +1,1 @@
-built an LRU cache from scratch using a doubly linked list and hashmap — wanted to really understand how functools.lru_cache works under the hood
+built a modular arithmetic toolkit with fast exponentiation, inverse, and CRT solver

@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-10 | [Modular Arithmetic Toolkit 20260810 082343](projects/modular_arithmetic_toolkit.py_20260810_082343.py) | Implemented common number theory operations I kept rewriting for competitive programming problems — modular exponentiation, inverse via extended Euclidean, and Chinese Remainder Theorem solver. |
 | 2026-08-10 | [Lru Cache Implementation 20260810 053735](projects/lru_cache_implementation.py_20260810_053735.py) | Implemented a fully functional LRU cache with O(1) get/put operations using a doubly linked list and dictionary, because I was curious how eviction policies actually work in production systems. |
 | 2026-08-10 | [Command Pattern Text Editor 20260810 031231](projects/command_pattern_text_editor.py_20260810_031231.py) | Built a simple text editor using the command pattern to handle operations like insert, delete, and replace with full undo/redo functionality. |
 | 2026-08-09 | [Epidemic Sir Simulation 20260809 180040](projects/epidemic_sir_simulation.py_20260809_180040.py) | Wrote an epidemic simulator using the SIR compartmental model to see how diseases spread through populations with different R0 values. |
