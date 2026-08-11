@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented Tarjan's algorithm for finding strongly connected components, handles disconnected graphs and self-loops
-- built a nginx access log parser that extracts request patterns and identifies slow endpoints
+- built a multithreaded port scanner with banner grabbing — helps me quickly audit my homelab services
+- built a bayesian updater with hypothesis ranking, handles continuous evidence via binning

@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-11 | [Tcp Port Scanner 20260811 111112](projects/tcp_port_scanner.py_20260811_111112.py) | Created a TCP port scanner that uses threading to check common ports and attempts to grab service banners, useful for checking what's running on my local machines. |
+| 2026-08-11 | [Bayesian Belief Updater 20260811 111142](projects/bayesian_belief_updater.py_20260811_111142.py) | Implemented a Bayesian belief network that updates probabilities as evidence comes in — useful for when I need to reason under uncertainty without hardcoding rules. |
 | 2026-08-11 | [Tarjans Scc Finder 20260811 080708](projects/tarjans_scc_finder.py_20260811_080708.py) | Built Tarjan's SCC algorithm from scratch because I wanted to understand how compilers detect circular dependencies in module imports. |
 | 2026-08-11 | [Nginx Log Parser 20260811 080741](projects/nginx_log_parser.py_20260811_080741.py) | Wrote a parser for nginx access logs to analyze traffic patterns, spot slow requests, and generate a quick summary report — helps me debug my hobby projects faster. |
 | 2026-08-11 | [Huffman Text Compressor 20260811 051443](projects/huffman_text_compressor.py_20260811_051443.py) | Built a working Huffman encoder/decoder to see how compression works under the hood — generates variable-length codes based on character frequency. |
