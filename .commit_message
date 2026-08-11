@@ -1,1 +1,1 @@
-implemented extended Euclidean algorithm with modular inverse — handles negative numbers and includes gcd computation
+implemented Huffman coding from scratch with tree visualization, actually compresses text pretty well
