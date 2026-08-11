@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-11 | [Tarjans Scc Finder 20260811 080708](projects/tarjans_scc_finder.py_20260811_080708.py) | Built Tarjan's SCC algorithm from scratch because I wanted to understand how compilers detect circular dependencies in module imports. |
+| 2026-08-11 | [Nginx Log Parser 20260811 080741](projects/nginx_log_parser.py_20260811_080741.py) | Wrote a parser for nginx access logs to analyze traffic patterns, spot slow requests, and generate a quick summary report — helps me debug my hobby projects faster. |
 | 2026-08-11 | [Huffman Text Compressor 20260811 051443](projects/huffman_text_compressor.py_20260811_051443.py) | Built a working Huffman encoder/decoder to see how compression works under the hood — generates variable-length codes based on character frequency. |
 | 2026-08-10 | [Extended Euclidean Algorithm 20260810 182517](projects/extended_euclidean_algorithm.py_20260810_182517.py) | Built an extended Euclidean algorithm tool because I needed modular inverses for some crypto experiments and wanted a clean implementation with full steps tracking. |
 | 2026-08-10 | [Tarjans Scc Finder 20260810 144828](projects/tarjans_scc_finder.py_20260810_144828.py) | Built Tarjan's SCC algorithm because I wanted to understand how compilers detect circular dependencies and optimize code flow analysis. |
