@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a multithreaded port scanner with banner grabbing — helps me quickly audit my homelab services
-- built a bayesian updater with hypothesis ranking, handles continuous evidence via binning
+built a CLI deduplicator that uses SHA256 hashing to find identical files across directories

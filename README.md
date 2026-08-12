@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-12 | [Duplicate File Finder 20260812 054054](projects/duplicate_file_finder.py_20260812_054054.py) | Created a file deduplicator that recursively scans directories and groups duplicate files by content hash — useful for cleaning up my downloads folder that's gotten out of control. |
 | 2026-08-11 | [Tcp Port Scanner 20260811 111112](projects/tcp_port_scanner.py_20260811_111112.py) | Created a TCP port scanner that uses threading to check common ports and attempts to grab service banners, useful for checking what's running on my local machines. |
 | 2026-08-11 | [Bayesian Belief Updater 20260811 111142](projects/bayesian_belief_updater.py_20260811_111142.py) | Implemented a Bayesian belief network that updates probabilities as evidence comes in — useful for when I need to reason under uncertainty without hardcoding rules. |
 | 2026-08-11 | [Tarjans Scc Finder 20260811 080708](projects/tarjans_scc_finder.py_20260811_080708.py) | Built Tarjan's SCC algorithm from scratch because I wanted to understand how compilers detect circular dependencies in module imports. |
