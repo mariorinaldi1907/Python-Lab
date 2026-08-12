@@ -1,1 +1,1 @@
-built a CLI deduplicator that uses SHA256 hashing to find identical files across directories
+built a simple SIR epidemic model with spatial movement, helps visualize how diseases spread through populations
