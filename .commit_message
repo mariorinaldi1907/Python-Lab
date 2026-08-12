@@ -1,1 +1,4 @@
-built a file deduplicator using SHA256 hashes, supports recursive scanning and multiple output formats
+added 2 new scripts
+
+- implemented word ladder solver with BFS, handles missing paths and shows full transformation chain
+- implemented Tarjan's algorithm for finding strongly connected components, handles disconnected graphs and self-loops

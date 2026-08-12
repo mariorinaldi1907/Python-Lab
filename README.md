@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-12 | [Word Ladder Solver 20260812 182740](projects/word_ladder_solver.py_20260812_182740.py) | Built a word ladder puzzle solver that finds the shortest transformation path between two words by changing one letter at a time. |
+| 2026-08-12 | [Tarjans Scc Finder 20260812 182806](projects/tarjans_scc_finder.py_20260812_182806.py) | Built Tarjan's SCC algorithm because I wanted to detect circular dependencies in directed graphs without multiple DFS passes. |
 | 2026-08-12 | [Duplicate File Finder 20260812 144920](projects/duplicate_file_finder.py_20260812_144920.py) | Wrote a CLI tool that finds duplicate files by content hash — useful for cleaning up my messy Downloads folder and project directories. |
 | 2026-08-12 | [Epidemic Spread Simulator 20260812 081236](projects/epidemic_spread_simulator.py_20260812_081236.py) | Implemented a spatial epidemic simulator using the SIR model where agents move randomly and infect nearby susceptibles — wanted to see infection dynamics play out in 2D space. |
 | 2026-08-12 | [Duplicate File Finder 20260812 054054](projects/duplicate_file_finder.py_20260812_054054.py) | Created a file deduplicator that recursively scans directories and groups duplicate files by content hash — useful for cleaning up my downloads folder that's gotten out of control. |
