@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-12 | [Duplicate File Finder 20260812 144920](projects/duplicate_file_finder.py_20260812_144920.py) | Wrote a CLI tool that finds duplicate files by content hash — useful for cleaning up my messy Downloads folder and project directories. |
 | 2026-08-12 | [Epidemic Spread Simulator 20260812 081236](projects/epidemic_spread_simulator.py_20260812_081236.py) | Implemented a spatial epidemic simulator using the SIR model where agents move randomly and infect nearby susceptibles — wanted to see infection dynamics play out in 2D space. |
 | 2026-08-12 | [Duplicate File Finder 20260812 054054](projects/duplicate_file_finder.py_20260812_054054.py) | Created a file deduplicator that recursively scans directories and groups duplicate files by content hash — useful for cleaning up my downloads folder that's gotten out of control. |
 | 2026-08-11 | [Tcp Port Scanner 20260811 111112](projects/tcp_port_scanner.py_20260811_111112.py) | Created a TCP port scanner that uses threading to check common ports and attempts to grab service banners, useful for checking what's running on my local machines. |

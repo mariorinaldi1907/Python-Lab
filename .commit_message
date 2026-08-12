@@ -1,1 +1,1 @@
-built a simple SIR epidemic model with spatial movement, helps visualize how diseases spread through populations
+built a file deduplicator using SHA256 hashes, supports recursive scanning and multiple output formats
