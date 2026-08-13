@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built an LRU cache from scratch using a doubly-linked list and hashmap, actually learned how OrderedDict works under the hood
-- built a recursive descent parser for basic math expressions, handles precedence and parens correctly
+built an LRU cache from scratch using doubly-linked list and hashmap, added some timing comparisons
