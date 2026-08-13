@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a markov chain text generator with configurable order, handles edge cases and generates surprisingly coherent nonsense
-- implemented bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values
+- built a modular arithmetic toolkit with fast exponentiation and extended GCD — been needing this for crypto experiments
+- implemented an LRU cache from scratch using a doubly linked list and hashmap, handles edge cases like capacity changes
