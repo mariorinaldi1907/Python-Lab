@@ -1,1 +1,4 @@
-implemented LRU cache from scratch using doubly linked list and hashmap, feels cleaner than the last version
+added 2 new scripts
+
+- built a markov chain text generator with configurable order, handles edge cases and generates surprisingly coherent nonsense
+- implemented bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values

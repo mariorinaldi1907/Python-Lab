@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-13 | [Markov Text Generator 20260813 144929](projects/markov_text_generator.py_20260813_144929.py) | Created a Markov chain text generator that learns from input text and produces new sequences — wanted to experiment with n-gram modeling and see how different chain orders affect output quality. |
+| 2026-08-13 | [Bayesian Ab Test 20260813 144959](projects/bayesian_ab_test.py_20260813_144959.py) | Built a Bayesian A/B testing tool that uses beta distributions to compare conversion rates and calculate probabilities of superiority — finally something I can use for side project analytics. |
 | 2026-08-13 | [Lru Cache Implementation 20260813 111431](projects/lru_cache_implementation.py_20260813_111431.py) | Built an LRU cache with O(1) get/put operations to finally understand how they actually work under the hood. |
 | 2026-08-13 | [Word Ladder Bfs Solver 20260813 081550](projects/word_ladder_bfs_solver.py_20260813_081550.py) | Implemented a word ladder puzzle solver that uses breadth-first search to find the shortest transformation sequence between two words, with a built-in dictionary and path reconstruction. |
 | 2026-08-13 | [Floyd Warshall All Pairs Shortest Path 20260813 081617](projects/floyd_warshall_all_pairs_shortest_path.py_20260813_081617.py) | Built Floyd-Warshall to find shortest paths between all vertex pairs — wanted to compare it against running Dijkstra repeatedly for a research problem. |
