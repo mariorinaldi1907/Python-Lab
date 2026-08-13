@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-13 | [Word Ladder Bfs Solver 20260813 081550](projects/word_ladder_bfs_solver.py_20260813_081550.py) | Implemented a word ladder puzzle solver that uses breadth-first search to find the shortest transformation sequence between two words, with a built-in dictionary and path reconstruction. |
+| 2026-08-13 | [Floyd Warshall All Pairs Shortest Path 20260813 081617](projects/floyd_warshall_all_pairs_shortest_path.py_20260813_081617.py) | Built Floyd-Warshall to find shortest paths between all vertex pairs — wanted to compare it against running Dijkstra repeatedly for a research problem. |
 | 2026-08-13 | [Lru Cache Implementation 20260813 054347](projects/lru_cache_implementation.py_20260813_054347.py) | Implemented an LRU cache with O(1) get/put operations to really understand how functools.lru_cache works under the hood. |
 | 2026-08-13 | [Lru Cache Implementation 20260813 032733](projects/lru_cache_implementation.py_20260813_032733.py) | Implemented an LRU (Least Recently Used) cache to understand how constant-time eviction actually works — uses a doubly-linked list for ordering and a dict for O(1) lookups. |
 | 2026-08-13 | [Recursive Descent Calc 20260813 032753](projects/recursive_descent_calc.py_20260813_032753.py) | Wrote a simple expression evaluator using recursive descent parsing because I wanted to understand how parsers actually work under the hood. |
