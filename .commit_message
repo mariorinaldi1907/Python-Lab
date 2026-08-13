@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented word ladder solver with BFS, handles missing paths and shows full transformation chain
-- implemented Tarjan's algorithm for finding strongly connected components, handles disconnected graphs and self-loops
+- built an LRU cache from scratch using a doubly-linked list and hashmap, actually learned how OrderedDict works under the hood
+- built a recursive descent parser for basic math expressions, handles precedence and parens correctly

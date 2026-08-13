@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-13 | [Lru Cache Implementation 20260813 032733](projects/lru_cache_implementation.py_20260813_032733.py) | Implemented an LRU (Least Recently Used) cache to understand how constant-time eviction actually works — uses a doubly-linked list for ordering and a dict for O(1) lookups. |
+| 2026-08-13 | [Recursive Descent Calc 20260813 032753](projects/recursive_descent_calc.py_20260813_032753.py) | Wrote a simple expression evaluator using recursive descent parsing because I wanted to understand how parsers actually work under the hood. |
 | 2026-08-12 | [Word Ladder Solver 20260812 182740](projects/word_ladder_solver.py_20260812_182740.py) | Built a word ladder puzzle solver that finds the shortest transformation path between two words by changing one letter at a time. |
 | 2026-08-12 | [Tarjans Scc Finder 20260812 182806](projects/tarjans_scc_finder.py_20260812_182806.py) | Built Tarjan's SCC algorithm because I wanted to detect circular dependencies in directed graphs without multiple DFS passes. |
 | 2026-08-12 | [Duplicate File Finder 20260812 144920](projects/duplicate_file_finder.py_20260812_144920.py) | Wrote a CLI tool that finds duplicate files by content hash — useful for cleaning up my messy Downloads folder and project directories. |
