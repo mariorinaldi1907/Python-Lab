@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-14 | [Convex Hull Graham Scan 20260814 081035](projects/convex_hull_graham_scan.py_20260814_081035.py) | Built a convex hull algorithm using Graham scan because I needed to find boundaries of point clouds for a visualization project I'm tinkering with. |
 | 2026-08-13 | [Modular Arithmetic Toolkit 20260813 182845](projects/modular_arithmetic_toolkit.py_20260813_182845.py) | Created a collection of number theory utilities for modular arithmetic operations that I keep reusing in various projects, especially when messing around with RSA and discrete log problems. |
 | 2026-08-13 | [Lru Cache Implementation 20260813 182909](projects/lru_cache_implementation.py_20260813_182909.py) | Built a proper LRU cache with O(1) get/put operations to really understand how caching eviction policies work under the hood. |
 | 2026-08-13 | [Markov Text Generator 20260813 144929](projects/markov_text_generator.py_20260813_144929.py) | Created a Markov chain text generator that learns from input text and produces new sequences — wanted to experiment with n-gram modeling and see how different chain orders affect output quality. |
