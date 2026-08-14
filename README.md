@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-14 | [Naive Bayes From Scratch 20260814 144334](projects/naive_bayes_from_scratch.py_20260814_144334.py) | Implemented a Gaussian Naive Bayes classifier without any ML libraries to really understand how probability-based classification works under the hood. |
 | 2026-08-14 | [Nginx Log Parser 20260814 111244](projects/nginx_log_parser.py_20260814_111244.py) | Made a parser for nginx access logs that extracts request info, aggregates stats by status code and endpoint, and flags suspicious patterns like excessive 404s or slow responses. |
 | 2026-08-14 | [Naive Bayes Classifier 20260814 111311](projects/naive_bayes_classifier.py_20260814_111311.py) | Built a multinomial naive bayes classifier to understand probabilistic classification better — handles text data and includes smoothing to avoid zero probabilities. |
 | 2026-08-14 | [Convex Hull Graham Scan 20260814 081035](projects/convex_hull_graham_scan.py_20260814_081035.py) | Built a convex hull algorithm using Graham scan because I needed to find boundaries of point clouds for a visualization project I'm tinkering with. |
