@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-14 | [Nginx Log Parser 20260814 111244](projects/nginx_log_parser.py_20260814_111244.py) | Made a parser for nginx access logs that extracts request info, aggregates stats by status code and endpoint, and flags suspicious patterns like excessive 404s or slow responses. |
+| 2026-08-14 | [Naive Bayes Classifier 20260814 111311](projects/naive_bayes_classifier.py_20260814_111311.py) | Built a multinomial naive bayes classifier to understand probabilistic classification better — handles text data and includes smoothing to avoid zero probabilities. |
 | 2026-08-14 | [Convex Hull Graham Scan 20260814 081035](projects/convex_hull_graham_scan.py_20260814_081035.py) | Built a convex hull algorithm using Graham scan because I needed to find boundaries of point clouds for a visualization project I'm tinkering with. |
 | 2026-08-13 | [Modular Arithmetic Toolkit 20260813 182845](projects/modular_arithmetic_toolkit.py_20260813_182845.py) | Created a collection of number theory utilities for modular arithmetic operations that I keep reusing in various projects, especially when messing around with RSA and discrete log problems. |
 | 2026-08-13 | [Lru Cache Implementation 20260813 182909](projects/lru_cache_implementation.py_20260813_182909.py) | Built a proper LRU cache with O(1) get/put operations to really understand how caching eviction policies work under the hood. |

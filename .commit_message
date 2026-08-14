@@ -1,1 +1,4 @@
-implemented Graham scan for convex hull, handles collinear points and degenerate cases
+added 2 new scripts
+
+- built an nginx access log parser that breaks down traffic patterns and spots potential issues
+- implemented naive bayes from scratch with laplace smoothing, actually works pretty well on text classification
