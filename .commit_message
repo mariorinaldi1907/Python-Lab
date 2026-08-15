@@ -1,1 +1,1 @@
-built a run-length encoder with compression stats, handles edge cases like single chars and empty strings
+built a bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values
