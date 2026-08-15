@@ -1,1 +1,1 @@
-built a threaded port scanner that actually feels fast, added banner grabbing because why not
+built a modular arithmetic toolkit with fast exponentiation, inverses, and CRT solver

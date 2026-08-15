@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-15 | [Modular Arithmetic Toolkit 20260815 072602](projects/modular_arithmetic_toolkit.py_20260815_072602.py) | Implemented common number theory operations I always end up needing — modular exponentiation, inverse calculation, and Chinese Remainder Theorem solver. |
 | 2026-08-15 | [Async Port Scanner 20260815 021431](projects/async_port_scanner.py_20260815_021431.py) | Wrote a concurrent port scanner with banner grabbing to check what services are running on open ports — helpful for my homelab debugging. |
 | 2026-08-14 | [Bayesian Ab Test 20260814 182621](projects/bayesian_ab_test.py_20260814_182621.py) | Implemented a Bayesian A/B testing framework using beta distributions to calculate probabilities of one variant being better than another — handles conversion rate experiments with proper credible intervals. |
 | 2026-08-14 | [Naive Bayes From Scratch 20260814 144334](projects/naive_bayes_from_scratch.py_20260814_144334.py) | Implemented a Gaussian Naive Bayes classifier without any ML libraries to really understand how probability-based classification works under the hood. |
