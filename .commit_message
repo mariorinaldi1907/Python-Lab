@@ -1,1 +1,1 @@
-built a Bayesian A/B test evaluator with beta distributions, way better than frequentist p-values for small sample sizes
+built a threaded port scanner that actually feels fast, added banner grabbing because why not
