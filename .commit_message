@@ -1,1 +1,1 @@
-built a modular arithmetic toolkit with fast exponentiation, inverses, and CRT solver
+built a run-length encoder with compression stats, handles edge cases like single chars and empty strings

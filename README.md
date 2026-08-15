@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-15 | [Run Length Encoder 20260815 104448](projects/run_length_encoder.py_20260815_104448.py) | Implemented run-length encoding to compress repetitive sequences — included both encoding and decoding with visual compression ratio feedback. |
 | 2026-08-15 | [Modular Arithmetic Toolkit 20260815 072602](projects/modular_arithmetic_toolkit.py_20260815_072602.py) | Implemented common number theory operations I always end up needing — modular exponentiation, inverse calculation, and Chinese Remainder Theorem solver. |
 | 2026-08-15 | [Async Port Scanner 20260815 021431](projects/async_port_scanner.py_20260815_021431.py) | Wrote a concurrent port scanner with banner grabbing to check what services are running on open ports — helpful for my homelab debugging. |
 | 2026-08-14 | [Bayesian Ab Test 20260814 182621](projects/bayesian_ab_test.py_20260814_182621.py) | Implemented a Bayesian A/B testing framework using beta distributions to calculate probabilities of one variant being better than another — handles conversion rate experiments with proper credible intervals. |
