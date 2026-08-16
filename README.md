@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-16 | [Duplicate File Finder 20260816 104534](projects/duplicate_file_finder.py_20260816_104534.py) | Made a tool to clean up my messy downloads folder by finding duplicate files across directories using content hashing instead of just filenames. |
 | 2026-08-16 | [Convex Hull Graham Scan 20260816 044101](projects/convex_hull_graham_scan.py_20260816_044101.py) | Built a convex hull finder using Graham scan because I wanted to visualize the smallest boundary around point clouds without any heavy dependencies. |
 | 2026-08-15 | [Bayesian Ab Test Analyzer 20260815 174851](projects/bayesian_ab_test_analyzer.py_20260815_174851.py) | Implemented a Bayesian A/B testing tool using beta distributions to calculate posterior probabilities and credible intervals — finally ditching p-value madness for something interpretable. |
 | 2026-08-15 | [Bayesian Ab Testing 20260815 141019](projects/bayesian_ab_testing.py_20260815_141019.py) | Implemented a Bayesian A/B testing framework using conjugate priors to compare conversion rates and calculate probability of superiority — handles real-world testing scenarios without p-value headaches. |

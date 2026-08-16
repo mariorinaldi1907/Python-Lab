@@ -1,1 +1,1 @@
-implemented Graham scan for convex hulls, actually works on my test points
+built a CLI deduplicator that finds identical files using SHA256 hashing, handles large files in chunks
