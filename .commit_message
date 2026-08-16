@@ -1,1 +1,1 @@
-built a bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values
+implemented Graham scan for convex hulls, actually works on my test points

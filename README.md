@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-16 | [Convex Hull Graham Scan 20260816 044101](projects/convex_hull_graham_scan.py_20260816_044101.py) | Built a convex hull finder using Graham scan because I wanted to visualize the smallest boundary around point clouds without any heavy dependencies. |
 | 2026-08-15 | [Bayesian Ab Test Analyzer 20260815 174851](projects/bayesian_ab_test_analyzer.py_20260815_174851.py) | Implemented a Bayesian A/B testing tool using beta distributions to calculate posterior probabilities and credible intervals — finally ditching p-value madness for something interpretable. |
 | 2026-08-15 | [Bayesian Ab Testing 20260815 141019](projects/bayesian_ab_testing.py_20260815_141019.py) | Implemented a Bayesian A/B testing framework using conjugate priors to compare conversion rates and calculate probability of superiority — handles real-world testing scenarios without p-value headaches. |
 | 2026-08-15 | [Run Length Encoder 20260815 104448](projects/run_length_encoder.py_20260815_104448.py) | Implemented run-length encoding to compress repetitive sequences — included both encoding and decoding with visual compression ratio feedback. |
