@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-16 | [Tcp Port Scanner 20260816 174745](projects/tcp_port_scanner.py_20260816_174745.py) | Created a port scanner that uses threading to check multiple ports simultaneously and attempts to grab service banners for identification. |
 | 2026-08-16 | [Async Port Scanner 20260816 141133](projects/async_port_scanner.py_20260816_141133.py) | Created a multi-threaded port scanner that can check ranges of ports on a target host, with timeout handling and service name resolution for common ports. |
 | 2026-08-16 | [Duplicate File Finder 20260816 104534](projects/duplicate_file_finder.py_20260816_104534.py) | Made a tool to clean up my messy downloads folder by finding duplicate files across directories using content hashing instead of just filenames. |
 | 2026-08-16 | [Convex Hull Graham Scan 20260816 044101](projects/convex_hull_graham_scan.py_20260816_044101.py) | Built a convex hull finder using Graham scan because I wanted to visualize the smallest boundary around point clouds without any heavy dependencies. |

@@ -1,1 +1,1 @@
-built a concurrent port scanner with threading, learned a lot about socket timeouts and common service ports
+built a multithreaded TCP port scanner with banner grabbing — scans common ports way faster than sequential
