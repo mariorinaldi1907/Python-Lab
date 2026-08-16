@@ -1,1 +1,1 @@
-built a CLI deduplicator that finds identical files using SHA256 hashing, handles large files in chunks
+built a concurrent port scanner with threading, learned a lot about socket timeouts and common service ports
