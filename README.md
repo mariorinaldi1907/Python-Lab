@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-17 | [Forest Fire Simulation 20260817 074728](projects/forest_fire_simulation.py_20260817_074728.py) | Simulated how fires spread through a grid-based forest using simple probabilistic rules — trees grow, lightning strikes, and fires propagate to neighbors. |
+| 2026-08-17 | [Modular Arithmetic Toolkit 20260817 074806](projects/modular_arithmetic_toolkit.py_20260817_074806.py) | Implemented core number theory primitives I always end up needing for cryptography experiments and competitive programming — includes modular inverse, Chinese remainder theorem, and some primality testing. |
 | 2026-08-17 | [Kmp String Matcher 20260817 022035](projects/kmp_string_matcher.py_20260817_022035.py) | Built a clean KMP pattern matching algorithm because I got tired of explaining how the failure function works without code to show. |
 | 2026-08-17 | [Number Theory Toolkit 20260817 022105](projects/number_theory_toolkit.py_20260817_022105.py) | Implemented core number theory operations I got tired of Googling every time I need them for competitive programming or crypto stuff. |
 | 2026-08-16 | [Tcp Port Scanner 20260816 174745](projects/tcp_port_scanner.py_20260816_174745.py) | Created a port scanner that uses threading to check multiple ports simultaneously and attempts to grab service banners for identification. |
