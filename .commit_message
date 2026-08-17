@@ -1,1 +1,4 @@
-built a multithreaded TCP port scanner with banner grabbing — scans common ports way faster than sequential
+added 2 new scripts
+
+- implemented KMP string search with proper prefix table construction, way faster than naive approach for repeated patterns
+- built a number theory toolkit with prime sieve, modular exponentiation, and GCD — just the essentials I always end up rewriting

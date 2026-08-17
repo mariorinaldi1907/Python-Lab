@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-17 | [Kmp String Matcher 20260817 022035](projects/kmp_string_matcher.py_20260817_022035.py) | Built a clean KMP pattern matching algorithm because I got tired of explaining how the failure function works without code to show. |
+| 2026-08-17 | [Number Theory Toolkit 20260817 022105](projects/number_theory_toolkit.py_20260817_022105.py) | Implemented core number theory operations I got tired of Googling every time I need them for competitive programming or crypto stuff. |
 | 2026-08-16 | [Tcp Port Scanner 20260816 174745](projects/tcp_port_scanner.py_20260816_174745.py) | Created a port scanner that uses threading to check multiple ports simultaneously and attempts to grab service banners for identification. |
 | 2026-08-16 | [Async Port Scanner 20260816 141133](projects/async_port_scanner.py_20260816_141133.py) | Created a multi-threaded port scanner that can check ranges of ports on a target host, with timeout handling and service name resolution for common ports. |
 | 2026-08-16 | [Duplicate File Finder 20260816 104534](projects/duplicate_file_finder.py_20260816_104534.py) | Made a tool to clean up my messy downloads folder by finding duplicate files across directories using content hashing instead of just filenames. |
