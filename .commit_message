@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a forest fire cellular automaton because I was curious about percolation dynamics
-- built a modular arithmetic toolkit with fast exponentiation, extended euclidean algorithm, and CRT solver
+- implemented strategy pattern for text processing with multiple algorithms, feels clean and extensible
+- built a simple SIR epidemic model with spatial movement - outputs infection waves and recovery stats

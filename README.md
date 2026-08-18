@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-18 | [Text Processing Strategy 20260818 021639](projects/text_processing_strategy.py_20260818_021639.py) | Built a text processor using the strategy pattern to swap between different text transformation algorithms at runtime — makes it easy to add new processing methods without changing existing code. |
+| 2026-08-18 | [Epidemic Spread Simulator 20260818 021705](projects/epidemic_spread_simulator.py_20260818_021705.py) | Simulated disease spread on a 2D grid where agents move randomly and infect neighbors, tracking susceptible/infected/recovered over time. |
 | 2026-08-17 | [Forest Fire Simulation 20260817 074728](projects/forest_fire_simulation.py_20260817_074728.py) | Simulated how fires spread through a grid-based forest using simple probabilistic rules — trees grow, lightning strikes, and fires propagate to neighbors. |
 | 2026-08-17 | [Modular Arithmetic Toolkit 20260817 074806](projects/modular_arithmetic_toolkit.py_20260817_074806.py) | Implemented core number theory primitives I always end up needing for cryptography experiments and competitive programming — includes modular inverse, Chinese remainder theorem, and some primality testing. |
 | 2026-08-17 | [Kmp String Matcher 20260817 022035](projects/kmp_string_matcher.py_20260817_022035.py) | Built a clean KMP pattern matching algorithm because I got tired of explaining how the failure function works without code to show. |
