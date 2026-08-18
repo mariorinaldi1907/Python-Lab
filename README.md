@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-18 | [Simple Expression Evaluator 20260818 142017](projects/simple_expression_evaluator.py_20260818_142017.py) | Wrote an expression evaluator that parses and computes arithmetic with proper operator precedence using recursive descent — way cleaner than RPN for this use case. |
+| 2026-08-18 | [Modular Arithmetic Toolkit 20260818 142046](projects/modular_arithmetic_toolkit.py_20260818_142046.py) | Created a collection of modular arithmetic utilities I always end up rewriting — includes fast modular exponentiation, extended GCD, and Chinese Remainder Theorem solver. |
 | 2026-08-18 | [Nginx Log Parser 20260818 105252](projects/nginx_log_parser.py_20260818_105252.py) | Created a parser for nginx access logs because I got tired of grepping through massive log files manually — it aggregates requests by status code, IP, and calculates total bandwidth. |
 | 2026-08-18 | [Huffman Text Compressor 20260818 073315](projects/huffman_text_compressor.py_20260818_073315.py) | Implemented Huffman coding to compress text files — encodes character frequencies into variable-length bit patterns and can decode back to original. |
 | 2026-08-18 | [Huffman Text Compressor 20260818 044035](projects/huffman_text_compressor.py_20260818_044035.py) | Built a Huffman encoder/decoder to compress text files — wanted to see actual compression ratios on real data. |

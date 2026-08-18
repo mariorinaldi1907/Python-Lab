@@ -1,1 +1,4 @@
-built an nginx log parser that handles common and combined formats, extracts useful metrics like status codes and bandwidth
+added 2 new scripts
+
+- built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly
+- built a modular arithmetic toolkit with fast exponentiation, modular inverse, and CRT solver
