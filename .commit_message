@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly
-- built a modular arithmetic toolkit with fast exponentiation, modular inverse, and CRT solver
+built a multithreaded TCP port scanner with timeout control and service detection
