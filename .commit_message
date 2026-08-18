@@ -1,1 +1,1 @@
-built a huffman encoder/decoder from scratch, handles arbitrary text and shows compression stats
+built an nginx log parser that handles common and combined formats, extracts useful metrics like status codes and bandwidth
