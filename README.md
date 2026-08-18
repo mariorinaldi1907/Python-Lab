@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-18 | [Huffman Text Compressor 20260818 073315](projects/huffman_text_compressor.py_20260818_073315.py) | Implemented Huffman coding to compress text files — encodes character frequencies into variable-length bit patterns and can decode back to original. |
 | 2026-08-18 | [Huffman Text Compressor 20260818 044035](projects/huffman_text_compressor.py_20260818_044035.py) | Built a Huffman encoder/decoder to compress text files — wanted to see actual compression ratios on real data. |
 | 2026-08-18 | [Text Processing Strategy 20260818 021639](projects/text_processing_strategy.py_20260818_021639.py) | Built a text processor using the strategy pattern to swap between different text transformation algorithms at runtime — makes it easy to add new processing methods without changing existing code. |
 | 2026-08-18 | [Epidemic Spread Simulator 20260818 021705](projects/epidemic_spread_simulator.py_20260818_021705.py) | Simulated disease spread on a 2D grid where agents move randomly and infect neighbors, tracking susceptible/infected/recovered over time. |

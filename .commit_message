@@ -1,1 +1,1 @@
-implemented Huffman coding from scratch with encoding/decoding and bit-level compression stats
+built a huffman encoder/decoder from scratch, handles arbitrary text and shows compression stats
