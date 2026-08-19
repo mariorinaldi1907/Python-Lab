@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built an LRU cache from scratch using a doubly linked list and hashmap — wanted to understand how @lru_cache actually works under the hood
-- built a lightweight JSON schema validator that handles nested objects and arrays without external deps
+implemented command pattern for text editor with undo/redo — handles insert, delete, and replace operations

@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-19 | [Command Pattern Undo Redo Editor 20260819 175154](projects/command_pattern_undo_redo_editor.py_20260819_175154.py) | Built a command pattern implementation for a simple text editor that supports full undo/redo functionality using a stack-based history. |
 | 2026-08-19 | [Lru Cache Implementation 20260819 142117](projects/lru_cache_implementation.py_20260819_142117.py) | Implemented a proper LRU cache with O(1) get/put operations using a doubly linked list and dictionary, because I was curious how eviction policies actually work in practice. |
 | 2026-08-19 | [Json Schema Validator 20260819 142145](projects/json_schema_validator.py_20260819_142145.py) | Created a pure-Python JSON schema validator because I wanted to validate config files without pulling in jsonschema as a dependency. |
 | 2026-08-19 | [Command Pattern Text Editor 20260819 105210](projects/command_pattern_text_editor.py_20260819_105210.py) | Built a text editor using the command pattern to handle operations like insert, delete, and replace with full undo/redo functionality — actually pretty satisfying to see it work. |
