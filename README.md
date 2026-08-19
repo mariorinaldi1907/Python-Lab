@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-19 | [Huffman Compression 20260819 021905](projects/huffman_compression.py_20260819_021905.py) | Implemented Huffman coding for text compression with a priority queue-based tree builder — actually compresses strings into binary and decodes them back. |
 | 2026-08-18 | [Tcp Port Scanner 20260818 175550](projects/tcp_port_scanner.py_20260818_175550.py) | Made a port scanner that checks common ports across a range, identifies services when possible, and uses threading to speed things up without hammering the network too hard. |
 | 2026-08-18 | [Simple Expression Evaluator 20260818 142017](projects/simple_expression_evaluator.py_20260818_142017.py) | Wrote an expression evaluator that parses and computes arithmetic with proper operator precedence using recursive descent — way cleaner than RPN for this use case. |
 | 2026-08-18 | [Modular Arithmetic Toolkit 20260818 142046](projects/modular_arithmetic_toolkit.py_20260818_142046.py) | Created a collection of modular arithmetic utilities I always end up rewriting — includes fast modular exponentiation, extended GCD, and Chinese Remainder Theorem solver. |
