@@ -1,1 +1,1 @@
-implemented an LRU cache from scratch using hashmap + doubly linked list, been wanting to understand how functools.lru_cache actually works under the hood
+implemented command pattern for a simple text editor with undo/redo support
