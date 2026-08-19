@@ -1,1 +1,4 @@
-implemented command pattern for a simple text editor with undo/redo support
+added 2 new scripts
+
+- built an LRU cache from scratch using a doubly linked list and hashmap — wanted to understand how @lru_cache actually works under the hood
+- built a lightweight JSON schema validator that handles nested objects and arrays without external deps

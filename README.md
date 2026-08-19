@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-19 | [Lru Cache Implementation 20260819 142117](projects/lru_cache_implementation.py_20260819_142117.py) | Implemented a proper LRU cache with O(1) get/put operations using a doubly linked list and dictionary, because I was curious how eviction policies actually work in practice. |
+| 2026-08-19 | [Json Schema Validator 20260819 142145](projects/json_schema_validator.py_20260819_142145.py) | Created a pure-Python JSON schema validator because I wanted to validate config files without pulling in jsonschema as a dependency. |
 | 2026-08-19 | [Command Pattern Text Editor 20260819 105210](projects/command_pattern_text_editor.py_20260819_105210.py) | Built a text editor using the command pattern to handle operations like insert, delete, and replace with full undo/redo functionality — actually pretty satisfying to see it work. |
 | 2026-08-19 | [Lru Cache Implementation 20260819 073314](projects/lru_cache_implementation.py_20260819_073314.py) | Built a proper LRU cache with O(1) get/put operations to finally understand the data structure behind Python's caching decorator. |
 | 2026-08-19 | [Huffman Compression 20260819 021905](projects/huffman_compression.py_20260819_021905.py) | Implemented Huffman coding for text compression with a priority queue-based tree builder — actually compresses strings into binary and decodes them back. |
