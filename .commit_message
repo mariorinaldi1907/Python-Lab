@@ -1,1 +1,1 @@
-built huffman encoder/decoder from scratch, handles frequency analysis and tree building
+implemented an LRU cache from scratch using hashmap + doubly linked list, been wanting to understand how functools.lru_cache actually works under the hood
