@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-20 | [Lru Cache Implementation 20260820 142326](projects/lru_cache_implementation.py_20260820_142326.py) | Implemented a least-recently-used cache to practice eviction policies — tracks access patterns and includes stats for hit rate analysis. |
 | 2026-08-20 | [Forest Fire Simulation 20260820 073652](projects/forest_fire_simulation.py_20260820_073652.py) | Simulated forest fire spread across a grid with trees that catch fire from neighbors, burn out, and slowly regrow over time. |
 | 2026-08-19 | [Command Pattern Undo Redo Editor 20260819 175154](projects/command_pattern_undo_redo_editor.py_20260819_175154.py) | Built a command pattern implementation for a simple text editor that supports full undo/redo functionality using a stack-based history. |
 | 2026-08-19 | [Lru Cache Implementation 20260819 142117](projects/lru_cache_implementation.py_20260819_142117.py) | Implemented a proper LRU cache with O(1) get/put operations using a doubly linked list and dictionary, because I was curious how eviction policies actually work in practice. |

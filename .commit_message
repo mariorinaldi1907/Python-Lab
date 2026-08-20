@@ -1,1 +1,1 @@
-built a forest fire cellular automaton with propagation and regrowth — watched some neat emergent patterns
+built an LRU cache from scratch using OrderedDict, supports capacity limits and tracks hits/misses
