@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-21 | [Naive Bayes Classifier 20260821 022404](projects/naive_bayes_classifier.py_20260821_022404.py) | Implemented a Gaussian Naive Bayes classifier to finally understand how probabilistic classification actually works under the hood. |
+| 2026-08-21 | [Huffman Text Compressor 20260821 022428](projects/huffman_text_compressor.py_20260821_022428.py) | Built a Huffman encoder/decoder to see how compression really works under the hood — handles arbitrary text and shows compression ratio. |
 | 2026-08-20 | [Lru Cache Implementation 20260820 142326](projects/lru_cache_implementation.py_20260820_142326.py) | Implemented a least-recently-used cache to practice eviction policies — tracks access patterns and includes stats for hit rate analysis. |
 | 2026-08-20 | [Forest Fire Simulation 20260820 073652](projects/forest_fire_simulation.py_20260820_073652.py) | Simulated forest fire spread across a grid with trees that catch fire from neighbors, burn out, and slowly regrow over time. |
 | 2026-08-19 | [Command Pattern Undo Redo Editor 20260819 175154](projects/command_pattern_undo_redo_editor.py_20260819_175154.py) | Built a command pattern implementation for a simple text editor that supports full undo/redo functionality using a stack-based history. |

@@ -1,1 +1,4 @@
-built an LRU cache from scratch using OrderedDict, supports capacity limits and tracks hits/misses
+added 2 new scripts
+
+- built a naive bayes classifier from scratch using laplace smoothing, surprisingly clean with just dicts
+- implemented huffman coding from scratch, actually compresses text pretty well
