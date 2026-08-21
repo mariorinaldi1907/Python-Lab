@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-21 | [Huffman Text Compressor 20260821 142214](projects/huffman_text_compressor.py_20260821_142214.py) | Implemented Huffman coding with a priority queue to compress text — wanted to see the algorithm work end-to-end with real compression stats. |
 | 2026-08-21 | [Modular Arithmetic Toolkit 20260821 105527](projects/modular_arithmetic_toolkit.py_20260821_105527.py) | Created a collection of modular arithmetic utilities I keep needing for Project Euler and advent of code problems, especially the Chinese Remainder Theorem solver. |
 | 2026-08-21 | [Simple Expression Evaluator 20260821 044409](projects/simple_expression_evaluator.py_20260821_044409.py) | Wrote an expression evaluator that parses and evaluates arithmetic with proper operator precedence — wanted to understand how parsers actually work under the hood. |
 | 2026-08-21 | [Naive Bayes Classifier 20260821 022404](projects/naive_bayes_classifier.py_20260821_022404.py) | Implemented a Gaussian Naive Bayes classifier to finally understand how probabilistic classification actually works under the hood. |
