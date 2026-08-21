@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a naive bayes classifier from scratch using laplace smoothing, surprisingly clean with just dicts
-- implemented huffman coding from scratch, actually compresses text pretty well
+built a recursive descent parser for basic arithmetic expressions, handles precedence and parentheses correctly
