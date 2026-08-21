@@ -1,1 +1,1 @@
-built a recursive descent parser for basic arithmetic expressions, handles precedence and parentheses correctly
+built modular arithmetic toolkit with fast exponentiation, CRT solver, and multiplicative inverse — super useful for competitive programming and crypto stuff
