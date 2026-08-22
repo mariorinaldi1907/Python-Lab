@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a Bayesian A/B test analyzer with beta distributions, wanted something better than just p-values for conversion experiments
-- built an nginx access log parser that groups requests by endpoint and calculates percentile response times
+- built a bayesian A/B test analyzer because i got tired of p-value arguments at work
+- built a quick subnet scanner to find active hosts on my local network, using ICMP echo and TCP port probes

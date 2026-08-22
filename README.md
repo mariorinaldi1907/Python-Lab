@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-22 | [Bayesian Ab Tester 20260822 043827](projects/bayesian_ab_tester.py_20260822_043827.py) | Implemented a Bayesian A/B testing tool with Beta distributions to get actual probabilities instead of confusing p-values — includes credible intervals and probability of superiority. |
+| 2026-08-22 | [Subnet Scanner 20260822 043855](projects/subnet_scanner.py_20260822_043855.py) | Created a network scanner that pings hosts in a subnet and optionally checks common ports to see what's actually alive on my home network. |
 | 2026-08-22 | [Bayesian Ab Test Analyzer 20260822 021621](projects/bayesian_ab_test_analyzer.py_20260822_021621.py) | Implemented a Bayesian A/B testing framework using conjugate priors to get actual probability distributions over conversion rates instead of just binary reject/accept decisions. |
 | 2026-08-22 | [Nginx Log Parser 20260822 021650](projects/nginx_log_parser.py_20260822_021650.py) | Wrote a parser for nginx/apache-style access logs that extracts request patterns, computes response time statistics, and identifies slow endpoints — helps me debug my side projects. |
 | 2026-08-21 | [Huffman Text Compressor 20260821 142214](projects/huffman_text_compressor.py_20260821_142214.py) | Implemented Huffman coding with a priority queue to compress text — wanted to see the algorithm work end-to-end with real compression stats. |
