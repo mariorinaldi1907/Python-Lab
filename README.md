@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-22 | [Bayesian Ab Test Analyzer 20260822 021621](projects/bayesian_ab_test_analyzer.py_20260822_021621.py) | Implemented a Bayesian A/B testing framework using conjugate priors to get actual probability distributions over conversion rates instead of just binary reject/accept decisions. |
+| 2026-08-22 | [Nginx Log Parser 20260822 021650](projects/nginx_log_parser.py_20260822_021650.py) | Wrote a parser for nginx/apache-style access logs that extracts request patterns, computes response time statistics, and identifies slow endpoints — helps me debug my side projects. |
 | 2026-08-21 | [Huffman Text Compressor 20260821 142214](projects/huffman_text_compressor.py_20260821_142214.py) | Implemented Huffman coding with a priority queue to compress text — wanted to see the algorithm work end-to-end with real compression stats. |
 | 2026-08-21 | [Modular Arithmetic Toolkit 20260821 105527](projects/modular_arithmetic_toolkit.py_20260821_105527.py) | Created a collection of modular arithmetic utilities I keep needing for Project Euler and advent of code problems, especially the Chinese Remainder Theorem solver. |
 | 2026-08-21 | [Simple Expression Evaluator 20260821 044409](projects/simple_expression_evaluator.py_20260821_044409.py) | Wrote an expression evaluator that parses and evaluates arithmetic with proper operator precedence — wanted to understand how parsers actually work under the hood. |

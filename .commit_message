@@ -1,1 +1,4 @@
-built a Huffman encoder/decoder from scratch, was curious how compression ratios compare on different text types
+added 2 new scripts
+
+- built a Bayesian A/B test analyzer with beta distributions, wanted something better than just p-values for conversion experiments
+- built an nginx access log parser that groups requests by endpoint and calculates percentile response times
