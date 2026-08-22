@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-22 | [Wordfreq Cli 20260822 140937](projects/wordfreq_cli.py_20260822_140937.py) | Created a command-line tool to analyze text files and show word frequencies, with options to filter common words and sort by count or alphabetically. |
+| 2026-08-22 | [K Means Clustering From Scratch 20260822 141004](projects/k_means_clustering_from_scratch.py_20260822_141004.py) | Built k-means clustering from scratch to understand how centroid-based clustering actually works under the hood — no sklearn needed. |
 | 2026-08-22 | [Convex Hull Gift Wrapping 20260822 104623](projects/convex_hull_gift_wrapping.py_20260822_104623.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to visualize point clouds and needed something intuitive to debug. |
 | 2026-08-22 | [Nginx Log Parser 20260822 104653](projects/nginx_log_parser.py_20260822_104653.py) | Created a parser for nginx access logs that breaks down traffic patterns, identifies problematic requests, and shows me who's hitting my server the hardest. |
 | 2026-08-22 | [Word Frequency Analyzer 20260822 072641](projects/word_frequency_analyzer.py_20260822_072641.py) | Made a command-line tool to analyze text files and find the most common words, with customizable filters because I got tired of counting manually in log files. |
