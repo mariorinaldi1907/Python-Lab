@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a word frequency analyzer CLI with sorting options and stopword filtering
-- implemented k-means clustering with random initialization and euclidean distance, prints cluster assignments and convergence info
+implemented ray casting algorithm for point-in-polygon tests, handles edge cases and complex polygons

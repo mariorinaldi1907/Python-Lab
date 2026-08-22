@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-22 | [Point In Polygon Ray Casting 20260822 174917](projects/point_in_polygon_ray_casting.py_20260822_174917.py) | Built a point-in-polygon detector using ray casting because I needed to check if coordinates fall inside arbitrary shapes without pulling in shapely or numpy. |
 | 2026-08-22 | [Wordfreq Cli 20260822 140937](projects/wordfreq_cli.py_20260822_140937.py) | Created a command-line tool to analyze text files and show word frequencies, with options to filter common words and sort by count or alphabetically. |
 | 2026-08-22 | [K Means Clustering From Scratch 20260822 141004](projects/k_means_clustering_from_scratch.py_20260822_141004.py) | Built k-means clustering from scratch to understand how centroid-based clustering actually works under the hood — no sklearn needed. |
 | 2026-08-22 | [Convex Hull Gift Wrapping 20260822 104623](projects/convex_hull_gift_wrapping.py_20260822_104623.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to visualize point clouds and needed something intuitive to debug. |
