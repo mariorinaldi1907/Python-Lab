@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-22 | [Word Frequency Analyzer 20260822 072641](projects/word_frequency_analyzer.py_20260822_072641.py) | Made a command-line tool to analyze text files and find the most common words, with customizable filters because I got tired of counting manually in log files. |
 | 2026-08-22 | [Bayesian Ab Tester 20260822 043827](projects/bayesian_ab_tester.py_20260822_043827.py) | Implemented a Bayesian A/B testing tool with Beta distributions to get actual probabilities instead of confusing p-values — includes credible intervals and probability of superiority. |
 | 2026-08-22 | [Subnet Scanner 20260822 043855](projects/subnet_scanner.py_20260822_043855.py) | Created a network scanner that pings hosts in a subnet and optionally checks common ports to see what's actually alive on my home network. |
 | 2026-08-22 | [Bayesian Ab Test Analyzer 20260822 021621](projects/bayesian_ab_test_analyzer.py_20260822_021621.py) | Implemented a Bayesian A/B testing framework using conjugate priors to get actual probability distributions over conversion rates instead of just binary reject/accept decisions. |

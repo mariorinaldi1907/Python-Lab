@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a bayesian A/B test analyzer because i got tired of p-value arguments at work
-- built a quick subnet scanner to find active hosts on my local network, using ICMP echo and TCP port probes
+built a CLI word frequency analyzer with sorting options and stopword filtering
