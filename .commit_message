@@ -1,1 +1,4 @@
-built a CLI word frequency analyzer with sorting options and stopword filtering
+added 2 new scripts
+
+- implemented gift wrapping algo for convex hulls, handles collinear points and edge cases
+- built an nginx access log parser that extracts insights like top IPs, status code distributions, and request patterns
