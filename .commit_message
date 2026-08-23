@@ -1,1 +1,4 @@
-implemented an LRU cache with O(1) operations using a hashmap + doubly linked list
+added 2 new scripts
+
+- implemented Huffman coding from scratch, encodes/decodes text with decent compression ratios
+- built a multithreaded TCP port scanner with timeout handling and banner grabbing
