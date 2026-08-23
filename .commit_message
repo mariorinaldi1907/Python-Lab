@@ -1,1 +1,1 @@
-built a Bayesian A/B testing module with beta distributions, way cleaner than frequentist p-values
+built a concurrent port scanner with threading, shows open services on any host
