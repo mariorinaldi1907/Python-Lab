@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-23 | [Bayesian Ab Testing 20260823 044233](projects/bayesian_ab_testing.py_20260823_044233.py) | Implemented Bayesian A/B testing with beta-binomial conjugate priors because I wanted a more intuitive way to compare conversion rates than classical hypothesis testing. |
 | 2026-08-23 | [Async Rate Limiter Demo 20260823 022442](projects/async_rate_limiter_demo.py_20260823_022442.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns and throttling multiple concurrent tasks. |
 | 2026-08-22 | [Point In Polygon Ray Casting 20260822 174917](projects/point_in_polygon_ray_casting.py_20260822_174917.py) | Built a point-in-polygon detector using ray casting because I needed to check if coordinates fall inside arbitrary shapes without pulling in shapely or numpy. |
 | 2026-08-22 | [Wordfreq Cli 20260822 140937](projects/wordfreq_cli.py_20260822_140937.py) | Created a command-line tool to analyze text files and show word frequencies, with options to filter common words and sort by count or alphabetically. |
