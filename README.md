@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-23 | [Huffman Text Compressor 20260823 174853](projects/huffman_text_compressor.py_20260823_174853.py) | Implemented Huffman coding to actually see how much text compresses — builds the tree, encodes/decodes, and shows compression ratio. |
+| 2026-08-23 | [Naive Bayes Classifier 20260823 174918](projects/naive_bayes_classifier.py_20260823_174918.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic ML — calculates class probabilities using Bayes' theorem with normal distributions for continuous features. |
 | 2026-08-23 | [Huffman Text Compressor 20260823 141138](projects/huffman_text_compressor.py_20260823_141138.py) | Built a Huffman encoder to understand how lossless compression works — generates variable-length codes based on character frequency. |
 | 2026-08-23 | [Tcp Port Scanner 20260823 141207](projects/tcp_port_scanner.py_20260823_141207.py) | Wrote a port scanner that checks common services across a target host, using threading to speed things up and attempting to grab service banners when possible. |
 | 2026-08-23 | [Lru Cache Implementation 20260823 104648](projects/lru_cache_implementation.py_20260823_104648.py) | Built an LRU cache from scratch to understand how eviction policies work under the hood — uses a dict for lookups and a custom doubly linked list for recency tracking. |

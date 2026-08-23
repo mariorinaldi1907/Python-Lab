@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- implemented Huffman coding from scratch, encodes/decodes text with decent compression ratios
-- built a multithreaded TCP port scanner with timeout handling and banner grabbing
+- built a huffman coder from scratch, can compress text files and measure savings
+- implemented naive bayes from scratch, handles continuous features with gaussian distribution
