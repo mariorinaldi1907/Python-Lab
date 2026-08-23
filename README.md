@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-23 | [Lru Cache Implementation 20260823 104648](projects/lru_cache_implementation.py_20260823_104648.py) | Built an LRU cache from scratch to understand how eviction policies work under the hood — uses a dict for lookups and a custom doubly linked list for recency tracking. |
 | 2026-08-23 | [Async Port Scanner 20260823 072851](projects/async_port_scanner.py_20260823_072851.py) | Created a multithreaded port scanner that can quickly check common ports or custom ranges — helps me audit my local network and dev servers. |
 | 2026-08-23 | [Bayesian Ab Testing 20260823 044233](projects/bayesian_ab_testing.py_20260823_044233.py) | Implemented Bayesian A/B testing with beta-binomial conjugate priors because I wanted a more intuitive way to compare conversion rates than classical hypothesis testing. |
 | 2026-08-23 | [Async Rate Limiter Demo 20260823 022442](projects/async_rate_limiter_demo.py_20260823_022442.py) | Implemented a token bucket rate limiter using asyncio to explore concurrency patterns and throttling multiple concurrent tasks. |

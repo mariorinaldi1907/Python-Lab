@@ -1,1 +1,1 @@
-built a concurrent port scanner with threading, shows open services on any host
+implemented an LRU cache with O(1) operations using a hashmap + doubly linked list
