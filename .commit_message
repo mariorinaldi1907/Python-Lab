@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a markov chain text generator that actually preserves punctuation and capitalization
-- implemented an LRU cache with O(1) operations using hashmap + doubly linked list
+- built a markov chain text generator that actually produces readable output, tracks n-gram transitions with adjustable chain order
+- built a bayesian A/B test calculator with beta distributions, way cleaner than frequentist p-values
