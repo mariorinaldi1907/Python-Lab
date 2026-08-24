@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-24 | [Lru Cache Implementation 20260824 105953](projects/lru_cache_implementation.py_20260824_105953.py) | Built an LRU cache from scratch using a hashmap and doubly linked list because I wanted to understand how the @lru_cache decorator actually works under the hood. |
+| 2026-08-24 | [Port Scanner With Service Detection 20260824 110017](projects/port_scanner_with_service_detection.py_20260824_110017.py) | Created a concurrent port scanner that checks common ports and attempts to grab service banners — helps me quickly audit my local network. |
 | 2026-08-24 | [Markov Text Generator 20260824 075328](projects/markov_text_generator.py_20260824_075328.py) | Implemented a configurable Markov chain generator to procedurally create text from source material — wanted something that could mimic writing styles for fun. |
 | 2026-08-24 | [Bayesian Ab Tester 20260824 075402](projects/bayesian_ab_tester.py_20260824_075402.py) | Implemented a Bayesian A/B testing framework using conjugate priors to compare conversion rates and make actual probability statements about which variant is better. |
 | 2026-08-24 | [Markov Text Generator 20260824 045138](projects/markov_text_generator.py_20260824_045138.py) | Created a Markov chain text generator that feels more natural by tracking sentence boundaries and preserving original word casing instead of just lowercasing everything. |

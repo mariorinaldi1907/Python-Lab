@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a markov chain text generator that actually produces readable output, tracks n-gram transitions with adjustable chain order
-- built a bayesian A/B test calculator with beta distributions, way cleaner than frequentist p-values
+- implemented LRU cache with dict + doubly linked list, O(1) get/put operations
+- built a multi-threaded port scanner with basic service detection and timeout handling
