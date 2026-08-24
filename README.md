@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-24 | [Convex Hull Gift Wrapping 20260824 143012](projects/convex_hull_gift_wrapping.py_20260824_143012.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to understand how computational geometry works without heavy dependencies. |
+| 2026-08-24 | [Forest Fire Simulation 20260824 143038](projects/forest_fire_simulation.py_20260824_143038.py) | Simulated forest fires spreading through a grid where trees grow, burn, and leave empty spaces — uses simple probabilistic rules and runs in the terminal. |
 | 2026-08-24 | [Lru Cache Implementation 20260824 105953](projects/lru_cache_implementation.py_20260824_105953.py) | Built an LRU cache from scratch using a hashmap and doubly linked list because I wanted to understand how the @lru_cache decorator actually works under the hood. |
 | 2026-08-24 | [Port Scanner With Service Detection 20260824 110017](projects/port_scanner_with_service_detection.py_20260824_110017.py) | Created a concurrent port scanner that checks common ports and attempts to grab service banners — helps me quickly audit my local network. |
 | 2026-08-24 | [Markov Text Generator 20260824 075328](projects/markov_text_generator.py_20260824_075328.py) | Implemented a configurable Markov chain generator to procedurally create text from source material — wanted something that could mimic writing styles for fun. |
