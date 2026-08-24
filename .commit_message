@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented gift wrapping algorithm for convex hull, added visualization with ASCII art output
-- built a forest fire sim with cellular automaton rules, fun to watch forests burn and regrow
+built a modular arithmetic toolkit with fast exponentiation, CRT solver, and multiplicative inverse — needed this for some cryptography experiments
