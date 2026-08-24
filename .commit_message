@@ -1,1 +1,4 @@
-built a huffman encoder/decoder from scratch, handles arbitrary text and shows compression ratios
+added 2 new scripts
+
+- built a markov chain text generator that actually preserves punctuation and capitalization
+- implemented an LRU cache with O(1) operations using hashmap + doubly linked list

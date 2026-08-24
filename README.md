@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-24 | [Markov Text Generator 20260824 045138](projects/markov_text_generator.py_20260824_045138.py) | Created a Markov chain text generator that feels more natural by tracking sentence boundaries and preserving original word casing instead of just lowercasing everything. |
+| 2026-08-24 | [Lru Cache Implementation 20260824 045203](projects/lru_cache_implementation.py_20260824_045203.py) | Built an LRU cache from scratch to understand how dict ordering and capacity eviction actually work under the hood. |
 | 2026-08-24 | [Huffman Text Compressor 20260824 022345](projects/huffman_text_compressor.py_20260824_022345.py) | Implemented Huffman coding with a priority queue to compress text files — wanted to see how much I could squeeze out of natural language patterns. |
 | 2026-08-23 | [Huffman Text Compressor 20260823 174853](projects/huffman_text_compressor.py_20260823_174853.py) | Implemented Huffman coding to actually see how much text compresses — builds the tree, encodes/decodes, and shows compression ratio. |
 | 2026-08-23 | [Naive Bayes Classifier 20260823 174918](projects/naive_bayes_classifier.py_20260823_174918.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic ML — calculates class probabilities using Bayes' theorem with normal distributions for continuous features. |
