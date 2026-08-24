@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a huffman coder from scratch, can compress text files and measure savings
-- implemented naive bayes from scratch, handles continuous features with gaussian distribution
+built a huffman encoder/decoder from scratch, handles arbitrary text and shows compression ratios

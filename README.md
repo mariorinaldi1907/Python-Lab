@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-24 | [Huffman Text Compressor 20260824 022345](projects/huffman_text_compressor.py_20260824_022345.py) | Implemented Huffman coding with a priority queue to compress text files — wanted to see how much I could squeeze out of natural language patterns. |
 | 2026-08-23 | [Huffman Text Compressor 20260823 174853](projects/huffman_text_compressor.py_20260823_174853.py) | Implemented Huffman coding to actually see how much text compresses — builds the tree, encodes/decodes, and shows compression ratio. |
 | 2026-08-23 | [Naive Bayes Classifier 20260823 174918](projects/naive_bayes_classifier.py_20260823_174918.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic ML — calculates class probabilities using Bayes' theorem with normal distributions for continuous features. |
 | 2026-08-23 | [Huffman Text Compressor 20260823 141138](projects/huffman_text_compressor.py_20260823_141138.py) | Built a Huffman encoder to understand how lossless compression works — generates variable-length codes based on character frequency. |
