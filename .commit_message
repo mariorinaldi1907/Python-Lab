@@ -1,1 +1,1 @@
-built a word frequency CLI tool with regex tokenization and pretty-printed top N results
+built a huffman encoder from scratch, handles text compression with frequency trees and bit packing
