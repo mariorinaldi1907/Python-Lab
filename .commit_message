@@ -1,1 +1,1 @@
-built a huffman encoder from scratch, handles text compression with frequency trees and bit packing
+built a lazy evaluation pipeline with memoization - really useful for chaining data transformations without wasting memory
