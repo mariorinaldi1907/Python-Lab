@@ -1,1 +1,1 @@
-built a modular arithmetic toolkit with fast exponentiation, CRT solver, and multiplicative inverse — needed this for some cryptography experiments
+implemented Floyd-Warshall for all-pairs shortest paths, handles negative weights and detects cycles

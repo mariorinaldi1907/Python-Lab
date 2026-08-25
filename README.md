@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-25 | [Floyd Warshall All Pairs Shortest Path 20260825 021903](projects/floyd_warshall_all_pairs_shortest_path.py_20260825_021903.py) | Built Floyd-Warshall to compute shortest paths between all node pairs — needed this for a graph analysis side project and wanted cycle detection too. |
 | 2026-08-24 | [Modular Arithmetic Toolkit 20260824 175930](projects/modular_arithmetic_toolkit.py_20260824_175930.py) | Created a collection of modular arithmetic functions I keep reusing for number theory problems and crypto toy projects. |
 | 2026-08-24 | [Convex Hull Gift Wrapping 20260824 143012](projects/convex_hull_gift_wrapping.py_20260824_143012.py) | Built a convex hull finder using the gift wrapping algorithm because I wanted to understand how computational geometry works without heavy dependencies. |
 | 2026-08-24 | [Forest Fire Simulation 20260824 143038](projects/forest_fire_simulation.py_20260824_143038.py) | Simulated forest fires spreading through a grid where trees grow, burn, and leave empty spaces — uses simple probabilistic rules and runs in the terminal. |
