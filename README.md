@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-25 | [Word Frequency Analyzer 20260825 073929](projects/word_frequency_analyzer.py_20260825_073929.py) | Created a command-line word frequency counter that handles file input or stdin, filters stopwords, and outputs clean ranked results — useful for analyzing text dumps. |
 | 2026-08-25 | [Pollard Rho Factorization 20260825 044415](projects/pollard_rho_factorization.py_20260825_044415.py) | Built a complete integer factorization toolkit using Pollard's rho algorithm paired with Miller-Rabin primality testing — wanted something faster than trial division for my Project Euler solutions. |
 | 2026-08-25 | [Port Scanner With Service Detection 20260825 044440](projects/port_scanner_with_service_detection.py_20260825_044440.py) | Made a multi-threaded port scanner that probes common ports and attempts basic service fingerprinting by analyzing response banners. |
 | 2026-08-25 | [Floyd Warshall All Pairs Shortest Path 20260825 021903](projects/floyd_warshall_all_pairs_shortest_path.py_20260825_021903.py) | Built Floyd-Warshall to compute shortest paths between all node pairs — needed this for a graph analysis side project and wanted cycle detection too. |

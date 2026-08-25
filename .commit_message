@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- implemented Pollard's rho factorization with Miller-Rabin primality testing, handles large composites efficiently
-- built a simple port scanner with basic service detection - checks common ports and tries to identify what's running
+built a word frequency CLI tool with regex tokenization and pretty-printed top N results
