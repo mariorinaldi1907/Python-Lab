@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-26 | [Simple Expression Evaluator 20260826 105813](projects/simple_expression_evaluator.py_20260826_105813.py) | Wrote an expression evaluator that parses and computes arithmetic expressions with proper operator precedence — something I always wanted to understand deeply. |
 | 2026-08-26 | [K Means Clustering Scratch 20260826 044528](projects/k_means_clustering_scratch.py_20260826_044528.py) | Implemented k-means clustering without any ML libraries to really understand how the Lloyd's algorithm works under the hood. |
 | 2026-08-25 | [Lazy Pipeline Utils 20260825 175759](projects/lazy_pipeline_utils.py_20260825_175759.py) | Created a functional pipeline system that lazily evaluates transformations and caches results, makes it super clean to compose operations on iterables. |
 | 2026-08-25 | [Huffman Text Compressor 20260825 105716](projects/huffman_text_compressor.py_20260825_105716.py) | Implemented Huffman coding to compress text files — constructs the tree from character frequencies and packs encoded bits into bytes. |

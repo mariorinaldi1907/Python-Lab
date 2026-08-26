@@ -1,1 +1,1 @@
-built k-means from scratch with smart centroid initialization, tested on synthetic 2D blobs
+built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly
