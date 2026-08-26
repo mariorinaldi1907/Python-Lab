@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-26 | [Tarjans Scc Finder 20260826 143229](projects/tarjans_scc_finder.py_20260826_143229.py) | Built Tarjan's algorithm to find strongly connected components in directed graphs — uses DFS with low-link values to detect cycles and component boundaries in one pass. |
 | 2026-08-26 | [Simple Expression Evaluator 20260826 105813](projects/simple_expression_evaluator.py_20260826_105813.py) | Wrote an expression evaluator that parses and computes arithmetic expressions with proper operator precedence — something I always wanted to understand deeply. |
 | 2026-08-26 | [K Means Clustering Scratch 20260826 044528](projects/k_means_clustering_scratch.py_20260826_044528.py) | Implemented k-means clustering without any ML libraries to really understand how the Lloyd's algorithm works under the hood. |
 | 2026-08-25 | [Lazy Pipeline Utils 20260825 175759](projects/lazy_pipeline_utils.py_20260825_175759.py) | Created a functional pipeline system that lazily evaluates transformations and caches results, makes it super clean to compose operations on iterables. |

@@ -1,1 +1,1 @@
-built a recursive descent parser for basic math expressions, handles precedence and parentheses correctly
+implemented Tarjan's algorithm for finding strongly connected components, been wanting to build this since I learned about it in algorithms class
