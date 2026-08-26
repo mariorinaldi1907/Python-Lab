@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-26 | [K Means Clustering Scratch 20260826 044528](projects/k_means_clustering_scratch.py_20260826_044528.py) | Implemented k-means clustering without any ML libraries to really understand how the Lloyd's algorithm works under the hood. |
 | 2026-08-25 | [Lazy Pipeline Utils 20260825 175759](projects/lazy_pipeline_utils.py_20260825_175759.py) | Created a functional pipeline system that lazily evaluates transformations and caches results, makes it super clean to compose operations on iterables. |
 | 2026-08-25 | [Huffman Text Compressor 20260825 105716](projects/huffman_text_compressor.py_20260825_105716.py) | Implemented Huffman coding to compress text files — constructs the tree from character frequencies and packs encoded bits into bytes. |
 | 2026-08-25 | [Word Frequency Analyzer 20260825 073929](projects/word_frequency_analyzer.py_20260825_073929.py) | Created a command-line word frequency counter that handles file input or stdin, filters stopwords, and outputs clean ranked results — useful for analyzing text dumps. |
