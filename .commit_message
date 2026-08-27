@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a word frequency CLI that handles stopwords and outputs pretty tables or JSON
-- implemented command pattern for a macro recorder that can undo/redo actions and save macros to disk
+built k-nearest neighbors classifier from scratch, tested on iris-like synthetic data

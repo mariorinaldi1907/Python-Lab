@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-27 | [Knn Classifier From Scratch 20260827 203746](projects/knn_classifier_from_scratch.py_20260827_203746.py) | Implemented a k-NN classifier without any ML libraries to really understand the distance calculations and voting mechanism under the hood. |
 | 2026-08-27 | [Word Frequency Analyzer 20260827 180248](projects/word_frequency_analyzer.py_20260827_180248.py) | Made a command-line tool to analyze text files and show word frequencies with optional stopword filtering — useful for quick content analysis. |
 | 2026-08-27 | [Command Pattern Macro Recorder 20260827 180314](projects/command_pattern_macro_recorder.py_20260827_180314.py) | Built a command pattern implementation that records user actions as reversible commands — useful for building undo/redo functionality in apps. |
 | 2026-08-27 | [Modular Arithmetic Toolkit 20260827 150520](projects/modular_arithmetic_toolkit.py_20260827_150520.py) | Created a collection of number theory functions I keep reusing: modular exponentiation, extended GCD, modular inverse, and a Chinese Remainder Theorem solver. |
