@@ -1,0 +1,17 @@
+[
+  {
+    "type": "insert",
+    "text": "Hello",
+    "position": 0
+  },
+  {
+    "type": "insert",
+    "text": " World",
+    "position": 5
+  },
+  {
+    "type": "delete",
+    "start": 5,
+    "length": 6
+  }
+]

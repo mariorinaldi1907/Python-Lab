@@ -1,1 +1,4 @@
-built a modular arithmetic toolkit with fast exponentiation and CRT solver — useful for competitive programming stuff
+added 2 new scripts
+
+- built a word frequency CLI that handles stopwords and outputs pretty tables or JSON
+- implemented command pattern for a macro recorder that can undo/redo actions and save macros to disk

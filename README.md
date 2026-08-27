@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-27 | [Word Frequency Analyzer 20260827 180248](projects/word_frequency_analyzer.py_20260827_180248.py) | Made a command-line tool to analyze text files and show word frequencies with optional stopword filtering — useful for quick content analysis. |
+| 2026-08-27 | [Command Pattern Macro Recorder 20260827 180314](projects/command_pattern_macro_recorder.py_20260827_180314.py) | Built a command pattern implementation that records user actions as reversible commands — useful for building undo/redo functionality in apps. |
 | 2026-08-27 | [Modular Arithmetic Toolkit 20260827 150520](projects/modular_arithmetic_toolkit.py_20260827_150520.py) | Created a collection of number theory functions I keep reusing: modular exponentiation, extended GCD, modular inverse, and a Chinese Remainder Theorem solver. |
 | 2026-08-27 | [Naive Bayes Classifier 20260827 110027](projects/naive_bayes_classifier.py_20260827_110027.py) | Built a Gaussian Naive Bayes classifier to understand probabilistic ML — handles continuous features and includes prior probability estimation. |
 | 2026-08-26 | [Tarjans Scc Finder 20260826 143229](projects/tarjans_scc_finder.py_20260826_143229.py) | Built Tarjan's algorithm to find strongly connected components in directed graphs — uses DFS with low-link values to detect cycles and component boundaries in one pass. |
