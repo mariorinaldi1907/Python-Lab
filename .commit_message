@@ -1,1 +1,1 @@
-implemented LRU cache from scratch using doubly-linked list and hashmap, handles evictions properly
+implemented point-in-polygon using ray casting, handles edge cases and added a nice demo with different polygon shapes
