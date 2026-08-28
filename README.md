@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-28 | [Lru Cache Implementation 20260828 191233](projects/lru_cache_implementation.py_20260828_191233.py) | Built an LRU cache with O(1) get/put operations to really understand how caching works under the hood — uses a doubly-linked list to track recency. |
 | 2026-08-28 | [Modular Arithmetic Toolkit 20260828 162853](projects/modular_arithmetic_toolkit.py_20260828_162853.py) | Created a collection of modular arithmetic functions I've been wanting for Project Euler problems, handles cryptographic-sized integers efficiently. |
 | 2026-08-28 | [Bellman Ford Shortest Path 20260828 123452](projects/bellman_ford_shortest_path.py_20260828_123452.py) | Built a Bellman-Ford implementation because I needed something that works with negative edge weights and tells me when there's a negative cycle. |
 | 2026-08-27 | [Knn Classifier From Scratch 20260827 203746](projects/knn_classifier_from_scratch.py_20260827_203746.py) | Implemented a k-NN classifier without any ML libraries to really understand the distance calculations and voting mechanism under the hood. |
