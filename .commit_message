@@ -1,1 +1,1 @@
-implemented Bellman-Ford for shortest paths, detects negative cycles which Dijkstra can't handle
+built a modular arithmetic toolkit with fast exponentiation, extended gcd, and modular inverse — works with huge numbers
