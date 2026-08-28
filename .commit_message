@@ -1,1 +1,1 @@
-built k-nearest neighbors classifier from scratch, tested on iris-like synthetic data
+implemented Bellman-Ford for shortest paths, detects negative cycles which Dijkstra can't handle
