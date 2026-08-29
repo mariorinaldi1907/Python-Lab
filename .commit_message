@@ -1,1 +1,4 @@
-implemented KMP string matching because I got tired of explaining how prefix tables work
+added 2 new scripts
+
+- built a lazy evaluation pipeline system with currying and memoization — chains transformations without computing until needed
+- built a modular arithmetic toolkit with fast exponentiation and CRT solver — useful for competitive programming warmups
