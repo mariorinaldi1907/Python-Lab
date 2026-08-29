@@ -1,4 +1,1 @@
-added 2 new scripts
-
-- built a word frequency CLI tool that reads files/stdin and outputs sorted word counts with filtering options
-- built a lazy evaluation pipeline with memoization — chains transformations without computing until needed
+implemented KMP string matching because I got tired of explaining how prefix tables work
