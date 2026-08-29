@@ -1,1 +1,1 @@
-implemented naive bayes from scratch with laplace smoothing, tested on text classification
+built a word ladder solver using BFS — finds shortest transformation path between words

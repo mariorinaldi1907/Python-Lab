@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-29 | [Word Ladder Solver 20260829 172559](projects/word_ladder_solver.py_20260829_172559.py) | Created a tool that finds the shortest chain of single-letter transformations between two words, like a mini word puzzle solver I can actually use for fun. |
 | 2026-08-29 | [Naive Bayes Classifier 20260829 150914](projects/naive_bayes_classifier.py_20260829_150914.py) | Built a Naive Bayes classifier to understand probabilistic ML better — handles categorical features and includes smoothing to avoid zero probabilities. |
 | 2026-08-29 | [Lazy Pipeline 20260829 125553](projects/lazy_pipeline.py_20260829_125553.py) | Created a functional programming toolkit that combines lazy evaluation, function composition, currying, and automatic memoization into a fluent pipeline API. |
 | 2026-08-29 | [Modular Arithmetic Toolkit 20260829 125622](projects/modular_arithmetic_toolkit.py_20260829_125622.py) | Created a collection of modular arithmetic functions I keep reusing in Project Euler problems, including modular exponentiation, multiplicative inverse, and Chinese Remainder Theorem solver. |
