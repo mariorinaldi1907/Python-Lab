@@ -1,1 +1,1 @@
-built a lazy evaluation pipeline with composable transformations — finally got around to making data processing feel functional
+built a bayesian A/B test analyzer because frequentist p-values always felt too binary for my taste

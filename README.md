@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-30 | [Bayesian Ab Tester 20260830 123124](projects/bayesian_ab_tester.py_20260830_123124.py) | Created a Bayesian A/B testing tool with conjugate priors that gives me actual probability distributions instead of just reject/don't reject decisions. |
 | 2026-08-30 | [Lazy Pipeline 20260830 095128](projects/lazy_pipeline.py_20260830_095128.py) | Created a lazy pipeline system that chains transformations without evaluating until needed, inspired by how Clojure handles sequences. |
 | 2026-08-30 | [Async Rate Limiter Demo 20260830 062019](projects/async_rate_limiter_demo.py_20260830_062019.py) | Implemented a token bucket rate limiter using asyncio to demonstrate how concurrent tasks can share bandwidth while staying under a rate cap. |
 | 2026-08-29 | [Word Ladder Solver 20260829 172559](projects/word_ladder_solver.py_20260829_172559.py) | Created a tool that finds the shortest chain of single-letter transformations between two words, like a mini word puzzle solver I can actually use for fun. |
