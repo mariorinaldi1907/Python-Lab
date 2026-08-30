@@ -1,1 +1,1 @@
-built a word ladder solver using BFS — finds shortest transformation path between words
+built an async rate limiter with token bucket algorithm, lets multiple workers respect shared throughput limits
