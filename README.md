@@ -15,6 +15,7 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-30 | [Floyd Warshall All Pairs Shortest Path 20260830 195908](projects/floyd_warshall_all_pairs_shortest_path.py_20260830_195908.py) | Built Floyd-Warshall from scratch to find shortest paths between all vertex pairs — threw in actual path reconstruction since that's the useful part anyway. |
 | 2026-08-30 | [Rpn Calculator 20260830 145441](projects/rpn_calculator.py_20260830_145441.py) | Implemented a reverse Polish notation calculator that supports arithmetic, variables, and stack manipulation — been wanting to build one of these for a while. |
 | 2026-08-30 | [Bayesian Ab Tester 20260830 123124](projects/bayesian_ab_tester.py_20260830_123124.py) | Created a Bayesian A/B testing tool with conjugate priors that gives me actual probability distributions instead of just reject/don't reject decisions. |
 | 2026-08-30 | [Lazy Pipeline 20260830 095128](projects/lazy_pipeline.py_20260830_095128.py) | Created a lazy pipeline system that chains transformations without evaluating until needed, inspired by how Clojure handles sequences. |
