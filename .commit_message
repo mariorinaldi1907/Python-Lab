@@ -1,1 +1,1 @@
-built an async rate limiter with token bucket algorithm, lets multiple workers respect shared throughput limits
+built a lazy evaluation pipeline with composable transformations — finally got around to making data processing feel functional
