@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-31 | [Json Schema Validator 20260831 064808](projects/json_schema_validator.py_20260831_064808.py) | Created a JSON schema validator from scratch to validate API responses and config files in my projects without pulling in heavy libraries. |
+| 2026-08-31 | [Huffman Text Compressor 20260831 064834](projects/huffman_text_compressor.py_20260831_064834.py) | Implemented Huffman encoding to see how much I could compress text files — builds the tree, generates codes, and can decode back to original. |
 | 2026-08-30 | [Floyd Warshall All Pairs Shortest Path 20260830 195908](projects/floyd_warshall_all_pairs_shortest_path.py_20260830_195908.py) | Built Floyd-Warshall from scratch to find shortest paths between all vertex pairs — threw in actual path reconstruction since that's the useful part anyway. |
 | 2026-08-30 | [Rpn Calculator 20260830 145441](projects/rpn_calculator.py_20260830_145441.py) | Implemented a reverse Polish notation calculator that supports arithmetic, variables, and stack manipulation — been wanting to build one of these for a while. |
 | 2026-08-30 | [Bayesian Ab Tester 20260830 123124](projects/bayesian_ab_tester.py_20260830_123124.py) | Created a Bayesian A/B testing tool with conjugate priors that gives me actual probability distributions instead of just reject/don't reject decisions. |

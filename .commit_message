@@ -1,1 +1,4 @@
-implemented Floyd-Warshall for all-pairs shortest paths, added path reconstruction because why stop at distances
+added 2 new scripts
+
+- built a lightweight JSON schema validator that checks types, required fields, and nested objects without any dependencies
+- built a Huffman coding compressor from scratch, encodes/decodes text with frequency-based binary trees
