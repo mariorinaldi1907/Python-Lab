@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a huffman encoder/decoder from scratch, handles arbitrary text and shows the compression ratio
-- built an apache/nginx log parser that extracts metrics and detects suspicious patterns
+- built a bayesian A/B test analyzer with beta distributions, way cleaner than frequentist p-values
+- built a concurrent port scanner with threading — scans common ports way faster than sequential

@@ -15,6 +15,8 @@ A collection of Python projects I've been building — spanning algorithms, data
 
 | Date | Project | What I built & why |
 |------|---------|-------------------|
+| 2026-08-31 | [Bayesian Ab Test Analyzer 20260831 144606](projects/bayesian_ab_test_analyzer.py_20260831_144606.py) | Created a Bayesian A/B testing tool that uses beta distributions to calculate probabilities and credible intervals — much more intuitive than traditional hypothesis testing. |
+| 2026-08-31 | [Async Port Scanner 20260831 144628](projects/async_port_scanner.py_20260831_144628.py) | Wrote a multi-threaded port scanner that checks common services on a target host, because I got tired of waiting for nmap when I just want quick results. |
 | 2026-08-31 | [Huffman Text Compressor 20260831 104308](projects/huffman_text_compressor.py_20260831_104308.py) | Implemented Huffman coding to compress text files — wanted to see how much space I could actually save on repetitive data. |
 | 2026-08-31 | [Apache Log Parser 20260831 104341](projects/apache_log_parser.py_20260831_104341.py) | Wrote a quick log parser to analyze web server access logs — counts status codes, finds slow requests, and flags potential bot traffic. |
 | 2026-08-31 | [Json Schema Validator 20260831 064808](projects/json_schema_validator.py_20260831_064808.py) | Created a JSON schema validator from scratch to validate API responses and config files in my projects without pulling in heavy libraries. |
