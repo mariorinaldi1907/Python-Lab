@@ -1,4 +1,4 @@
 added 2 new scripts
 
-- built a lightweight JSON schema validator that checks types, required fields, and nested objects without any dependencies
-- built a Huffman coding compressor from scratch, encodes/decodes text with frequency-based binary trees
+- built a huffman encoder/decoder from scratch, handles arbitrary text and shows the compression ratio
+- built an apache/nginx log parser that extracts metrics and detects suspicious patterns
